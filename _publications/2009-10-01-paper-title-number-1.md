@@ -1,7 +1,7 @@
 ---
-title: "aaa"
-collection: aaa
-permalink: /publication/2009-10-01-paper-title-number-1
+title: "Papers"
+collection: papers
+permalink: /papers/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'IEEE Transactions on Neural Network and Learning Systems.'
