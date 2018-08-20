@@ -9,23 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+GPA
+======
+90+
+
+TOEFL
+======
+100+
+
+GRE
+======
+325+
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Undergraduate student of Xu Teli Elite Class, major in automation, Beijing Institute of Technology, 2015-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2017 - present: Research assistant
+  * Beijing Institute of Technology
+  * Duties included: Artificial intelligence and control theory
+  * Supervisor: Professor Yuanqing Xia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2018 - present: Co-founder and technical consultant
+  * Aifore Company
+  * Duties included: Intelligent algorithm design and team management
   
 Skills
 ======
