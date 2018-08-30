@@ -24,6 +24,7 @@ During the freshman year, students of Xu Teli College are required to complete t
 During the sophomore year, students who "survive" in the freshman year can enter into the study of sophomore year, where they can choose their interesting fields ranging from fundamental science to engineering science. During this year, they need to study fundamental courses of their interesing fields. They are also required to finish their study of academic English (4 semestars, 16 points total). 
 
 During the junior year, fortunate "survivors" of the second year can gain admission to their interesting laboratories of their fields  (or relevant fields) and start their academic careers! Meanwhile, they are required to accomplish both advanced cources of their major fields and the selected courses related to their academic researches or arranged by their mentors.
+
 Finally, during the senior year, students who still stay at Xu Teli College can obtain their PHD admission directly in their interesting laboratories. Or they can choose to give up and apply graduate programs of other universities.
 
 
