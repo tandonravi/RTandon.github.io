@@ -15,7 +15,7 @@ I am an undergraduate student of Xu Teli Elite Class (or Xu Teli College), Beiji
 Besides, I am also a co-founder of Aifore, a health science and technology company established by a group of undergraduate students from China. Aifore aims at employing cutting-edge technology of artifical intelligence and data science to help people reduce the risk of suffering from type-II diabetes in daily life. We hope that one day, everyone can embrace a healthy lifestyle and enjoy a happy life.
 
 
-Brief introduction of Xu Teli Class
+Brief Introduction of Xu Teli Class
 ===================================
 Students in Xu Teli College can pursue their PHD careers at BIT directly after undergraduate education, if and only if they keep working hard and never fail in any courses. Otherwise, they will be ruled out of Xu Teli College. 
 
