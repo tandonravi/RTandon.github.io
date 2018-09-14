@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: "Research Experiences"
-permalink: /portfolio/
+permalink: /researches/
 author_profile: true
 redirect_from:
   - /researches
