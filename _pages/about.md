@@ -23,31 +23,31 @@ Grades
 Education
 =========
 * Xu Teli Elite Class, BIT, 09/2015-Present
- * Study in the XuTeli Elite Class, and major in Automation.
- * GPA: 92.31/100 (4.0/4.0), Ranking: Top1
- * GRE: 327 (V:157, Q:170, AW:3.5) 
- * TOEFL: 105 (R:30, L:27, S:22, W:26)
+  * Study in the XuTeli Elite Class, and major in Automation.
+  * GPA: 92.31/100 (4.0/4.0), Ranking: Top1
+  * GRE: 327 (V:157, Q:170, AW:3.5) 
+  * TOEFL: 105 (R:30, L:27, S:22, W:26)
 
 * Summer School, UC Berkeley, 06/2017-08/2017
- * Completed two courses, and experienced the intense and engaged learning style
+  * Completed two courses, and experienced the intense and engaged learning style
 
 Research Experience
 ===================
 * 01/2017 - present: Research assistant
-  * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
-  * Research interests: deep learning, deep reinforcement learning, mobile crowdsensing and control theory
-  * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao)
+   * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
+   * Research interests: deep learning, deep reinforcement learning, mobile crowdsensing and control theory
+   * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao)
   
 * 08/2018-10/2018: Visiting student
- * Department of Computer Science, ETH Zurich, 
- * Research interests: deep learning and software testing
- * Supervisor: Prof. [Zhendong Su](https://scholar.google.com/citations?user=RivxoIcAAAAJ&hl=zh-CN&oi=ao)
+  * Department of Computer Science, ETH Zurich, 
+  * Research interests: deep learning and software testing
+  * Supervisor: Prof. [Zhendong Su](https://scholar.google.com/citations?user=RivxoIcAAAAJ&hl=zh-CN&oi=ao)
 
 Work experience
 ===============
 * 08/2016 - 06/2017: Director of Study Department
- * Student Union of Xu Teli College
- * Duties included: Manage daily routines related to study and technical activities
+  * Student Union of Xu Teli College
+  * Duties included: Manage daily routines related to study and technical activities
 
 * 03/2018 - present: Co-founder
   * Aifore Company
@@ -58,11 +58,22 @@ Skills
 * Programming language: C, C++, Matlab, Python, Scala.
 * Development environment or tools: Tensorflow, Keras, Ubuntu, Spark.
 
-Submitted Papers (under review or revision)
+Papers
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jiang Zhang, Yuanqing Xia, Ganghui Shen. A Novel Deep Neural Network Architecture for
+Mars Visual Navigation. (Preprint: [https://arxiv.org/abs/1808.08395](https://arxiv.org/abs/1808.08395).)
+* Xiao Pan, Yuanqing Xia, Ganghui Shen, Jiang Zhang. A Study on Image Feature Extraction and Matching in Mars Visual Navigation [J]. Advances in Space Research. (Submitted in 31/07/2018)
+* Yuanqing Xia, Ganghui Shen, Xiao Pan, Jiang Zhang. The GNC Scheme for Mars Entry, Descent and Landing process -- 7 minutes of terror [M]. Chapter 8: Research on Martian Visual Navigation during Landing Phase. Science Press Publisher, 2018. (Accepted, coming soon)
+* Yufeng Zhan, Jiang Zhang, Chi Harold Liu. An Incentive Mechanism Design for Multi-Leader Multi-Follower Mobile Crowdsensing: A Deep Reinforcement Learning Approach [C]. IEEE INFOCOM’2019. (Submitted, 2018)
+* Yufeng Zhan, Chi Harold Liu, Yinuo Zhao, Jiang Zhang. Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning [J]. IEEE Transactions on Mobile Computing. (Submitted, 2018)
+* Yufeng Zhan, Yuanqing Xia, Jiang Zhang, Ting Li, Yu Wang. Crowdsensing Game with Demand Uncertainties: A Deep Reinforcement Learning Approach [J]. IEEE Transactions onWireless Communications. (Under revision, 2018)
+
+Patterns
+========
+* Jiang Zhang, Yu Wang, Jingxin Zhang. Intelligent Medical Cloud System [P]. (Submitted)
+* Qi Liu, Jiang Zhang, Dengkai Zhang, Xingyu Zhou, Xin Zhou. A Two-dimensional Spherical Stability Evaluation Experimental Platform [P]. (Submitted)
+* Jiang Zhang, Yu Wang, Xingyu Lin. A Method and Device for Determining the Improved
+Model of Health Indicators [P]. (Submitted)
 
 Awards and Honors
 =================
