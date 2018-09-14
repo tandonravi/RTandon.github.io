@@ -1,13 +1,14 @@
 
 ---
-permalink: /portfolio/
+layout: archive
 title: "Research Experiences"
+permalink: /portfolio/
 author_profile: true
-redirect_from: 
-  - /portfolio/
-  - /portfolio.html
+redirect_from:
+  - /researches
 ---
 
+{% include base_path %}
 
 {% include base_path %}
 
