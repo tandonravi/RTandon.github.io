@@ -8,76 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
+CV
+==
+[Download](http://academicpages.github.io/files/cv.pdf)
 
-GPA
-======
-92.31/100 (rank: top 1)
+Brief Introduction of Xu Teli Class
+===================================
+Students in Xu Teli College can pursue their PHD careers at BIT directly after undergraduate education, if and only if they keep working hard and never fail in any courses. Otherwise, they will be ruled out of Xu Teli College. 
 
-TOEFL
-======
-105 (R:30, L:27, S:22, W:26)
+During the freshman year, students of Xu Teli College are required to complete the study of main courses from Mathematics College, Physic College and Computer Science College, such as mathematical analysis, advanced algebra, analytic geometry, differential equation theory, general physics, C programming language, etc. 
 
-GRE
-======
-327 (V:157, Q:170, AW:3.5)
+During the sophomore year, students who "survive" in the freshman year can enter into the study of sophomore year, where they can choose their interesting fields ranging from fundamental science to engineering science. During this year, they need to study fundamental courses of their interesing fields. They are also required to finish their study of academic English (4 semestars, 16 points total). 
 
-Education
-=========
-* Undergraduate student of Xu Teli Elite Class, major in automation, Beijing Institute of Technology, 09/2015-present
-* Summer school at Berkeley, University of California, 06/2017-08/2017
-* Visiting student at Department of Computer Science, ETH Zurich, 08/2018-present
+During the junior year, fortunate "survivors" of the second year can gain admission to their interesting laboratories of their fields  (or relevant fields) and start their academic careers! Meanwhile, they are required to accomplish both advanced cources of their major fields and the selected courses related to their academic researches or arranged by their mentors.
 
-Research Experience
-===================
-* 01/2017 - present: Research assistant
-  * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
-  * Research interests: deep learning, deep reinforcement learning, mobile crowdsensing and control theory
-  * Supervisor: Professor Yuanqing Xia
-  
-
-Work experience
-===============
-* 03/2018 - present: Co-founder
-  * Aifore Company
-  * Duties included: Intelligent algorithm design and team management
-  
-Skills
-======
-* Programming language: C, C++, Matlab, Python, Scala.
-* Development environment or tools: Tensorflow, Keras, Ubuntu, Spark.
-
-Papers (under review)
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Awards and Honors
-=================
-* Grand Prize of the “Century Cup” Innovation Competition at BIT (top 2), 2018
-* First Prize of the “Century Cup” Innovation Competition at BIT (top 10%, twice), 2018
-* “Huixian” Academic Scholarship of XuTeli College at BIT (top 5), 2018
-* Meritorious Winner of the MCM (top 9%, global), 2017
-* First Scholarship of BIT (five semesters, top 10%), 2015-2018
-* First Prize of the “CCTV Founder Show” College Student Innovation and Entrepreneurship Contest in Beijing (top 10%), 2017
-* First Prize of the China Undergraduate Mathematical Contest in Modeling (Non Mathematical Speciality, rank 20 in Beijing), 2016
-* National Scholarship (top 5%), 2016
-* University Big Data Innovative Competition of Beijing (rank 9/141), 2016
-* Second Prize of the China Undergraduate Mathematical Contest in Modeling (top 30%), 2016
-* Second Prize of the China Undergraduate Physics Tournament (top 30%), 2016
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Finally, during the senior year, students who still stay at Xu Teli College can obtain their PHD admission directly in their interesting laboratories. Or they can choose to give up and apply graduate programs of other universities.
