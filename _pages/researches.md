@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Vision-based Planetary Path Planning Algorithm 
+Project 1: Vision-based Planetary Path Planning Algorithm 
 ============================================
 * Belongs to “Research on Navigation and Guidance Control of Precise Landing on Planetary Surface”, 973 National Basic Research Program of China
 * Worked as the main researcher of this sub-project
@@ -26,9 +26,9 @@ Vision-based Planetary Path Planning Algorithm
 <div align="center">
 <img src="/images/Mars/Result.png">
 </div>
-</br>
+<br/>
 
-Learning-based Mobile Crowdsensing Games 
+Project2: Learning-based Mobile Crowdsensing Games 
 ========================================
 * Belongs to key project in Beijing and international cooperation project
 * Cooperated with [Dr. Yufeng Zhan](https://scholar.google.com.hk/citations?user=qzCgBxUAAAAJ&hl=zh-CN&oi=ao)
@@ -43,7 +43,7 @@ Learning-based Mobile Crowdsensing Games
 <img src="/images/MCS/MDP.png">
 </div>
 
-Modelling Traffic Flow with Intelligent Vehicles 
+Project 3: Modelling Traffic Flow with Intelligent Vehicles 
 ============================================================================
 * Belongs to Problem C of MCM'2017
 * Meritorious Winner (Top 9%, global)
