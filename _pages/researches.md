@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Research on Mars Visual Navigation Algorithm 
+Vision-based Planetary Path Planning Algorithm 
 ============================================
 * Belongs to “Research on Navigation and Guidance Control of Precise Landing on Planetary Surface”, 973 National Basic Research Program of China
 * Worked as the main researcher of this sub-project
@@ -27,7 +27,8 @@ Research on Mars Visual Navigation Algorithm
 <img src="/images/Mars/Result.png">
 </div>
  
-Research on Learning-based Mobile Crowdsensing Games 
+
+Learning-based Mobile Crowdsensing Games 
 ====================================================
 * Belongs to key project in Beijing and international cooperation project
 * Cooperated with [Dr. Yufeng Zhan](https://scholar.google.com.hk/citations?user=qzCgBxUAAAAJ&hl=zh-CN&oi=ao)
@@ -41,3 +42,25 @@ Research on Learning-based Mobile Crowdsensing Games
 <img src="/images/MCS/MCS.png">
 <img src="/images/MCS/MDP.png">
 </div>
+
+Modelling Traffic Flow with Intelligent Vehicles 
+============================================================================
+* Belongs to Problem C of MCM'2017
+* Meritorious Winner (Top 9%, global)
+* Worked as team leader
+  * Established the Modern Dynamic Model of Traffic Flow (MDTF) and Smart Traffic Flow Model Based on Cellular Automata (STCA) to analyze the traffic flow mixed with self-driving cars (SDV) and non-self-driving cars (NSDV).
+  * Introduced a new variable (the proportion of SDVs), analyzed two typical situations (the diffusion of traffic jam and the effects of ramps), and concluded that SDVs could lighten the diffusion of traffic jam and smooth the density distribution of traffic flow.
+  * Divided the information a vehicle may receive into two types (in-horizon information and out-horizon information), abstracted two laws (moving and changing lanes) to depict the mechanism of traffic flow mixed with SDVs, defined a synchronization effect between two SDVs, proposed four indexes to evaluate the effects of SDVs on traffic flow, and fitted the function between each index and the proportion of SDVs.
+  * Combined location data in Excel spreadsheet with speed data in Washington State Speed Report, compared the simulation results with real data and predicted the effect of SDVs.
+* [Demos]( https://github.com/bitzj2015/bitzj2015.github.io/files/57612.pdf )
+
+<div align="center">
+<img src="/images/MCM/Model1.png" height="300" width="400">
+<img src="/images/MCM/Alg.png" height="300" width="400">
+</div>
+<div align="center">
+<img src="/images/MCM/Demo1.png" height="180" width="400">
+<img src="/images/MCM/Demo2.png" height="200" width="400">
+</div>
+
+
