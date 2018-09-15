@@ -2,6 +2,10 @@
 layout: archive
 title: "Research Experiences"
 permalink: /researches/
+redirect_from: 
+  - /rs/
+  - /researches.html
+  
 author_profile: true
 ---
 
