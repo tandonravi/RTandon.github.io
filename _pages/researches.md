@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Experiences"
-permalink: /researches/
+permalink: /research/
 redirect_from: 
   - /rs/
   - /researches.html
