@@ -25,5 +25,4 @@ Research on Learning-based Mobile Crowdsensing Games
   * Formulated the incentive mechanism as a Stackelberg game, which can reveal the characteristics of the supply-demand pattern for MCS.
   * Analyzed and proved that there exists a SE with a lack of closed-form expression, and proposed a DRL (deep reinforcement learning) based solution called DDIM (DRL based Dynamic Incentive Mechanism) to solve it.
   * The extensive simulation results showed that DDIM outperforms the state-of-art and baseline approaches.
-* Demos
-  * <table><tr><td><img src='/images/MCS/MCS.png'></td><td><img src='/images/MCS/MDP.png'></td></tr><table>
+* ![Demos]( bitzj2015.github.io/images/MCS/MCS.png )
