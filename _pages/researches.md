@@ -16,7 +16,7 @@ Research on Mars Visual Navigation Algorithm
   * Included the research results in Prof. Yuanqing Xia’s monograph, and responsible for the compilation of related contents. 
   * Demos
   
-![Demos](/images/Mars/demo.png)
+![Demos](/images/Mars/demo.png)[Demos](/images/Mars/demo.png)
  
 Research on Learning-based Mobile Crowdsensing Games 
 ====================================================
