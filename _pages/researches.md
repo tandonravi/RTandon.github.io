@@ -18,13 +18,13 @@ Research on Mars Visual Navigation Algorithm
 <table><tr>
   <td><img src='/images/Mars/demo.png'></td>
   <td><img src='/images/Mars/pathfinding.png'></td>
-</td><table>
+</tr><table>
 <table><tr>
   <td><img src='/images/Mars/TNet.png'></td>
-</td><table>
+</tr><table>
 <table><tr>
   <td><img src='/images/Mars/Result.png'></td>
-</td><table>
+</tr><table>
  
 
 Research on Learning-based Mobile Crowdsensing Games 
@@ -39,4 +39,4 @@ Research on Learning-based Mobile Crowdsensing Games
 <table><tr>
   <td><img src='/images/MCS/MCS.png'></td>
   <td><img src='/images/MCS/MDP.png'></td>
-</td><table>
+</tr><table>
