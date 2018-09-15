@@ -55,6 +55,7 @@ Project 3: Modelling Traffic Flow with Intelligent Vehicles
   * Combined location data in Excel spreadsheet with speed data in Washington State Speed Report, compared the simulation results with real data and predicted the effect of SDVs.
 * Demos ([download]( https://raw.githubusercontent.com/bitzj2015/bitzj2015.github.io/master/files/57612%20.pdf))
 
+([Download Link]( https://raw.githubusercontent.com/bitzj2015/bitzj2015.github.io/master/files/57612%20.pdf))
 <div align="center">
 <img src="/images/MCM/Model1.png" height="300" width="400">
 <img src="/images/MCM/Alg.png" height="300" width="400">
