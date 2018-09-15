@@ -14,7 +14,10 @@ I am a senior student of Xu Teli Elite Class (or [Xu Teli College](http://admiss
 
 Besides, I am also a co-founder of [Aifore](https://mp.weixin.qq.com/s/cUBhVSVa46Yoci6ImF6rSQ), a health science and technology company established by a group of undergraduate students from China. Aifore aims at employing cutting-edge technology of artifical intelligence and data science to help people reduce the risk of suffering from type-II diabetes in daily life. We hope that one day, everyone can embrace a healthy lifestyle and enjoy a happy life. 
 
-<br/><img src='/images/004.JPG'><br/><src='/images/004.JPG'>
+<table><tr>
+  <td><img src='/images/004.JPG'></td>
+  <td><img src='/images/004.JPG'></td>
+</td><table>
 
 Grades
 ======
