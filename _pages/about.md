@@ -25,10 +25,7 @@ Grades
 Education
 =========
 * Xu Teli Elite Class, BIT, 09/2015-Present
-  * Study in the XuTeli Elite Class, and major in Automation.
-  * GPA: 92.31/100 (4.0/4.0), Ranking: Top1
-  * GRE: 327 (V:157, Q:170, AW:3.5) 
-  * TOEFL: 105 (R:30, L:27, S:22, W:26)
+  * Major in Control Science and Engineering
 
 * Summer School, UC Berkeley, 06/2017-08/2017
   * Completed two courses, and experienced the intense and engaged learning style
