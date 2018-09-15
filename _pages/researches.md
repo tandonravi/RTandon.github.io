@@ -14,10 +14,7 @@ Research on Mars Visual Navigation Algorithm
   * Designed a novel deep neural network architecture with double branches to plan path for planetary rovers directly from orbital images
   * Demonstrated that the proposed deep neural network architecture achieved better performance and faster convergence than the existing ones and generalized well to unknown environment.
   * Included the research results in Prof. Yuanqing Xia’s monograph, and responsible for the compilation of related contents. 
-* Demos
-<html>
-  <table><tr><td><img src='/images/Mars/demo.png'></td><td><img src='/images/Mars/pathfinding.png'></td></tr><table>
-</html>
+* ![Demos](/images/Mars/demo.png)
  
 Research on Learning-based Mobile Crowdsensing Games 
 ====================================================
