@@ -17,8 +17,8 @@ Research on Mars Visual Navigation Algorithm
   * Demos
   
 <div align="center">
-<img src="/images/Mars/demo.png">
-<img src="/images/Mars/pathfinding.png">
+<img src="/images/Mars/demo.png" height="280" width="400">
+<img src="/images/Mars/pathfinding.png" height="280" width="280">
 </div>
 <div align="center">
 <img src="/images/Mars/TNet.png">
