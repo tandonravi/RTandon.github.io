@@ -15,7 +15,8 @@ Research on Mars Visual Navigation Algorithm
   * Demonstrated that the proposed deep neural network architecture achieved better performance and faster convergence than the existing ones and generalized well to unknown environment.
   * Included the research results in Prof. Yuanqing Xia’s monograph, and responsible for the compilation of related contents. 
 * Demos
- 
+
+
 Research on Learning-based Mobile Crowdsensing Games 
 ========================================================
 * Belongs to key project in Beijing and international cooperation project)
