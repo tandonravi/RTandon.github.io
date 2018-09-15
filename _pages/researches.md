@@ -22,5 +22,5 @@ Project 1: Research on Mars Visual Navigation Algorithm
   <td><img src='/images/Mars/TNet.png'></td>
 </td><table>
 <table><tr>
-  <td><img src='/images/Mars/result.png'></td>
+  <td><img src='/images/Mars/Result.png'></td>
 </td><table>
