@@ -26,8 +26,9 @@ Research on Mars Visual Navigation Algorithm
   <td><img src='/images/Mars/Result.png'></td>
 </td><table>
  
+
 Research on Learning-based Mobile Crowdsensing Games 
-====================================================
+========================================================
 * Belongs to key project in Beijing and international cooperation project)
 * Cooperated with [Dr. Yufeng Zhan](https://scholar.google.com.hk/citations?user=qzCgBxUAAAAJ&hl=zh-CN&oi=ao)
   * Designed the pricing and sensing time allocation strategies for MCS (mobile crowdsensing) systems with multiple TIs and multiple MUs (mobile users) to incentivize MUs for participation, and studied this problem from a free market perspective with the goal of achieving a SE (Stackelberg Equilibrium).
