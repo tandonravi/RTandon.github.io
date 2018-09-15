@@ -7,18 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-Research on Mars Visual Navigation Algorithm 
-=======================================================
-* Belongs to “Research on Navigation and Guidance Control of Precise Landing on Planetary Surface”, 973 National Basic Research Program of China
-* Worked as the main researcher of this sub-project
-  * Designed a novel deep neural network architecture with double branches to plan path for planetary rovers directly from orbital images
-  * Demonstrated that the proposed deep neural network architecture achieved better performance and faster convergence than the existing ones and generalized well to unknown environment.
-  * Included the research results in Prof. Yuanqing Xia’s monograph, and responsible for the compilation of related contents. 
-* Demos
+# Research on Mars Visual Navigation Algorithm 
+## Belongs to “Research on Navigation and Guidance Control of Precise Landing on Planetary Surface”, 973 National Basic Research Program of China
+## Worked as the main researcher of this sub-project
+### Designed a novel deep neural network architecture with double branches to plan path for planetary rovers directly from orbital images
+### Demonstrated that the proposed deep neural network architecture achieved better performance and faster convergence than the existing ones and generalized well to unknown environment.
+### Included the research results in Prof. Yuanqing Xia’s monograph, and responsible for the compilation of related contents. 
+## Demos
 
+ <table><tr><td><img src='/images/Mars/demo.png'></td><td><img src='/images/Mars/pathfinding.png'></td></tr><table><table><tr><td><img src='/images/Mars/TNet.png'></td></tr><table><table><tr><td><img src='/images/Mars/Result.png'></td></tr><table>
+ 
+# Research on Learning-based Mobile Crowdsensing Games 
 
-Research on Learning-based Mobile Crowdsensing Games 
-========================================================
 * Belongs to key project in Beijing and international cooperation project
 * Cooperated with [Dr. Yufeng Zhan](https://scholar.google.com.hk/citations?user=qzCgBxUAAAAJ&hl=zh-CN&oi=ao)
   * Designed the pricing and sensing time allocation strategies for MCS (mobile crowdsensing) systems with multiple TIs and multiple MUs (mobile users) to incentivize MUs for participation, and studied this problem from a free market perspective with the goal of achieving a SE (Stackelberg Equilibrium).
