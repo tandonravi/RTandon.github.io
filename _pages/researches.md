@@ -53,7 +53,7 @@ Project 3: Modelling Traffic Flow with Intelligent Vehicles
   * Introduced a new variable (the proportion of SDVs), analyzed two typical situations (the diffusion of traffic jam and the effects of ramps), and concluded that SDVs could lighten the diffusion of traffic jam and smooth the density distribution of traffic flow.
   * Divided the information a vehicle may receive into two types (in-horizon information and out-horizon information), abstracted two laws (moving and changing lanes) to depict the mechanism of traffic flow mixed with SDVs, defined a synchronization effect between two SDVs, proposed four indexes to evaluate the effects of SDVs on traffic flow, and fitted the function between each index and the proportion of SDVs.
   * Combined location data in Excel spreadsheet with speed data in Washington State Speed Report, compared the simulation results with real data and predicted the effect of SDVs.
-* Demos ([download]( https://raw.githubusercontent.com/bitzj2015/bitzj2015.github.io/master/files/57612%20.pdf))
+* Demos 
 
 ([Download Link]( https://raw.githubusercontent.com/bitzj2015/bitzj2015.github.io/master/files/57612%20.pdf))
 <div align="center">
