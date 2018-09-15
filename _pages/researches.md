@@ -19,10 +19,10 @@ Research on Mars Visual Navigation Algorithm
 
 Research on Learning-based Mobile Crowdsensing Games 
 ========================================================
-* Belongs to key project in Beijing and international cooperation project)
+* Belongs to key project in Beijing and international cooperation project
 * Cooperated with [Dr. Yufeng Zhan](https://scholar.google.com.hk/citations?user=qzCgBxUAAAAJ&hl=zh-CN&oi=ao)
   * Designed the pricing and sensing time allocation strategies for MCS (mobile crowdsensing) systems with multiple TIs and multiple MUs (mobile users) to incentivize MUs for participation, and studied this problem from a free market perspective with the goal of achieving a SE (Stackelberg Equilibrium).
   * Formulated the incentive mechanism as a Stackelberg game, which can reveal the characteristics of the supply-demand pattern for MCS.
   * Analyzed and proved that there exists a SE with a lack of closed-form expression, and proposed a DRL (deep reinforcement learning) based solution called DDIM (DRL based Dynamic Incentive Mechanism) to solve it.
   * The extensive simulation results showed that DDIM outperforms the state-of-art and baseline approaches.
-* ![Demos](https://github.com/bitzj2015/bitzj2015.github.io/blob/master/images/MCS/MCS.png)
+* [Demos](https://github.com/bitzj2015/bitzj2015.github.io/blob/master/images/MCS/MCS.png)
