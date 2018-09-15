@@ -16,12 +16,8 @@ Research on Mars Visual Navigation Algorithm
   * Included the research results in Prof. Yuanqing Xia’s monograph, and responsible for the compilation of related contents. 
 * Demos
   * <table><tr><td><img src='/images/Mars/demo.png'></td><td><img src='/images/Mars/pathfinding.png'></td></tr><table>
-  * <table><tr>
-  <td><img src='/images/Mars/TNet.png'></td>
-</tr><table>
-  * <table><tr>
-  <td><img src='/images/Mars/Result.png'></td>
-</tr><table>
+  * <table><tr><td><img src='/images/Mars/TNet.png'></td></tr><table>
+  * <table><tr><td><img src='/images/Mars/Result.png'></td></tr><table>
  
 
 Research on Learning-based Mobile Crowdsensing Games 
@@ -33,7 +29,4 @@ Research on Learning-based Mobile Crowdsensing Games
   * Analyzed and proved that there exists a SE with a lack of closed-form expression, and proposed a DRL (deep reinforcement learning) based solution called DDIM (DRL based Dynamic Incentive Mechanism) to solve it.
   * The extensive simulation results showed that DDIM outperforms the state-of-art and baseline approaches.
 * Demos
-<table><tr>
-  <td><img src='/images/MCS/MCS.png'></td>
-  <td><img src='/images/MCS/MDP.png'></td>
-</tr><table>
+  * <table><tr><td><img src='/images/MCS/MCS.png'></td><td><img src='/images/MCS/MDP.png'></td></tr><table>
