@@ -61,7 +61,7 @@ Papers
 * Jiang Zhang, Yuanqing Xia, Ganghui Shen. A Novel Learning-based Global Path Planning Algorithm for Planetary Rovers [J]. Neurocomputing. (Submitted, 2018. arXiv: http://arxiv.org/abs/1811.10437)
 * Yuanqing Xia, Ganghui Shen, Xiao Pan, Jiang Zhang. The GNC Scheme for Mars Entry, Descent and Landing process -- 7 minutes of terror [M]. Chapter 8: Research on Martian Visual Navigation during Landing Phase. Science Press Publisher, 2018. (Published)
 * Yufeng Zhan, Chi Harold Liu, Yinuo Zhao, Jiang Zhang, Jian Tang， Pan Hui. Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning [J]. IEEE Transactions on Mobile Computing. (Submitted, 2018)
-Yufeng Zhan, Jiang Zhang, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network. (Under review, 2018) 
+* Yufeng Zhan, Jiang Zhang, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network. (Under review, 2018) 
 * Yufeng Zhan, Yuanqing Xia, Jiang Zhang, Ting Li, Yu Wang. Crowdsensing Game with Demand Uncertainties: A Deep Reinforcement Learning Approach [J]. Information Science. (Submitted, 2018)
 * Xiao Pan, Yuanqing Xia, Ganghui Shen, Jiang Zhang. A Study on Image Feature Extraction and Matching in Mars Visual Navigation. (Submitted to Advances in Space Research, 2018)
 * Yufeng Zhan, Jiang Zhang, Chi Harold Liu. An Incentive Mechanism Design for Multi-Leader Multi-Follower Mobile Crowdsensing: A Deep Reinforcement Learning Approach. (Submitted to IEEE INFOCOM’2019, 2018)
