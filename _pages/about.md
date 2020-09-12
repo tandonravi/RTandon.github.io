@@ -17,7 +17,7 @@ Education
 * Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
   * Annerberg fellowship Phd student
   
-* Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-Present
+* Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-06/2019
   * Major in automation
   * GPA: 92.31/100 (first 3 years, rank: 1/17)
   * TOEFL: 105 (R:30, L:27, S:22, W:26)
@@ -25,23 +25,32 @@ Education
 
 Research Experience
 ===================
+* 08/19/2019-Present: Research Asistant
+  * NetPD Lab, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California 
+  * Research interests: Machine learning and data privacy with applications to computer networks
+  * Supervisor: Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/)
+  
 * 03/05/2019-06/30/2019: Research Internship
   * AST Lab, Department of Computer Science, ETH Zurich, 
   * Research interests: LLVM IR and sanitizers
   * Supervisor: Prof. [Zhendong Su](https://scholar.google.com/citations?user=RivxoIcAAAAJ&hl=zh-CN&oi=ao)
   
-* 01/01/2017 - 03/04/2019: Research assistant
+* 01/01/2017 - 03/04/2019: Research Assistant
    * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
    * Research interests: deep reinforcement learning, mobile crowdsensing and control theory
    * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao)
   
-* 08/01/2018-10/10/2018: Visiting student
+* 08/01/2018-10/10/2018: Visiting Student
   * AST Lab, Department of Computer Science, ETH Zurich, 
   * Research interests: deep learning and software testing
   * Supervisor: Prof. [Zhendong Su](https://scholar.google.com/citations?user=RivxoIcAAAAJ&hl=zh-CN&oi=ao)
 
 Work experience
 ===============
+* 05/18/2020 - 08/21/2020: Research Scientist Internship
+  * Deep Learning Platform Group, Alexa AI, Amazon
+  * Research on heuristics for effective quantization
+  
 * 08/25/2016 - 06/30/2017: Director of Study Department
   * Student Union of Xu Teli College
   * Duties included: Manage daily routines related to study and technical activities
@@ -71,6 +80,7 @@ Model of Health Indicators [P]. (Submitted)
 
 Awards and Honors
 =================
+* Annenberg Fellowship, 2019
 * Grand Prize of the “Century Cup” Innovation Competition at BIT (top 2), 2018
 * First Prize of the “Century Cup” Innovation Competition at BIT (top 10%, twice), 2018
 * “Huixian” Academic Scholarship of XuTeli College at BIT (top 5), 2018
