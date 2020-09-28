@@ -11,14 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
-Project 1: Vision-based Planetary Path Planning Algorithm 
-============================================
-* Belongs to “Research on Navigation and Guidance Control of Precise Landing on Planetary Surface”, 973 National Basic Research Program of China
-* Worked as the main researcher of this sub-project
-  * Designed a novel deep neural network architecture with double branches to plan path for planetary rovers directly from orbital images
-  * Demonstrated that the proposed deep neural network architecture achieved better performance and faster convergence than the existing ones and generalized well to unknown environment.
-  * Included the research results in Prof. Yuanqing Xia’s monograph, and responsible for the compilation of related contents. 
-  * Demos
+Project 1: Prevent Backdoor Attacks using matching network 
+==========================================================
+* Problem Statement: How to offend a hide and strong attack with changing several labels or hyperparameters with just one shoot
+* Solution: The key to solve this kind of attack is to find how, where and what the attack perform, the contribution of my work is the following:
+    * Evaluated whether the initial meta-training by benign users do not include correctly-labeled examples of backdoor classes 
+    * Investigated the case where backdoor classes are present, with correct labels, also during fine-tuning.
+    * Explored the effects of additional supervised fine-tuning with the different hyperparameters
+    * Proposed a defense mechanism applied by each benign user: used just a few labels to predict unseen labels when evaluating the federated model
+* Results: This kind of defense mechanism can actually totally eliminate the backdoor attack from federated users
   
 <div align="center">
 <img src="/images/Mars/demo.png" height="280" width="400">
@@ -32,14 +33,15 @@ Project 1: Vision-based Planetary Path Planning Algorithm
 </div>
 <br/>
 
-Project2: Learning-based Mobile Crowdsensing Games 
-========================================
-* Belongs to key project in Beijing and international cooperation project
-* Cooperated with [Dr. Yufeng Zhan](https://scholar.google.com.hk/citations?user=qzCgBxUAAAAJ&hl=zh-CN&oi=ao)
-  * Designed the pricing and sensing time allocation strategies for MCS (mobile crowdsensing) systems with multiple TIs and multiple MUs (mobile users) to incentivize MUs for participation, and studied this problem from a free market perspective with the goal of achieving a SE (Stackelberg Equilibrium).
-  * Formulated the incentive mechanism as a Stackelberg game, which can reveal the characteristics of the supply-demand pattern for MCS.
-  * Analyzed and proved that there exists a SE with a lack of closed-form expression, and proposed a DRL (deep reinforcement learning) based solution called DDIM (DRL based Dynamic Incentive Mechanism) to solve it.
-  * The extensive simulation results showed that DDIM outperforms the state-of-art and baseline approaches.
+Project2: Neutral ensemble search on off-line quantization 
+===========================================================
+* Problem Statement: How to search and compress a model without losing accuracy
+* Solution: By training a accuracy predictor to directly measure different quantized model and using evolution method to select the highest predicted model, we can finally evaluate and get the best performance model:
+    * Pre-trained model preparing for the quantization and collected dataset to train a accuracy predictor
+    * Selected three best model quantized parameters by using evolution search and accuracy predictor 
+    * Using neutral ensemble search to search the best performance quantization model
+* Results: The model can achieve the same accuracy with the original model with just 1.73MB.
+
 * Demos
 
 <div align="center">
@@ -48,16 +50,15 @@ Project2: Learning-based Mobile Crowdsensing Games
 </div>
 <br/>
 
-Project 3: Modelling Traffic Flow with Intelligent Vehicles 
+Project 3: Robotic Network Routing Optimization using Multi-Armed Bandit 
 ============================================================================
-* Belongs to Problem C of MCM'2017
-* Meritorious Winner (Top 9%, global)
-* Worked as team leader
-  * Established the Modern Dynamic Model of Traffic Flow (MDTF) and Smart Traffic Flow Model Based on Cellular Automata (STCA) to analyze the traffic flow mixed with self-driving cars (SDV) and non-self-driving cars (NSDV).
-  * Introduced a new variable (the proportion of SDVs), analyzed two typical situations (the diffusion of traffic jam and the effects of ramps), and concluded that SDVs could lighten the diffusion of traffic jam and smooth the density distribution of traffic flow.
-  * Divided the information a vehicle may receive into two types (in-horizon information and out-horizon information), abstracted two laws (moving and changing lanes) to depict the mechanism of traffic flow mixed with SDVs, defined a synchronization effect between two SDVs, proposed four indexes to evaluate the effects of SDVs on traffic flow, and fitted the function between each index and the proportion of SDVs.
-  * Combined location data in Excel spreadsheet with speed data in Washington State Speed Report, compared the simulation results with real data and predicted the effect of SDVs.
-* Demos 
+* Problem Statement: How to search and manage a best path for the robotic network
+* Solution: Motivated by the Multi-Armed Bandits problem, we decided to use Thompson Sampling combined with shortest path algorithm and Bellman Ford algorithm:
+    * Compared the regrets of Dijkstra’s algorithm with Thompson Sampling , Upper Confidence Bound and Greedy Algorithm;
+    * Chose linear combination of arms (edges) each time rather than one edge each time to avoid exponential growth actions
+    * Used the optimal algorithm—Thompson Sampling in the distributed robotic network system with Bellman Ford algorithm to search for the shortest route.
+    * Calculated the new bound of regrets for the linear combination Thompson Sampling 
+* Results
 
 ([Download Link]( https://raw.githubusercontent.com/bitzj2015/bitzj2015.github.io/master/files/57612%20.pdf))
 <div align="center">
@@ -69,4 +70,22 @@ Project 3: Modelling Traffic Flow with Intelligent Vehicles
 <img src="/images/MCM/Demo2.png" height="200" width="400">
 </div>
 
+Project 4: China Robot Competition, Yibin, Sichuan, China
+=========================================================
 
+* Problem statement: prepared for the basketball robot competition which scored for the accurate shoot by the basketball robot, the contribution of my work is the following:
+   * Designed and refitted electromagnetic launch system of basketball robot to improve shooting efficiency and hit rate: recharged capacitance with increased voltage, discharged the capacitance through inductor to produce magnetic field which could control pontil of the launch system more preciously
+   * Remodeled power source system: changed old linear power supply into switching power supply, adjusted output voltage through modifying duty ratios, installed more shield and grounding measures
+   * Applied the optimized neural network on image recognition to process color images and depth map, as well as to use the depth map to measure distance
+* Results: our group actually got the highest scores and won the first prize
+
+
+Project 5: Neural Network Optimization Using Complex Value
+=========================================================
+
+* Problem statement: replace real value with complex-valued variables in the neutral network to improve the performance, the contribution of my work is the following:
+    * Optimized neural network based on Single-Shot Multi-box Detector (SSD) by replacing real variables with complex-valued variables: batch-processed to normalize complex-values and initialized weight function of complex-values by plural convolutions;  
+    * Improved image recognition precision to enable sized bounding box at more accurate testing position; 
+    * Reduced data loading of each layer by shrinking matrix’s size to simplify complexity of the neutral network;
+    * Modified testing procedure of image recognition to reduce testing duration;
+* Results: The complex-valued based model achieved thirty percent higher accuracy than the real-value model
