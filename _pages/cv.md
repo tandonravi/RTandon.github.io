@@ -4,7 +4,9 @@ title: "Hobbies and Sports"
 permalink: /Hobbies and Sports/
 author_profile: true
 redirect_from:
-  - /resume
+  - /rs/
+  - /researches.html
+  
 ---
 
 
