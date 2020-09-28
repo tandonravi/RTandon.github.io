@@ -17,7 +17,7 @@ Education
 * Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
   * Major in Electrical Engineering
   * GPA: 3.7/4.0
-* Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-06/2019
+* Department of Electrical and Computer Engineering, Shanghai University, 09/2015-06/2019
   * Major in Electrical Engineering
   * Major GPA: 3.77/4.0
 
@@ -50,15 +50,11 @@ National College Students’ Innovation Project | Sep 2017 - Nov 2018
 
 Work experience
 ===============
-* 05/18/2020 - 08/21/2020: Research Scientist Internship
-  * Deep Learning Platform Group, Alexa AI, Amazon
-  * Research on heuristics for effective quantization
-  
 * 08/01/2020 - 11/13/2020: Engineer Assistant Internship
   * Elevator Engineer Group, Shanghai, GIANT KONE Company
   * Processed data of related official files into System Application & Production (SAP) customer system
- 
- 
+
+
 Skills
 ======
 * Programming language: C, C++, Matlab, Python, Java.
@@ -72,6 +68,7 @@ Papers
 
 Awards and Honors
 =================
+* Champion of the 19th China Basketball Robot Competitoon, Yibin, China, 2018 - 2019
 * Academic Excellent Scholarship Level I (top 5), Sep 2018 - Jul 2019
 * Hezong Welding Academic Scholarship Level II, Sep 2017 - Jul 2018
 * Hezong Welding Academic Scholarship Level III, Sep 2016 - Jul 2017
