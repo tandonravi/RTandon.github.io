@@ -26,7 +26,8 @@ Hobbies and Sports
 * Hiking
 </div>
 <div align="center">
-<img src="/images/hik1.JPG">
+<img src="/images/Hik1.JPG">
+<img src="/images/IMG_7856.HEIC">
 <br/>
 * Skiing
 </div>
@@ -38,9 +39,10 @@ Hobbies and Sports
 <div align="center">
 <img src="/images/Tra1.JPG">
 <img src="/images/Tra2.JPG">
+<img src="/images/Fish1.JPG">
 <br/>
 * Suspense Movies and Books
 </div>
 <div align="center">
-<img src="/images/Book1.JPG.JPG">
+<img src="/images/Book1.JPG">
 <br/>
