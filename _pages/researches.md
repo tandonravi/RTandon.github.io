@@ -45,8 +45,9 @@ Project 2: Neutral ensemble search on off-line quantization
 * Demos
 
 <div align="center">
-<img src="/images/MCS/MCS.png">
-<img src="/images/MCS/MDP.png">
+<img src="/images/quan1.jpg">
+<img src="/images/quan2.jpg">
+<img src="/images/quan3.jpg">
 </div>
 <br/>
 
