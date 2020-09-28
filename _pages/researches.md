@@ -56,12 +56,9 @@ Project 3: Robotic Network Routing Optimization using Multi-Armed Bandit
 * Results: After enough iterations, which depends on the number of arms, the best path can be chosen.
 
 <div align="center">
-<img src="/images/MCM/Model1.png" height="300" width="400">
-<img src="/images/MCM/Alg.png" height="300" width="400">
-</div>
-<div align="center">
-<img src="/images/MCM/Demo1.png" height="180" width="400">
-<img src="/images/MCM/Demo2.png" height="200" width="400">
+<img src="/images/ts1.jpg">
+<img src="/images/ts2.jpg">
+
 </div>
 
 Project 4: China Robot Competition, Yibin, Sichuan, China
