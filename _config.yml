@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-China"
-title                    : "Jiang Zhang / Academic Page"
+title                    : "Meiyu Zhong / Academic Page"
 title_separator          : "-"
-name                     : &name "Jiang Zhang"
-description              : &description "Undergraduate at Beijing INstitute of Technology"
-url                      : https://bitzj2015.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Meiyu Zhong"
+description              : &description "Master at University of Southern California"
+url                      : https://MeiyuZhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bitzj2015/bitzj2015.github.io"
+repository               : "MeiyuZhong/MeiyuZhong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiang Zhang"
+  name             : "Meiyu Zhong"
   avatar           : "004.JPG"
   bio              : "An undergraduate at School of Automation, Beijing Institute of Technology"
-  location         : "Beijing, China"
+  location         : "Los Angeles, California"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "bitzj2015@outlook.com"
+  email            : "meiyuzho@usc.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bitzj2015"
+  github           : "MeiyuZhong"
   google_plus      :
   keybase          :
   instagram        :
