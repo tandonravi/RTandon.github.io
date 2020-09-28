@@ -22,14 +22,8 @@ Project 1: Prevent Backdoor Attacks using matching network
 * Results: This kind of defense mechanism can actually totally eliminate the backdoor attack from federated users
   
 <div align="center">
-<img src="/images/Mars/demo.png" height="280" width="400">
-<img src="/images/Mars/pathfinding.png" height="280" width="280">
-</div>
-<div align="center">
-<img src="/images/Mars/TNet.png">
-</div>
-<div align="center">
-<img src="/images/Mars/Result.png">
+<img src="/images/back1.jpg">
+<img src="/images/back2.jpg">
 </div>
 <br/>
 
@@ -61,7 +55,6 @@ Project 3: Robotic Network Routing Optimization using Multi-Armed Bandit
     * Calculated the new bound of regrets for the linear combination Thompson Sampling 
 * Results: After enough iterations, which depends on the number of arms, the best path can be chosen.
 
-([Download Link]( https://raw.githubusercontent.com/bitzj2015/bitzj2015.github.io/master/files/57612%20.pdf))
 <div align="center">
 <img src="/images/MCM/Model1.png" height="300" width="400">
 <img src="/images/MCM/Alg.png" height="300" width="400">
