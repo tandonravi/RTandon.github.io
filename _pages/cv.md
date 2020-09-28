@@ -27,7 +27,7 @@ Hobbies and Sports
 </div>
 <div align="center">
 <img src="/images/Hik1.JPG">
-<img src="/images/IMG_7856.HEIC">
+<img src="/images/IMG_7856.png">
 <br/>
 * Skiing
 </div>
