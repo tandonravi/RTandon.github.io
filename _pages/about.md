@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic homepage!"
+title: "Welcome to my academic ocean!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,25 +10,27 @@ redirect_from:
 
 Biography
 =========
-I am a first-year Phd student of Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). Previously, I graduated from Xu Teli Elite Class (or [Xu Teli College](http://admission.bit.edu.cn/colleges/xtl.html)), Beijing Institute of Technology ([BIT](http://www.bit.edu.cn/)), amjoring in automation. Since the end of 2016, I have become a member of State Key Laboratory of Complex System Intelligent Control and Decision and my advisor is [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm). 
-
+Hi, everyone! I am Meiyu Zhong, a last-year master student of Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California. Previously, I graduated from Shanghai University as an outstanding graduate, majoring in Electrical Engineering. 
 Education
 =========
 * Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
-  * Annerberg fellowship Phd student
-  
+  * Major in Electrical Engineering
+  * GPA: 3.7/4.0
 * Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-06/2019
-  * Major in automation
-  * GPA: 92.31/100 (first 3 years, rank: 1/17)
-  * TOEFL: 105 (R:30, L:27, S:22, W:26)
-  * GRE: 327 (V:157, Q:170, AW:3.5)
+  * Major in Electrical Engineering
+  * Major GPA: 3.77/4.0
 
 Research Experience
 ===================
-* 08/19/2019-Present: Research Asistant
-  * NetPD Lab, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California 
-  * Research interests: Machine learning and data privacy with applications to computer networks
-  * Supervisor: Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/)
+* 08/19/2019-Present| USC Deconstructing Distributed Deep Learning | Advisor: Leana Golubchik
+  * Problem Statement: How to offend a hide and strong attack with changing several labels or hyperparameters with just one shoot
+  * Solution: The key to solve this kind of attack is to find how, where and what the attack perform, the contribution of my work is the following:
+        * Evaluated the whether the initial meta-training by benign users do not include correctly-labeled examples of backdoor classes 
+        * Investigated the case where backdoor classes are present, with correct labels, also during fine-tuning.
+        * Explored the effects of additional supervised fine-tuning with the different hyperparameters
+        * Proposed a defense mechanism applied by each benign user: used just a few labels to predict unseen labels when evaluating the federated model
+  * Results: This kind of defense mechanism can actually totally eliminate the backdoor attack from federated users
+
   
 * 03/05/2019-06/30/2019: Research Internship
   * AST Lab, Department of Computer Science, ETH Zurich, 
