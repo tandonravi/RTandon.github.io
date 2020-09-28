@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 Resume 
 ======
-[Download](http://academicpages.github.io/files/cv.pdf)
+[Download](http://academicpages.github.io/files/Resume_9:20.pdf)
 
