@@ -9,12 +9,8 @@ redirect_from:
   
 ---
 
-
-Hobbies and Sports
-==================
-
 * Volunteer to teach children
-</div>
+
 <div align="center">
 <img src="/images/vo1.JPG">
 <img src="/images/vo2.JPG">
@@ -23,14 +19,14 @@ Hobbies and Sports
 <br/>
 
 * Yoga
-</div>
+
 <div align="center">
 <img src="/images/exer.jpg">
 </div>
 <br/>
 
 * Hiking
-</div>
+
 <div align="center">
 <img src="/images/Hik1.JPG">
 <img src="/images/IMG_7856.jpg">
@@ -38,14 +34,14 @@ Hobbies and Sports
 <br/>
 
 * Skiing
-</div>
+
 <div align="center">
 <img src="/images/Ski.JPG">
 </div>
 <br/>  
 
 * Traveling
-</div>
+
 <div align="center">
 <img src="/images/Tra1.JPG">
 <img src="/images/Tra2.JPG">
@@ -54,7 +50,7 @@ Hobbies and Sports
 <br/>
 
 * Suspense Movies and Books
-</div>
+
 <div align="center">
 <img src="/images/Book1.JPG">
 </div>
