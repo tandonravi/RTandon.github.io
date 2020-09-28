@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Published
+=========
+X. Li, M. Zhong*, “Hardware Design of Basketball Robot based on Flyback Topology and Verilog HDL”, International Conference on Information Systems and Computer Aided Education (ICISCAE), 2018, Vol 2:508-510.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+PrePrint
+========
+M. Zhong, S. Babakniya, Leana Golubchik, Marco Paolieri, "Neutral Ensemble Search on offline quantization"
