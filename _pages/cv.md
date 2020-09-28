@@ -21,13 +21,13 @@ Hobbies and Sports
 * Yoga
 </div>
 <div align="center">
-<img src="/images/exer.JPG">
+<img src="/images/exer.jpg">
 <br/>
 * Hiking
 </div>
 <div align="center">
 <img src="/images/Hik1.JPG">
-<img src="/images/IMG_7856.png">
+<img src="/images/IMG_7856.jpg">
 <br/>
 * Skiing
 </div>
