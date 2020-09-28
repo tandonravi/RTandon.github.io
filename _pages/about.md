@@ -25,7 +25,7 @@ Research Experience
 ===================
 USC Deconstructing Distributed Deep Learning Project | May 2020-Present
 * Prevent Backdoor Attacks using matching network
-* QED lab - Advisor: Leana Golubchik & Marco Paolieri
+* Quantitative Evaluation and Design Group - Advisor: Leana Golubchik & Marco Paolieri
 * Research interests: Privacy, Federated learning, Machine learning
 
 USC Hardware Accelerated Learning Project | May 2020-Present
