@@ -25,10 +25,10 @@ Research Experience
 * 08/19/2019-Present| USC Deconstructing Distributed Deep Learning | Advisor: Leana Golubchik
   * Problem Statement: How to offend a hide and strong attack with changing several labels or hyperparameters with just one shoot
   * Solution: The key to solve this kind of attack is to find how, where and what the attack perform, the contribution of my work is the following:
-        * Evaluated the whether the initial meta-training by benign users do not include correctly-labeled examples of backdoor classes 
-        * Investigated the case where backdoor classes are present, with correct labels, also during fine-tuning.
-        * Explored the effects of additional supervised fine-tuning with the different hyperparameters
-        * Proposed a defense mechanism applied by each benign user: used just a few labels to predict unseen labels when evaluating the federated model
+        *Evaluated the whether the initial meta-training by benign users do not include correctly-labeled examples of backdoor classes 
+        *Investigated the case where backdoor classes are present, with correct labels, also during fine-tuning.
+        *Explored the effects of additional supervised fine-tuning with the different hyperparameters
+        *Proposed a defense mechanism applied by each benign user: used just a few labels to predict unseen labels when evaluating the federated model
   * Results: This kind of defense mechanism can actually totally eliminate the backdoor attack from federated users
 
   
