@@ -33,7 +33,7 @@ Project 1: Prevent Backdoor Attacks using matching network
 </div>
 <br/>
 
-Project2: Neutral ensemble search on off-line quantization 
+Project 2: Neutral ensemble search on off-line quantization 
 ===========================================================
 * Problem Statement: How to search and compress a model without losing accuracy
 * Solution: By training a accuracy predictor to directly measure different quantized model and using evolution method to select the highest predicted model, we can finally evaluate and get the best performance model:
@@ -58,7 +58,7 @@ Project 3: Robotic Network Routing Optimization using Multi-Armed Bandit
     * Chose linear combination of arms (edges) each time rather than one edge each time to avoid exponential growth actions
     * Used the optimal algorithm—Thompson Sampling in the distributed robotic network system with Bellman Ford algorithm to search for the shortest route.
     * Calculated the new bound of regrets for the linear combination Thompson Sampling 
-* Results
+* Results: After enough iterations, which depends on the number of arms, the best path can be chosen.
 
 ([Download Link]( https://raw.githubusercontent.com/bitzj2015/bitzj2015.github.io/master/files/57612%20.pdf))
 <div align="center">
