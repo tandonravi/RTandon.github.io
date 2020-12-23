@@ -16,7 +16,7 @@ Education
 =========
 * Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
   * Major in Electrical Engineering
-  * GPA: 3.7/4.0
+  * GPA: 3.77/4.0
 * Department of Electrical and Computer Engineering, Shanghai University, 09/2015-06/2019
   * Major in Electrical Engineering
   * Major GPA: 3.77/4.0
