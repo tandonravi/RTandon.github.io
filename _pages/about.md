@@ -26,12 +26,12 @@ Education
 
 Research Experience
 ===================
-USC Deconstructing Distributed Deep Learning Project | May 2020-Present
+USC Deconstructing Distributed Deep Learning Project | May 2020- Apr 2021
 * Prevent Backdoor Attacks using matching network
 * Quantitative Evaluation and Design Group - Advisor: Leana Golubchik & Marco Paolieri
 * Research interests: Privacy, Federated learning, Machine learning
 
-USC Hardware Accelerated Learning Project | May 2020-Present
+USC Hardware Accelerated Learning Project | May 2020- Apr 2021
 * Neutral ensemble search on off-line quantization       
 * Quantitative Evaluation and Design Group - Advisor: Leana Golubchik & Marco Paolieri
 * Research interests: Auto-ML, Compression, Estimation
