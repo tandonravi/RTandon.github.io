@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 =========
-Hi, everyone! I am Meiyu Zhong, a first-year Ph.D. student in the Department of Electrical and Computer Engineering, University of Arizona. I am very lucky to work with Dr. Ravi Tandon. Previously, I received my MS degree from University of Southern California and BS degree in Shanghai University, majoring in Electrical Engineering. 
+Hi, everyone! I am Meiyu Zhong, a first-year Ph.D. student in the Department of Electrical and Computer Engineering, University of Arizona. I am very lucky to work with Dr. Ravi Tandon. Previously, I received my M.S. degree from University of Southern California and B.S. degree in Shanghai University, majoring in Electrical Engineering. 
 
 Education
 =========
