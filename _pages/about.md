@@ -10,11 +10,14 @@ redirect_from:
 
 Biography
 =========
-Hi, everyone! I am Meiyu Zhong, a last-year master student of Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California. Previously, I graduated from Shanghai University as an outstanding graduate, majoring in Electrical Engineering. 
+Hi, everyone! I am Meiyu Zhong, a first-year Ph.D. student in the Department of Electrical and Computer Engineering, University of Arizona. I am very lucky to work with Dr. Ravi Tandon. Previously, I received my MS degree from University of Southern California and BS degree in Shanghai University, majoring in Electrical Engineering. 
 
 Education
 =========
-* Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
+* Department of Electrical and Computer Engineering, University of Arizona, 08/2021-Present
+  * Major in Electrical Engineering
+  * Research interest: Fairness and Privacy in machine learning
+* Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-05/2021
   * Major in Electrical Engineering
   * GPA: 3.77/4.0
 * Department of Electrical and Computer Engineering, Shanghai University, 09/2015-06/2019
