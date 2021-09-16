@@ -9,6 +9,3 @@ Published
 =========
 X. Li, M. Zhong*, “Hardware Design of Basketball Robot based on Flyback Topology and Verilog HDL”, International Conference on Information Systems and Computer Aided Education (ICISCAE), 2018, Vol 2:508-510.
 
-PrePrint
-========
-M. Zhong, S. Babakniya, Leana Golubchik, Marco Paolieri, "Neutral Ensemble Search on offline quantization"
