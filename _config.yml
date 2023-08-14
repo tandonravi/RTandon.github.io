@@ -10,7 +10,7 @@ locale                   : "China"
 title                    : "Meiyu Zhong / Academic Page"
 title_separator          : "-"
 name                     : &name "Meiyu Zhong"
-description              : &description "Ph.D. at University of Arizona Supervised by Prof. Ravi"
+description              : &description "Ph.D. at University of Arizona Supervised by Prof. Ravi Tandon"
 url                      : https://MeiyuZhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MeiyuZhong/MeiyuZhong.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Meiyu Zhong"
   avatar           : "IMG_1582.JPG"
-  bio              : "First-year Electrical Engineering Ph.D at University of Arizona"
-  location         : "Los Angeles, California"
+  bio              : "ECE Ph.D at University of Arizona"
+  location         : "Tucson, Arizona"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "meiyuzhong@email.arizona.edu"
+  email            : "meiyuzhong@arizona.edu"
   uri              :
   bitbucket        :
   codepen          :
