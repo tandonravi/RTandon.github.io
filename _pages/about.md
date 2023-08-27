@@ -54,19 +54,22 @@ National College Students’ Innovation Project | Sep 2017 - Nov 2018
 
 Work experience
 ===============
-* 08/01/2020 - 11/13/2020: Engineer Assistant Internship
-  * Elevator Engineer Group, Shanghai, GIANT KONE Company
-  * Processed data of related official files into System Application & Production (SAP) customer system
+* 08/01/2020 - 11/13/2020: Data Science intern | GiantKONE Elevator Co., Ltd.
+  * Cleaned and pre-processing the tabular data
+  * Collaborated with a team to develop a machine learning model to do the prediction.
 
 
 Skills
 ======
-* Programming language: C, C++, Matlab, Python, Java.
-* Development environment or tools: Pytorch, Tensorflow, Keras, Ubuntu.
-* Hardwares: FPGA, Arduino, Raspberry Pi
+* Programming language: Python (proficient), Matlab (proficient), C/C++ (familiar), SQL (familiar). 
+*	Tools&Packages: PyTorch, HPC, Latex, NumPy, Pandas, Scikit-learn, TensorFlow, Git, Unix/Linux, etc.
+*	Robust machine learning: Certified Robustness, Adversarial Training.
+*	Fair machine learning: Group Fairness, Individual Fairness.
+
 
 Papers
 ======
+* Meiyu Zhong, Ravi Tandon, Learning Fair Classifiers via Min-Max F-divergence Regularization, 59th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2023
 * X. Li, M. Zhong*, “Hardware Design of Basketball Robot based on Flyback Topology and Verilog HDL”, International Conference on Information Systems and Computer Aided Education (ICISCAE), 2018, Vol 2:508-510.
 
 
