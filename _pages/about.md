@@ -12,6 +12,7 @@ Biography
 =========
 Hi, everyone! I am Meiyu Zhong, a Ph.D. student in the Department of Electrical and Computer Engineering, University of Arizona. I am very lucky to work with Dr. Ravi Tandon. Previously, I received my M.S. degree from University of Southern California and B.S. degree in Shanghai University, majoring in Electrical Engineering. 
 
+
 Education
 =========
 * Department of Electrical and Computer Engineering, University of Arizona, 08/2021-Present
@@ -27,30 +28,23 @@ Education
 
 Research Experience
 ===================
-USC Deconstructing Distributed Deep Learning Project | May 2020- Apr 2021
-* Prevent Backdoor Attacks using matching network
-* Quantitative Evaluation and Design Group - Advisor: Leana Golubchik & Marco Paolieri
-* Research interests: Privacy, Federated learning, Machine learning
+* Graduate Research Assistant | University of Arizona | Aug 2021 - present
+  1. Trustworthy Machine Learning Group - Advisor: Dr. Ravi Tandon
+     * Learning Fair Models via F-divergence Regularization (Fair Machine Learning)
+    
+* Graduate Research Assistant | University of Southern California | Aug 2019 - May 2021
+  1. Quantitative Evaluation and Design Group - Advisor: Dr. Leana Golubchik & Dr. Marco Paolieri
+    * Prevent Backdoor Attacks using matching network (Privacy, Federated learning, Machine learning)
+    * Neutral Architecture Search on Model Quantization (Auto-ML, Compression, Estimation)
+  2. Autonomous Networks Research Group - Advisor: Bhaskar Krishnamachari
+    * Robotic Network Routing Optimization using Multi-Armed Bandits (Network Optimization, Multi-Armed bandits)
+ 
+* Graduate Research Assistant | Shanghai University | Sep 2017 - Jan 2019
+  1. Shanghai University Strive Team - Advisor: Wanmi Chen
+    * China Basketball Robot Competition (Image Recognition and Hardware Design)
+  2. Shanghai University Deep Learning Research Team - Advisor: Shenshen Gu
+    * Neural Network Optimization Using Complex Value (Neural Network Optimization, Machine learning)
 
-USC Hardware Accelerated Learning Project | May 2020- Apr 2021
-* Neutral ensemble search on off-line quantization       
-* Quantitative Evaluation and Design Group - Advisor: Leana Golubchik & Marco Paolieri
-* Research interests: Auto-ML, Compression, Estimation
-  
-USC Direct Research | Jan 2020 - May 2020
-* Robotic Network Routing Optimization using Multi-Armed Bandits      
-* Autonomous Networks Research Group - Advisor: Bhaskar Krishnamachari
-* Research interests: Network Optimization, Multi-Armed bandits
-  
-China Basketball Robot Competition | Feb 2018 - Jan 2019
-* Image Recognition and Hardware Design 
-* Shanghai University Strive Team - Advisor: Wanmi Chen
-* Research interests: Machine learning, Image Processing, Hardware Design
-
-National College Students’ Innovation Project | Sep 2017 - Nov 2018
-* Neural Network Optimization Using Complex Value     
-* Shanghai University Deep Learning Research Team - Advisor: Shenshen Gu
-* Research interests: Neural Network Optimization, Machine learning, Image Recognition
 
 Work experience
 ===============
