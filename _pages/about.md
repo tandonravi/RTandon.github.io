@@ -48,7 +48,7 @@ Research Experience
 
 Work experience
 ===============
-* 08/01/2020 - 11/13/2020: Data Science intern | GiantKONE Elevator Co., Ltd.
+* Data Science intern | GiantKONE Elevator Co., Ltd. | Aug 2018 - Nov 2018
   * Cleaned and pre-processing the tabular data
   * Collaborated with a team to develop a machine learning model to do the prediction.
 
