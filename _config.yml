@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China"
-title                    : "Meiyu Zhong / Academic Page"
+locale                   : "US"
+title                    : "Ravi Tandon / Academic Page"
 title_separator          : "-"
-name                     : &name "Meiyu Zhong"
-description              : &description "Ph.D. at University of Arizona Supervised by Prof. Ravi Tandon"
-url                      : https://MeiyuZhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ravi Tandon"
+description              : &description "Litton Industries John M. Leonis Distinguished Associate Professor"
+url                      : #https://MeiyuZhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MeiyuZhong/MeiyuZhong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
