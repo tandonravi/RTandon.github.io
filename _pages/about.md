@@ -10,10 +10,18 @@ redirect_from:
 
 Biography
 =========
-Hi, everyone! I am Meiyu Zhong, a Ph.D. student in the Department of Electrical and Computer Engineering, University of Arizona. I am very lucky to work with Dr. Ravi Tandon. Previously, I received my M.S. degree from University of Southern California and B.S. degree in Shanghai University, majoring in Electrical Engineering. 
+I am Litton Industries John M. Leonis Distinguished Associate Professor in the Department of ECE at the University of Arizona. I received the B.Tech. degree in Electrical Engineering from the Indian Institute of Technology, Kanpur (IIT Kanpur) in 2004 and the Ph.D. degree in ECE from the University of Maryland, College Park (UMCP) in 2010. From 2010 to 2012, I was a post-doctoral research associate at Princeton University. Prior to joining the University of Arizona in Fall 2015, I was a Research Assistant Professor at Virginia Tech from 2012-2015. I received NSF CAREER Award in 2017, and the 2018 Keysight Early Career Professor Award.
+
+My current research interests are in information theory with applications to
+
+Security and Data Privacy
+
+Machine Learning (including distributed/federated learning with a focus on privacy, fairness, robustness and efficiency)
+
+Wireless Communications and Signal Processing
 
 
-Education
+News
 =========
 * Department of Electrical and Computer Engineering, University of Arizona, 08/2021-Present
   * Major in Electrical Engineering
@@ -26,54 +34,10 @@ Education
   * Major in Electrical Engineering
   * Major GPA: 3.77/4.0
 
-Research Experience
-===================
-* Graduate Research Assistant | University of Arizona | Aug 2021 - present
-  1. Trustworthy Machine Learning Group - Advisor: Dr. Ravi Tandon
-     * Learning Fair Models via F-divergence Regularization (Fair Machine Learning)
-    
-* Graduate Research Assistant | University of Southern California | Aug 2019 - May 2021
-  1. Quantitative Evaluation and Design Group - Advisor: Dr. Leana Golubchik & Dr. Marco Paolieri
-    * Prevent Backdoor Attacks using matching network (Privacy, Federated learning, Machine learning)
-    * Neutral Architecture Search on Model Quantization (Auto-ML, Compression, Estimation)
-  2. Autonomous Networks Research Group - Advisor: Bhaskar Krishnamachari
-    * Robotic Network Routing Optimization using Multi-Armed Bandits (Network Optimization, Multi-Armed bandits)
- 
-* Graduate Research Assistant | Shanghai University | Sep 2017 - Jan 2019
-  1. Shanghai University Strive Team - Advisor: Wanmi Chen
-    * China Basketball Robot Competition (Image Recognition and Hardware Design)
-  2. Shanghai University Deep Learning Research Team - Advisor: Shenshen Gu
-    * Neural Network Optimization Using Complex Value (Neural Network Optimization, Machine learning)
 
 
-Work experience
-===============
-* Data Science intern | GiantKONE Elevator Co., Ltd. | Aug 2018 - Nov 2018
-  * Cleaned and pre-processing the tabular data
-  * Collaborated with a team to develop a machine learning model to do the prediction.
 
 
-Skills
-======
-* Programming language: Python (proficient), Matlab (proficient), C/C++ (familiar), SQL (familiar). 
-*	Tools&Packages: PyTorch, HPC, Latex, NumPy, Pandas, Scikit-learn, TensorFlow, Git, Unix/Linux, etc.
-*	Robust machine learning: Certified Robustness, Adversarial Training.
-*	Fair machine learning: Group Fairness, Individual Fairness.
-
-
-Papers
-======
-* Meiyu Zhong, Ravi Tandon, Learning Fair Classifiers via Min-Max F-divergence Regularization, 59th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2023
-* X. Li, M. Zhong*, “Hardware Design of Basketball Robot based on Flyback Topology and Verilog HDL”, International Conference on Information Systems and Computer Aided Education (ICISCAE), 2018, Vol 2:508-510.
-
-
-Awards and Honors
-=================
-* Champion of the 19th China Basketball Robot Competitoon, Yibin, China, 2018 - 2019
-* Academic Excellent Scholarship Level I (top 5), Sep 2018 - Jul 2019
-* Hezong Welding Academic Scholarship Level II, Sep 2017 - Jul 2018
-* Hezong Welding Academic Scholarship Level III, Sep 2016 - Jul 2017
-* Leadership Scholarship, Sep 2015 - Jul 2016
 
 
 
