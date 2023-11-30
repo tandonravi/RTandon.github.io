@@ -10,7 +10,13 @@ main:
   - title: "Team"
     url: /team/
    
-  - title: "Hobbies&Sports"
-    url: /Hobbies&Sports/
-    
+  # - title: "Hobbies&Sports"
+  #   url: /Hobbies&Sports/
+
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Service"
+    url: /service/
 
