@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meiyu Zhong"
+  name             : "Ravi Tandon"
   avatar           : "IMG_1582.JPG"
-  bio              : "ECE Ph.D at University of Arizona"
+  bio              : "Litton Industries John M. Leonis Distinguished Associate Professor"
   location         : "Tucson, Arizona"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "meiyuzhong@arizona.edu"
+  email            : "tandonr@arizona.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MeiyuZhong"
+  github           : "tandonravi"
   google_plus      :
   keybase          :
   instagram        :
