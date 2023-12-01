@@ -14,11 +14,11 @@ I am Litton Industries John M. Leonis Distinguished Associate Professor in the D
 
 My current research interests are in information theory with applications to
 
-Security and Data Privacy
+* Security and Data Privacy
 
-Machine Learning (including distributed/federated learning with a focus on privacy, fairness, robustness and efficiency)
+* Machine Learning (including distributed/federated learning with a focus on privacy, fairness, robustness and efficiency)
 
-Wireless Communications and Signal Processing
+* Wireless Communications and Signal Processing
 
 
 News
