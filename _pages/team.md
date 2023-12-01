@@ -2,5 +2,5 @@
 layout: archive
 title: "Team"
 permalink: /team/
-author_profile: false
+author_profile: True
 ---
