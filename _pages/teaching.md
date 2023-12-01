@@ -5,11 +5,7 @@ permalink: /teaching/
 author_profile: True
 ---
 
-<!-- {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
 
 ### Probability
 * Spring 2018
