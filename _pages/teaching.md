@@ -27,7 +27,7 @@ author_profile: True
 
 * Fall 2017 - ECE 503: Probability and Random Processes for Engineering Applications
 
-* Spring 2017 - ECE 696B: Network Information Theory with Engineering Applications (New Course) Course Website (Lecture notes available online)
+* Spring 2017 - ECE 696B: Network Information Theory with Engineering Applications
 
 * Fall 2016 - ECE 503: Probability and Random Processes for Engineering Applications
 
