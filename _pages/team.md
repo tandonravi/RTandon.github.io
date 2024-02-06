@@ -9,8 +9,8 @@ author_profile: True
 
 <table style="border-collapse: collapse;">
   <tr>
-    <td style="width: 18%"><img src="{{site.url}}/images/students/noel.PNG" width="150px"></td>
-    <td style="width: 18%">
+    <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/noel.PNG" width="150px"></td>
+    <td style="width: 18%; padding: 10px; border: none;">
       <p><strong>Noel Teku</strong></p>
     </td>
     <td>
