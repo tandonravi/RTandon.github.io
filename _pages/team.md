@@ -9,7 +9,7 @@ author_profile: True
 
 <img src="{{site.url}}/images/students/noel.PNG" width="150px"> Noel Teku: Noel Teku received his B.S. and M.S. degrees in Electrical and Computer Engineering at the University of Arizona. He is currently pursuing a Ph.D. in the same department. His research interests include wireless communications, signal processing and machine learning.
 
-<img src="{{site.url}}/images/students/meiyu.jpeg" width="150px"> <a href="https://meiyuzhong.github.io/">Meiyu Zhong</a> 
+<img src="{{site.url}}/images/students/meiyu.jpeg" width="150px"> <a href="https://meiyuzhong.github.io/">Meiyu Zhong</a>: Meiyu Zhong receives her B.S. in Shanghai University and M.S. in University of Southern California. Her research interests are Robustness and Fairness in Machine Learning.
 
 <img src="{{site.url}}/images/students/fengwei.jpg" width="150px"> <a href="https://sites.google.com/arizona.edu/fengweitian/home">Fengwei Tian</a>: Hi, my name is Fengwei Tian, currently a PhD student in University of Arizona under Prof. Ravi Tandon's supervision. 
 I obtained my bachelor degree in electrical engineering and actuarial science from University of Calgary in 2020.
