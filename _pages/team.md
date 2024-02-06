@@ -19,6 +19,18 @@ author_profile: True
   </tr>
 </table>
 
+<table style="border: none;">
+  <tr>
+    <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/meiyu.jpeg" width="150px"></td>
+    <td style="width: 18%; padding: 10px; border: none;">
+      <p style="font-size: 18px;"><a href="https://meiyuzhong.github.io/">Meiyu Zhong</a></p>
+    </td>
+    <td>
+      <p>Meiyu Zhong receives her B.S. in Shanghai University and M.S. in University of Southern California. Her research interests are Robustness and Fairness in Machine Learning.</p>
+    </td>
+  </tr>
+</table>
+
 <img src="{{site.url}}/images/students/meiyu.jpeg" width="150px"> <a href="https://meiyuzhong.github.io/">Meiyu Zhong</a>
 
 Meiyu Zhong receives her B.S. in Shanghai University and M.S. in University of Southern California. Her research interests are Robustness and Fairness in Machine Learning.
