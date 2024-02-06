@@ -60,9 +60,83 @@ I am currently working on data privacy issues at inference time, and aiming to f
 
 
 ### Former PhD Students
+* Wei-Ting Chang: 
 
+Ph.D. from University of Arizona in 2022.
+
+Currently at NXP Semiconductors, Irvine, CA
+
+* Mohamed Seif: 
+
+Ph.D. from University of Arizona in 2022, co-advised with Prof. M. Li.
+
+Currently a Post-Doctoral Research Associate at Princeton University, Princeton, NJ
+
+* Ture Peken:
+
+Ph.D. from University of Arizona in 2021, co-advised with Prof. T Bose.
+
+Currently at Apple, San Francisco, CA
+
+* Jean de Dieu Mutangana:
+
+Ph.D. from University of Arizona in 2021.
+
+Currently at Ford, Detroit, MI
+
+* Mohamed Attia:
+
+Ph.D. from University of Arizona in 2020.
+
+Currently at Ford, Detroit, MI
+
+* Avik Sengupta:
+
+Ph.D. from Virginia Tech in 2016, co-advised with Prof. T. Clancy
+
+Currently at Intel, Santa Clara, CA
+
+* Akshay Kumar:
+
+Ph.D. from Virginia Tech in 2016, co-advised with Prof. T. Clancy
+
+Currently at Qualcomm, San Diego, CA
 ### Former MS Students
+* Deepak Kumar:
+
+M.S. from University of Arizona, 2018
+
+Currently at Arrow Electronics, Phoenix, AZ
+
+* Sudarshan Adiga:
+
+M.S. from University of Arizona, 2019
+
+Currently a Ph.D. student at University of Arizona.
+
+* Robin Yadav:
+
+M.S. from University of Arizona, 2020
+
+Currently a Ph.D. student at Arizona State University, Tempe, AZ.
 
 ### Former Undergraduate Students
+* Patrick Kelley (University of Arizona)
+
+* Collin Reed (University of Arizona)
 
 ### PhD Student Collaboraors
+
+* SaiDhiraj Amuru (PhD in ECE from Virginia Tech; now at WiSig Networks and IIT hyderabad)
+
+* Prithwish Chakraborty (PhD in CS from Virginia Tech; now at IBM)
+
+* Siddharth Krishnan (Phd in CS from Virginia Tech; now Assistant Prof. at University of North Carolina, Charlotte)
+
+* Pejman Khadivi (PhD in CS from Virginia Tech; now Assistant Prof. at Seattle University)
+
+* Sathappan Muthiah (CS@Virginia Tech)
+
+* Yue Ning (CS@Virginia Tech)
+
+* Aditya Padaki (Phd in ECE from Virginia Tech; now at Samsung Research America)
