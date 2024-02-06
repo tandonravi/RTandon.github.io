@@ -60,65 +60,71 @@ I am currently working on data privacy issues at inference time, and aiming to f
 
 
 ### Former PhD Students
+* Bo Jiang
+
+    * Ph.D. from University of Arizona in 2023, co-advised with Prof. M. Li.
+
+    * Currently at TikTok, Los Altos, CA
 * Wei-Ting Chang: 
 
-Ph.D. from University of Arizona in 2022.
+    * Ph.D. from University of Arizona in 2022.
 
-Currently at NXP Semiconductors, Irvine, CA
+    * Currently at NXP Semiconductors, Irvine, CA
 
 * Mohamed Seif: 
 
-Ph.D. from University of Arizona in 2022, co-advised with Prof. M. Li.
+    * Ph.D. from University of Arizona in 2022, co-advised with Prof. M. Li.
 
-Currently a Post-Doctoral Research Associate at Princeton University, Princeton, NJ
+    * Currently a Post-Doctoral Research Associate at Princeton University, Princeton, NJ
 
 * Ture Peken:
 
-Ph.D. from University of Arizona in 2021, co-advised with Prof. T Bose.
+    * Ph.D. from University of Arizona in 2021, co-advised with Prof. T Bose.
 
-Currently at Apple, San Francisco, CA
+    * Currently at Apple, San Francisco, CA
 
 * Jean de Dieu Mutangana:
 
-Ph.D. from University of Arizona in 2021.
+    * Ph.D. from University of Arizona in 2021.
 
-Currently at Ford, Detroit, MI
+    * Currently at Ford, Detroit, MI
 
 * Mohamed Attia:
 
-Ph.D. from University of Arizona in 2020.
+    * Ph.D. from University of Arizona in 2020.
 
-Currently at Ford, Detroit, MI
+    * Currently at Ford, Detroit, MI
 
 * Avik Sengupta:
 
-Ph.D. from Virginia Tech in 2016, co-advised with Prof. T. Clancy
+    * Ph.D. from Virginia Tech in 2016, co-advised with Prof. T. Clancy
 
-Currently at Intel, Santa Clara, CA
+    * Currently at Intel, Santa Clara, CA
 
 * Akshay Kumar:
 
-Ph.D. from Virginia Tech in 2016, co-advised with Prof. T. Clancy
+    * Ph.D. from Virginia Tech in 2016, co-advised with Prof. T. Clancy
 
-Currently at Qualcomm, San Diego, CA
+    * Currently at Qualcomm, San Diego, CA
+ 
 ### Former MS Students
 * Deepak Kumar:
 
-M.S. from University of Arizona, 2018
+    * M.S. from University of Arizona, 2018
 
-Currently at Arrow Electronics, Phoenix, AZ
+    * Currently at Arrow Electronics, Phoenix, AZ
 
 * Sudarshan Adiga:
 
-M.S. from University of Arizona, 2019
+    * M.S. from University of Arizona, 2019
 
-Currently a Ph.D. student at University of Arizona.
+    * Currently a Ph.D. student at University of Arizona.
 
 * Robin Yadav:
 
-M.S. from University of Arizona, 2020
+    * M.S. from University of Arizona, 2020
 
-Currently a Ph.D. student at Arizona State University, Tempe, AZ.
+    * Currently a Ph.D. student at Arizona State University, Tempe, AZ.
 
 ### Former Undergraduate Students
 * Patrick Kelley (University of Arizona)
