@@ -26,7 +26,7 @@ author_profile: True
       <p style="font-size: 18px;"><a href="https://meiyuzhong.github.io/">Meiyu Zhong</a></p>
     </td>
     <td>
-      <p>Meiyu Zhong receives her B.S. in Shanghai University and M.S. in University of Southern California. Her research interests are Robustness and Fairness in Machine Learning.</p>
+      <p>Meiyu Zhong receives her B.S. in Electrical and Computer Engineering at Shanghai University and M.S. in Electrical and Computer Engineering at University of Southern California. Her research interests are Robustness and Fairness in Machine Learning.</p>
     </td>
   </tr>
 </table>
