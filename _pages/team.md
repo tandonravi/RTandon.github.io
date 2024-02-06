@@ -9,7 +9,7 @@ author_profile: True
 
 <table>
   <tr>
-    <td style="width: 50%"><img src="{{site.url}}/images/students/noel.PNG" width="150px"></td>
+    <td style="width: 30%"><img src="{{site.url}}/images/students/noel.PNG" width="150px"></td>
     <td>
       <p><strong>Noel Teku</strong></p>
     </td>
