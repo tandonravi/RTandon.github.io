@@ -13,7 +13,7 @@ author_profile: True
 
 <img src="{{site.url}}/images/students/fengwei.jpg" width="150px"> <a href="https://sites.google.com/arizona.edu/fengweitian/home">Wei Dong</a>
 
-<img src="{{site.url}}/images/students/payel.heic" width="150px"> Payel Bhattacharjee
+<img src="{{site.url}}/images/students/payel.png" width="150px"> Payel Bhattacharjee
 
 
 ### Former PhD Students
