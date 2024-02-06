@@ -11,17 +11,13 @@ author_profile: True
   <tr>
     <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/noel.PNG" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
-      <p><strong>Noel Teku</strong></p>
+      <p style="font-size: 18px;"><strong>Noel Teku</strong></p>
     </td>
     <td>
       <p>Noel Teku received his B.S. and M.S. degrees in Electrical and Computer Engineering at the University of Arizona. He is currently pursuing a Ph.D. in the same department. His research interests include wireless communications, signal processing and machine learning.</p>
     </td>
   </tr>
 </table>
-
-<img src="{{site.url}}/images/students/noel.PNG" width="150px"> Noel Teku
-
-Noel Teku received his B.S. and M.S. degrees in Electrical and Computer Engineering at the University of Arizona. He is currently pursuing a Ph.D. in the same department. His research interests include wireless communications, signal processing and machine learning.
 
 <img src="{{site.url}}/images/students/meiyu.jpeg" width="150px"> <a href="https://meiyuzhong.github.io/">Meiyu Zhong</a>
 
