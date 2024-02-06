@@ -7,7 +7,7 @@ author_profile: True
 
 ### Current PhD Students
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td style="width: 18%"><img src="{{site.url}}/images/students/noel.PNG" width="150px"></td>
     <td style="width: 18%">
