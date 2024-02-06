@@ -11,7 +11,9 @@ author_profile: True
   <tr>
     <td><img src="{{site.url}}/images/students/noel.PNG" width="150px"></td>
     <td>
-      <p>Noel Teku</p>
+      <h>Noel Teku</h>
+    </td>
+    <td>
       <p>Noel Teku received his B.S. and M.S. degrees in Electrical and Computer Engineering at the University of Arizona. He is currently pursuing a Ph.D. in the same department. His research interests include wireless communications, signal processing and machine learning.</p>
     </td>
   </tr>
