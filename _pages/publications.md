@@ -12,10 +12,10 @@ Recent Papers & Preprints:
 <br> <a href="https://arxiv.org/pdf/2201.11678.pdf">[Pre-print]</a>
 <br>
 
-* <b>On Dependence Balance Bounds for Two-Way Channels</b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487342">[On Dependence Balance Bounds for Two-Way Channels]</b>
 <br>R. Tandon and S. Ulukus
 <br>41st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November 2007.
-<br> <a href="https://ieeexplore.ieee.org/document/4487342">[Pre-print]</a>
+<br>
 <br>
 
 List of All Publications:
