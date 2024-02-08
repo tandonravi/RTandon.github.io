@@ -9,6 +9,18 @@ author_profile: True
 
 <table style="border: none;">
   <tr>
+    <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/sudarshan.JPG" width="150px"></td>
+    <td style="width: 18%; padding: 10px; border: none;">
+      <p style="font-size: 18px;">Sudarshan Adiga</p>
+    </td>
+    <td>
+      <p>Sudarshan Adiga is currently pursuing his Ph.D. in the Electrical and Computer Engineering Department at the University of Arizona, Tucson, AZ, USA, focusing on Machine Learning, Information Theory, and Wireless Communications. He obtained his M.S. degree in Electrical and Computer Engineering from the University of Arizona, in 2019, and his B.E. degree in Telecommunication Engineering from Ramaiah Institute of Technology, Bangalore, India, in 2015. Prior to his doctoral studies, Sudarshan worked as a software engineer at Bosch Corporation in both India and Japan from 2015 to 2017. Additionally, he served as a research intern at NTT Docomo in 2022 and at Marvell Technology in 2023.</p>
+    </td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
     <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/noel.PNG" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
       <p style="font-size: 18px;">Noel Teku</p>
