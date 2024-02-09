@@ -19,8 +19,7 @@ List of All Publications:
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7460522"> Cache Aided Wireless Networks: Tradeoffs between Storage and Latency </a> </b>
 <br>A. Sengupta, R. Tandon and O. Simeone
 <br>Conference on Information Sciences and Systems (CISS), Princeton, NJ, March 2016.
-<br>
-<br>
+
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487342"> On Dependence Balance Bounds for Two-Way Channels </a> </b>
 <br>R. Tandon and S. Ulukus
