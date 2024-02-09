@@ -28,10 +28,17 @@ List of All Publications:
 <br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan
 <br>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Boston, MA, Sep. 2015.
 
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4697962"> A A New Upper Bound for a Binary Additive Noisy Multiple Access Channel with Feedback </a> </b>
+<br>R. Tandon and S. Ulukus
+<br>IEEE Global Communications Conference (GLOBECOM), New Orleans, LA, November 2008.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4797748"> A New Upper Bound on the Capacity of a Class of Primitive Relay Channels </a> </b>
+<br>R. Tandon and S. Ulukus
+<br>46th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2008.
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487342"> On Dependence Balance Bounds for Two-Way Channels </a> </b>
 <br>R. Tandon and S. Ulukus
 <br>41st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November 2007.
-<br>
-<br>
+
 
 
