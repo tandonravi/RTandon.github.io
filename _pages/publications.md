@@ -20,6 +20,13 @@ List of All Publications:
 <br>A. Sengupta, R. Tandon and O. Simeone
 <br>Conference on Information Sciences and Systems (CISS), Princeton, NJ, March 2016.
 
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7403515"> Uncovering News-Twitter Reciprocity via Interaction Patterns </a> </b>
+<br>Y. Ning, S. Muthiah, R. Tandon, and N. Ramakrishnan
+<br>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM’15), Paris, Aug. 2015.
+
+* <b> <a href="https://prithwi.github.io/resources/papers/pejman_mlsp15_noisychannel.pdf"> Time series forecasting via noisy channel reversal </a> </b>
+<br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan
+<br>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Boston, MA, Sep. 2015.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487342"> On Dependence Balance Bounds for Two-Way Channels </a> </b>
 <br>R. Tandon and S. Ulukus
