@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Experiences"
+title: "Journal Papers"
 permalink: /research/
 redirect_from: 
   - /rs/
