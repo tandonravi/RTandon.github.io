@@ -16,6 +16,11 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7541655"> Cloud-Aided Wireless Networks with Edge Caching: Fundamental Latency Trade-Offs in Fog Radio Access Networks </a> </b> 
+<br>R. Tandon and O. Simeone
+<br>IEEE International Symposium on Information Theory (ISIT), Barcelona, Spain, July, 2016.
+
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7536885"> Cloud RAN and Edge Caching: Fundamental Performance Trade-Offs </a> </b> 
 <br>A. Sengupta, R. Tandon and O. Simeone
 <br>IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Edinburgh, UK, July, 2016.
