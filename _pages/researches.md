@@ -4,11 +4,13 @@ title: "Journal Papers"
 permalink: /researches/
 author_profile: True
 ---
-Published 
 
-Topological Interference Management with Confidential Messages
-J. Mutangana and R. Tandon,
-IEEE Transactions on Information Theory, to appear, 2022.
+List of All Publications:
+==========================
+
+* <b> <a  href="[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487342](https://arxiv.org/pdf/2010.14503.pdf)"> Topological Interference Management with Confidential Messages  </a> </b>
+<br>J. Mutangana and R. Tandon,
+<br>IEEE Transactions on Information Theory, to appear, 2022.
 
 
 Private Retrieval, Computing and Learning: Recent Progress and Future Challenges
