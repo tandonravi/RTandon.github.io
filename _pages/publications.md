@@ -16,6 +16,23 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://uweb.engr.arizona.edu/~mseif/ICC-2018-Secure-Multi-hop.pdf">On the Secure Degrees of Freedom of 2x2x2 Multi-Hop Network with Untrusted Relays</a> </b> 
+<br>M. Seif, R. Tandon and M. Li,
+<br>IEEE International Conference on Communications (ICC), Kansas City, MO, May 2018.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8423049">Non-Gaussian Signal Detection: How much can massive MIMO help?</a> </b> 
+<br>T. Peken, R. Tandon and T. Bose,
+<br>IEEE International Conference on Communications (ICC), Kansas City, MO, May 2018.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8262857">The Capacity of Cache Aided Private Information Retrieval</a> </b> 
+<br>R. Tandon,
+<br>55th Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2017.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8262831">Towards the Exact Rate-Memory Trade-Off for Uncoded Caching with Secure Delivery</a> </b> 
+<br>M. Bahrami, M. Attia, R. Tandon and B. Vasic,
+<br>55th Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2017.
+
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8254181">Blind Cooperative Jamming: Exploiting ISI Heterogeneity to Achieve Positive Secure DoF</a> </b> 
 <br>J. Mutangana, R. Tandon and N. Lee,
 <br>IEEE Global Communications Conference (GLOBECOM), Singapore, December, 2017.
