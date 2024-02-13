@@ -16,6 +16,10 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841903">Information Theoretic Limits of Data Shuffling for Distributed Learning</a> </b> 
+<br>M. Attia and R. Tandon
+<br>IEEE Global Communications Conference (GLOBECOM), Washington, DC, December, 2016.
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841853">Fundamental Limits on Latency in Small-Cell Caching Systems: An Information-Theoretic Analysis</a> </b> 
 <br>S. M. Azimi, O. Simeone and R. Tandon
 <br>IEEE Global Communications Conference (GLOBECOM), Washington, DC, December, 2016.
