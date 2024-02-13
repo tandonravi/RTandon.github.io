@@ -16,6 +16,10 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841853">Fundamental Limits on Latency in Small-Cell Caching Systems: An Information-Theoretic Analysis</a> </b> 
+<br>S. M. Azimi, O. Simeone and R. Tandon
+<br>IEEE Global Communications Conference (GLOBECOM), Washington, DC, December, 2016.
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7869139"> Layered Caching for Heterogeneous Storage</a> </b> 
 <br>A. Sengupta, R. Tandon and T. C. Clancy
 <br>50th Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November, 2016.
