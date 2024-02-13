@@ -1,13 +1,6 @@
 ---
 layout: archive
 title: "Journal Papers"
-permalink: /research/
-redirect_from: 
-  - /rs/
-  - /researches.html
-  
-author_profile: true
+permalink: /researches/
+author_profile: True
 ---
-
-{% include base_path %}
-
