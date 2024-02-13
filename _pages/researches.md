@@ -23,29 +23,29 @@ List of All Publications:
 <br>IEEE Transactions on Dependable and Secure Computing , 19(3): 1918-1935, June 2022.
 
 
-Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation
+* <b> <a href="https://arxiv.org/pdf/2103.01953.pdf"> Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation</a> </b> 
 <br>M. Seif, W. Chang and R. Tandon,
 <br>IEEE Journal on Selected Areas in Communications (JSAC), 39(12): 3821-3835, December 2021.
 
 
-Asymmetric Leaky Private Information Retrieval
-I. Samy, M. Attia, R. Tandon and L. Lazos,
-IEEE Transactions on Information Theory, 67(8): 5352-5369, August 2021.
+* <b> <a href="https://arxiv.org/pdf/2006.03048.pdf"> Asymmetric Leaky Private Information Retrieval</a> </b> 
+<br>I. Samy, M. Attia, R. Tandon and L. Lazos,
+<br>IEEE Transactions on Information Theory, 67(8): 5352-5369, August 2021.
 
 
-Heterogeneity Aware Two-Stage Group Testing
-M. Attia, W. Chang and R. Tandon,
-IEEE Transactions on Signal Processing, Vol. 69: 3977-3990, July 2021.
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472951">Heterogeneity Aware Two-Stage Group Testing</a> </b> 
+<br>M. Attia, W. Chang and R. Tandon,
+<br>IEEE Transactions on Signal Processing, Vol. 69: 3977-3990, July 2021.
 
 
-Context-Aware Local Information Privacy
-B. Jiang, M. Seif, R. Tandon and M. Li,
-IEEE Transactions on Information Forensics and Security, Vol. 16: 3694-3708, June 2021.
+* <b> <a href="">Context-Aware Local Information Privacy</a> </b> 
+<br>B. Jiang, M. Seif, R. Tandon and M. Li,
+<br>IEEE Transactions on Information Forensics and Security, Vol. 16: 3694-3708, June 2021.
 
 
-The Capacity of Private Information Retrieval from Uncoded Storage Constrained Databases
-M. Attia, D. Kumar and R. Tandon,
-IEEE Transactions on Information Theory, 66(11): 6617-6634, November 2020.
+* <b> <a href="">The Capacity of Private Information Retrieval from Uncoded Storage Constrained Databases</a> </b> 
+<br>M. Attia, D. Kumar and R. Tandon,
+<br>IEEE Transactions on Information Theory, 66(11): 6617-6634, November 2020.
 
 
 Deep Learning for SVD and Hybrid Beamforming
