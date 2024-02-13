@@ -16,6 +16,19 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996998">On Scalability and Interference Avoidance in Nonlinear Adjacent Channel Interference Networks </a> </b> 
+<br>A. Padaki, R. Tandon and J. Reed
+<br>IEEE International Conference on Communications (ICC), Paris, France, May 2017.
+
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7925854">Cloud-Aided Edge Caching with Multicast Fronthauling in Fog Radio Access Networks </a> </b> 
+<br>J. Koh, O. Simeone, R. Tandon and J. Kang
+<br>IEEE Wireless Communications and Networking Conference (WCNC), San Francisco, CA, March, 2017.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7852338">On the Worst-case Communication Overhead for Distributed Data Shuffling </a> </b> 
+<br>M. Attia and R. Tandon
+<br>54th Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2016.
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841903">Information Theoretic Limits of Data Shuffling for Distributed Learning</a> </b> 
 <br>M. Attia and R. Tandon
 <br>IEEE Global Communications Conference (GLOBECOM), Washington, DC, December, 2016.
