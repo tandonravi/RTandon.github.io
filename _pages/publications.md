@@ -16,6 +16,30 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8254181">Blind Cooperative Jamming: Exploiting ISI Heterogeneity to Achieve Positive Secure DoF</a> </b> 
+<br>J. Mutangana, R. Tandon and N. Lee,
+<br>IEEE Global Communications Conference (GLOBECOM), Singapore, December, 2017.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8335395">Topological Edge Caching with no CSI at the Edge</a> </b> 
+<br>W. Chang, R. Tandon and O. Simeone,
+<br>51st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November, 2017.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8335647">MIMO Wiretap Channel with ISI Heterogeneity - Achieving Secure DoF with no CSI</a> </b> 
+<br>J. Mutangana, D. Kumar and R. Tandon,
+<br>51st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November, 2017.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8006722">Online Edge Caching in Fog-aided Wireless Networks</a> </b> 
+<br>S. Azimi, O. Simeone, A. Sengupta and R. Tandon
+<br>IEEE International Symposium on Information Theory (ISIT), Aachen, Germany, June 2017.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8007004">On the Degrees of Freedom of Wide-Band Multi-cell Multiple Access Channels with no CSIT</a> </b> 
+<br>Yo-Seb Jeon, N. Lee and R. Tandon,
+<br>IEEE International Symposium on Information Theory (ISIT), Aachen, Germany, June 2017.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7987535">Coding for Efficient Caching in Multicore Embedded Systems</a> </b> 
+<br>T. Adegbija and R. Tandon
+<br>IEEE International Symposium on VLSI (ISVLSI), Bochum, Germany, July 2017.
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996418">On the Secure Degrees of Freedom of Partially Connected Networks with no CSIT</a> </b> 
 <br>M. Attia and R. Tandon
 <br>IEEE International Conference on Communications (ICC), Paris, France, May 2017.
