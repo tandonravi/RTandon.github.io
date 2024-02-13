@@ -16,6 +16,11 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996418">On the Secure Degrees of Freedom of Partially Connected Networks with no CSIT</a> </b> 
+<br>M. Attia and R. Tandon
+<br>IEEE International Conference on Communications (ICC), Paris, France, May 2017.
+
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996998">On Scalability and Interference Avoidance in Nonlinear Adjacent Channel Interference Networks </a> </b> 
 <br>A. Padaki, R. Tandon and J. Reed
 <br>IEEE International Conference on Communications (ICC), Paris, France, May 2017.
