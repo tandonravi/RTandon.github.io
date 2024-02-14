@@ -110,7 +110,8 @@ List of All Publications:
 <br>Y. Ning, S. Muthiah, R. Tandon, and N. Ramakrishnan
 <br>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM’15), Paris, Aug. 2015.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324330">Time series forecasting via noisy channel reversal</a> </b>
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324330">Time series forecasting via noisy channel reversal</a> </b> 
 <br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan  
 <br>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Boston, MA, Sep. 2015.  
  
