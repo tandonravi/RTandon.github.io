@@ -280,10 +280,11 @@ B. Ahmadi, <b>R. Tandon</b>, O. Simeone and H. Vincent Poor, <br />
 <b>R. Tandon</b>, S. Mohajer, H. Vincent Poor, and Shlomo Shamai, <br />
 <i>IEEE International Conference on Communications (ICC)</i>, Ottawa, Canada, June 2012.<br /><br /></p>
 </li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Globecom-2011.pdf">Discriminatory Lossy Source Coding: Side Information Privacy</a> <font color=red size=+0.5><b>(Best Paper Award)</b></font><br />
-<b>R. Tandon</b>, L. Sankar, and H. Vincent Poor, <br />
-<i>IEEE Global Communications Conference (GLOBECOM)</i>, Houston, TX, December 2011.<br /><br /></p>
-</li>
+
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a></p>b <font color=red size=+0.5><b>(Best Paper Award)</b></font> 
+<br>R. Tandon, L. Sankar, and H. Vincent Poor,
+<br>IEEE Global Communications Conference (GLOBECOM), Houston, TX, December 2011.
+  
 * <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392280f">On the Feedback Capacity of K-user Cyclic Interference Channel</a></b>
 <br>R. Tandon and H. Vincent Poor, 
 <br>49th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2011.
