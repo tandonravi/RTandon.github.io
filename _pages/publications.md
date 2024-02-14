@@ -231,7 +231,6 @@ Sydney, Australia, June 2014.
 * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Asilomar-2013-Jamming.pdf">Interference Alignment for MISO Broadcast Channels under Jamming attacks</a></b>
 <br>S. Amuru, R. Tandon, R. M. Buehrer and T. Charles Clancy,  
 <br>47th Asilomar Conference on Signals, Systems and Computers (Asilomar), Pacific Grove, CA, November 2013.  
- 
 * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Allerton-2013.pdf">Even Symmetric Parallel Linear Deterministic Interference Channels are Inseparable</a></b>
 <br>P. Mukherjee, R. Tandon and S. Ulukus,  
 <br>51st Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2013.  
@@ -301,19 +300,19 @@ Sydney, Australia, June 2014.
 <br>IEEE International Symposium on Information Theory (ISIT), St. Petersburg, Russia, August 2011.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102322">Competitive Privacy in the Smart Grid: An Information-theoretic Approach</a></b>
-<br>L. Sankar, S. Kar, R. Tandon and H. Vincent Poor
+<br>L. Sankar, S. Kar, R. Tandon and H. Vincent Poor,
 <br>IEEE International Conference on Smart Grid Communications, Brussels, Belgium, October 2011.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5766230">On the Capacity Region of Multiple-access Relay Channels</a></b>
-<br>R. Tandon and H. Vincent Poor
+<br>R. Tandon and H. Vincent Poor,
 <br>Conference on Information Sciences and Systems (CISS), Baltimore, MD, March 2011.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5707008">Capacity of a Class of Semi-Deterministic Primitive Relay Channels</a></b>
-<br>R. Tandon and S. Ulukus
+<br>R. Tandon and S. Ulukus,
 <br>48th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2010.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5513569">Diamond Channel with Partially Separated Relays</a></b>
-<br>R. Tandon and S. Ulukus
+<br>R. Tandon and S. Ulukus,
 <br>IEEE International Symposium on Information Theory (ISIT), Austin, TX, June 2010.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6399603">Secure Source coding with a Helper</a></b>
@@ -321,35 +320,35 @@ Sydney, Australia, June 2014.
 <br>47th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, Sep. 2009.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205267">Outer Bounds for User Cooperation</a></b>
-<br>R. Tandon and S. Ulukus
+<br>R. Tandon and S. Ulukus,
 <br>IEEE International Symposium on Information Theory (ISIT), Seoul, Korea, June 2009.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158591">Capacity bounds for the Gaussian Interference Channel with Transmitter Cooperation</a></b>
-<br>R. Tandon and S. Ulukus
+<br>R. Tandon and S. Ulukus,
 <br>IEEE Information Theory Workshop (ITW), Volos, Greece, June 2009.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5199251">On the Capacity Region of the Gaussian Multiple Access Channel with Noisy Feedback</a></b>
-<br>R. Tandon and S. Ulukus
+<br>R. Tandon and S. Ulukus,
 <br>IEEE International Conference on Communications (ICC), Dresden, Germany, June 2009.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205681">On the Rate-limited Gelfand-Pinsker problem</a></b>
-<br>R. Tandon and S. Ulukus
+<br>R. Tandon and S. Ulukus,
 <br>IEEE International Symposium on Information Theory (ISIT), Seoul, Korea, June 2009.
 
 * <b> <a href="https://prithwi.github.io/resources/papers/pejman_mlsp15_noisychannel.pdf"> Time series forecasting via noisy channel reversal </a> </b>
-<br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan
+<br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan,
 <br>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Boston, MA, Sep. 2015.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4697962"> A A New Upper Bound for a Binary Additive Noisy Multiple Access Channel with Feedback </a> </b>
-<br>R. Tandon and S. Ulukus
+<br>R. Tandon and S. Ulukus,
 <br>IEEE Global Communications Conference (GLOBECOM), New Orleans, LA, November 2008.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4797748"> A New Upper Bound on the Capacity of a Class of Primitive Relay Channels </a> </b>
-<br>R. Tandon and S. Ulukus
+<br>R. Tandon and S. Ulukus,
 <br>46th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2008.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487342"> On Dependence Balance Bounds for Two-Way Channels </a> </b>
-<br>R. Tandon and S. Ulukus
+<br>R. Tandon and S. Ulukus,
 <br>41st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November 2007.
 
 
