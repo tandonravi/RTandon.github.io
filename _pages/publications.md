@@ -281,7 +281,7 @@ B. Ahmadi, <b>R. Tandon</b>, O. Simeone and H. Vincent Poor, <br />
 <i>IEEE International Conference on Communications (ICC)</i>, Ottawa, Canada, June 2012.<br /><br /></p>
 </li>
 
-* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a></p>b <font color=red size=+0.5><b>(Best Paper Award)</b></font> 
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a></b> <font color=red size=+0.5><b>(Best Paper Award)</b></font> 
 <br>R. Tandon, L. Sankar, and H. Vincent Poor,
 <br>IEEE Global Communications Conference (GLOBECOM), Houston, TX, December 2011.
   
