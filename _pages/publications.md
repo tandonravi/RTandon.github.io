@@ -308,17 +308,17 @@ L. Sankar, S. Kar, <b>R. Tandon</b> and H. Vincent Poor, <br />
 <b>R. Tandon</b> and S. Ulukus, <br />
 <i>48th Annual Allerton Conference on Communications, Control and Computing</i>, Monticello, IL, September 2010.<br /><br /> </p>
 </li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2010.pdf">Diamond Channel with Partially Separated Relays</a><br />
-<b>R. Tandon</b> and S. Ulukus, <br />
-<i>IEEE International Symposium on Information Theory (ISIT)</i>, Austin, TX, June 2010.<br /><br /></p>
-</li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Allerton-2009.pdf">Secure Source coding with a Helper</a><br />
-<b>R. Tandon</b>, S. Ulukus, and K. Ramchandran, <br />
-<i>47th Annual Allerton Conference on Communications, Control and Computing</i>, Monticello, IL, Sep. 2009.<br /><br /></p>
-</li>
 
-*<b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205267">Outer Bounds for User Cooperation</a></b>
-<br>R. Tandon</b> and S. Ulukus
+*<b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5513569">Diamond Channel with Partially Separated Relays</a></b>
+<br>R. Tandon and S. Ulukus
+<br>IEEE International Symposium on Information Theory (ISIT), Austin, TX, June 2010.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6399603">Secure Source coding with a Helper</a></b>
+<br>R. Tandon, S. Ulukus, and K. Ramchandran,
+<br>47th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, Sep. 2009.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205267">Outer Bounds for User Cooperation</a></b>
+<br>R. Tandon and S. Ulukus
 <br>IEEE International Symposium on Information Theory (ISIT), Seoul, Korea, June 2009.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158591">Capacity bounds for the Gaussian Interference Channel with Transmitter Cooperation</a></b>
