@@ -110,6 +110,10 @@ List of All Publications:
 <br>Y. Ning, S. Muthiah, R. Tandon, and N. Ramakrishnan
 <br>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM’15), Paris, Aug. 2015.
 
+<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/MLSP-2015.pdf">Time series forecasting via noisy channel reversal</a><br />
+P. Khadivi, P. Chakraborty, <b>R. Tandon</b>, and N. Ramakrishnan <br />
+<i>IEEE International Workshop on Machine Learning for Signal Processing (MLSP)</i>, Boston, MA, Sep. 2015.<br /><br /></p>
+</li>
 
 <li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Globecom-2015-Secrecy.pdf">On the Symmetric 2-User Deterministic Interference Channel with Confidential Messages</a>
 <br /> C. Geng, <b>R. Tandon</b>, and Syed A. Jafar, <br />
@@ -288,14 +292,15 @@ B. Ahmadi, <b>R. Tandon</b>, O. Simeone and H. Vincent Poor, <br />
 <b>R. Tandon</b>, S. Mohajer, and H. Vincent Poor, <br />
 <i>IEEE International Symposium on Information Theory (ISIT)</i>, St. Petersburg, Russia, August 2011.<br /><br /></p>
 </li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2011-Distributed-detection.pdf">Distributed Detection in Noisy Sensor Networks</a><br />
-S. Kar, <b>R. Tandon</b>, H. Vincent Poor and S. Cui, <br />
-<i>IEEE International Symposium on Information Theory (ISIT)</i>, St. Petersburg, Russia, August 2011.<br /><br /></p>
-</li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2011-MUP.pdf">Multi-User Privacy: The Gray-Wyner System and Generalized Common Information</a><br />
-<b>R. Tandon</b>, L. Sankar, and H. Vincent Poor, <br />
-<i>IEEE International Symposium on Information Theory (ISIT)</i>, St. Petersburg, Russia, August 2011.<br /><br /></p>
-</li>
+
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6034097">Distributed Detection in Noisy Sensor Networks</a></b>
+<br>S. Kar, R. Tandon, H. Vincent Poor and S. Cui,
+<br>IEEE International Symposium on Information Theory (ISIT), St. Petersburg, Russia, August 2011.
+
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6034191">Multi-User Privacy: The Gray-Wyner System and Generalized Common Information</a></b>
+<br>R. Tandon, L. Sankar, and H. Vincent Poor,
+<br>IEEE International Symposium on Information Theory (ISIT), St. Petersburg, Russia, August 2011.
+
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102322">Competitive Privacy in the Smart Grid: An Information-theoretic Approach</a></b>
 <br>L. Sankar, S. Kar, R. Tandon and H. Vincent Poor
