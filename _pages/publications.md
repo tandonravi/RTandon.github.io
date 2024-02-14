@@ -284,14 +284,13 @@ B. Ahmadi, <b>R. Tandon</b>, O. Simeone and H. Vincent Poor, <br />
 <b>R. Tandon</b>, L. Sankar, and H. Vincent Poor, <br />
 <i>IEEE Global Communications Conference (GLOBECOM)</i>, Houston, TX, December 2011.<br /><br /></p>
 </li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Allerton-2011.pdf">On the Feedback Capacity of K-user Cyclic Interference Channel</a><br />
-<b>R. Tandon</b> and H. Vincent Poor, <br />
-<i>49th Annual Allerton Conference on Communications, Control and Computing</i>, Monticello, IL, September 2011.<br /><br /></p>
-</li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2011-Cascade.pdf">Cascade Source Coding with Erased Side Information</a><br />
-<b>R. Tandon</b>, S. Mohajer, and H. Vincent Poor, <br />
-<i>IEEE International Symposium on Information Theory (ISIT)</i>, St. Petersburg, Russia, August 2011.<br /><br /></p>
-</li>
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392280f">On the Feedback Capacity of K-user Cyclic Interference Channel</a></b>
+<br>R. Tandon and H. Vincent Poor, 
+<br>49th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2011.
+
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6034117">Cascade Source Coding with Erased Side Information</a></b>
+<br>R. Tandon, S. Mohajer, and H. Vincent Poor,
+<br>IEEE International Symposium on Information Theory (ISIT)</i>, St. Petersburg, Russia, August 2011.
 
 * <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6034097">Distributed Detection in Noisy Sensor Networks</a></b>
 <br>S. Kar, R. Tandon, H. Vincent Poor and S. Cui,
