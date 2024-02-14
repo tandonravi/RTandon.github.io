@@ -110,46 +110,46 @@ List of All Publications:
 <br>Y. Ning, S. Muthiah, R. Tandon, and N. Ramakrishnan
 <br>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM’15), Paris, Aug. 2015.
 
-* <b> <a href="http://www.engr.arizona.edu/~tandonr/conference-papers/MLSP-2015.pdf">Time series forecasting via noisy channel reversal</a></b>
+* <b> <a href="">Time series forecasting via noisy channel reversal</a></b>
 <br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan  
 <br>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Boston, MA, Sep. 2015.  
  
 
-* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Globecom-2015-Secrecy.pdf">On the Symmetric 2-User Deterministic Interference Channel with Confidential Messages</a> </b>
+* <b><a href="">On the Symmetric 2-User Deterministic Interference Channel with Confidential Messages</a> </b>
 <br>C. Geng, R. Tandon, and Syed A. Jafar,  
 <br>IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015.  
  
-* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Globecom-2015-RF.pdf">Efficient Spectrum Sharing with RF Diversity: Adapting to Nonlinearity of Front Ends</a></b>
+* <b><a href="">Efficient Spectrum Sharing with RF Diversity: Adapting to Nonlinearity of Front Ends</a></b>
 <br>A. Padaki, R. Tandon, and Jeffrey H. Reed,  
 <br>IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015.  
  
-* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-New-Bounds-Exact-Repair-DSS.pdf">New Bounds on the (n, k, d) Storage Systems with Exact Repair</a></b>
+* <b><a href="">New Bounds on the (n, k, d) Storage Systems with Exact Repair</a></b>
 <br>S. Mohajer and R. Tandon,  
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
-* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-Linear-DSS.pdf">Linear Exact Repair Rate region of (k+1, k, k) distributed storage systems: a new approach</a></b>
+* <b><a href="">Linear Exact Repair Rate region of (k+1, k, k) distributed storage systems: a new approach</a></b>
 <br>M. Elyasi, R. Tandon and S. Mohajer,  
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
-* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-Caching-Outer-Bound.pdf">Improved Approximation of Storage-Rate Tradeoff for Caching via New Outer Bounds</a></b>
+* <b><a href="">Improved Approximation of Storage-Rate Tradeoff for Caching via New Outer Bounds</a></b>
 <br>A. Sengupta, R. Tandon and T. Clancy,  
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
-* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT15-miso-bccm-het-csit.pdf">Secrecy for MISO Broadcast Channel with Heterogeneous CSIT</a></b>
+* <b><a href="">Secrecy for MISO Broadcast Channel with Heterogeneous CSIT</a></b>
 <br>P. Mukherjee, R. Tandon and S. Ulukus,  
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-Outer-bound-Het-CSIT.pdf">A General Outer Bound for MISO Broadcast Channel with Heterogeneous CSIT</a></b>
-S. Lashgari, R. Tandon and S. Avestimehr,  
- <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
+* <b><a href="">A General Outer Bound for MISO Broadcast Channel with Heterogeneous CSIT</a></b>
+<br>S. Lashgari, R. Tandon and S. Avestimehr,  
+<br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-Denoising.pdf">Online Denoising of Discrete Noisy Data</a></b>
-P. Khadivi, R. Tandon and N. Ramakrishnan,  
- <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
+* <b><a href="">Online Denoising of Discrete Noisy Data</a></b>
+<br>P. Khadivi, R. Tandon and N. Ramakrishnan,  
+<br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ICC-2015-3userBC-het-csit.pdf">Three-User MISO Broadcast Channel: How Much Can CSIT Heterogeneity Help?</a></b>
-S. Lashgari, R. Tandon and S. Avestimehr,  
- <br>IEEE International Conference on Communications (ICC), London, UK, June 2015.  
+* <b><a href="">Three-User MISO Broadcast Channel: How Much Can CSIT Heterogeneity Help?</a></b>
+<br>S. Lashgari, R. Tandon and S. Avestimehr,  
+<br>IEEE International Conference on Communications (ICC), London, UK, June 2015.  
  
  * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ICC-2015-Secrecy-Alternating-CSIT.pdf">Secrecy for MISO Broadcast Channels via Alternating CSIT</a></b>
 P. Mukherjee, R. Tandon and S. Ulukus,  
@@ -171,7 +171,7 @@ R. Tandon and S. Mohajer,
 A. Kumar, R. Tandon and T. Charles Clancy,  
  <br>IEEE GLOBECOM, Symposium on Data Storage, Austin, TX, USA, Dec. 2014.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Milcom-2014.pdf">Receiver Non-Linearity Aware Resource Allocation for Dynamic Spectrum Access Systems</a>
+ * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Milcom-2014.pdf">Receiver Non-Linearity Aware Resource Allocation for Dynamic Spectrum Access Systems</a></b>
   
 A. Padaki, R. Tandon and Jeffrey H. Reed,   
  <br>IEEE Milcom, Baltimore, MD, USA, Oct. 2014.  
@@ -180,7 +180,7 @@ A. Padaki, R. Tandon and Jeffrey H. Reed,
 A. Padaki, R. Tandon and Jeffrey H. Reed,  
  <br>48th Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, Nov. 2014.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISWCS-2014-Learning.pdf">Learning Distributed Caching Strategies in Small Cell Networks</a> (I) 
+ * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISWCS-2014-Learning.pdf">Learning Distributed Caching Strategies in Small Cell Networks</a></b>
 A. Sengupta, S. Amuru, R. Tandon, R. Michael Buehrer and T. Charles Clancy,  
  <br>IEEE ISWCS, Barcelona, Spain, August 2014.  
  
@@ -213,7 +213,7 @@ Sydney, Australia, June 2014.
 A. Sengupta, R. Tandon and T. Charles Clancy,  
  <br>IEEE ICC (Workshop on Wireless PHY Layer Security), Sydney, Australia, June 2014.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISCCSP-2014.pdf">Decentralized Interference Channels with Noisy Feedback Possess Pareto Optimal Nash Equilibria</a> (invited) 
+ * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISCCSP-2014.pdf">Decentralized Interference Channels with Noisy Feedback Possess Pareto Optimal Nash Equilibria</a> </b> (invited) 
 S. Perlaza, R. Tandon and H. Vincent Poor,  
  <br>6th International Symp. on Communications, Control, and Signal Processing (ISCCSP 2014), Athens, Greece, May 2014.  
  
@@ -221,7 +221,7 @@ S. Perlaza, R. Tandon and H. Vincent Poor,
 A. Sengupta, R. Tandon and T. Charles Clancy,  
  <br>IEEE GWS (Global Wireless Submmit), Aalborg, Demnark, May 2014.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ITA-2014.pdf">Distributed Storage Systems with Secure and Exact Repair - New Results</a> (invited) 
+ * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ITA-2014.pdf">Distributed Storage Systems with Secure and Exact Repair - New Results</a> </b>(invited) 
 R. Tandon, S. Amuru, T. Charles Clancy and R. M. Buehrer,  
  <br>Information Theory and Applications Workshop (ITA), San Diego, CA, February 2014.  
  
@@ -261,26 +261,25 @@ R. Tandon, M.-A. Maddah-Ali, A. Tulino, H. Vincent Poor and Shlomo Shamai,
 R. Tandon, S. Mohajer, H. Vincent Poor and Shlomo Shamai,  
  <br>IEEE International Symposium on Information Theory (ISIT), Boston, MA, July 2012.  
  
-* <b><a href="">Generalized Degrees of Freedom of the Symmetric K-user Interference Channel with Feedback</a></b>
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6284139">Generalized Degrees of Freedom of the Symmetric K-user Interference Channel with Feedback</a></b>
 <br>S. Mohajer, R. Tandon and H. Vincent Poor,   
 <br>IEEE International Symposium on Information Theory (ISIT), Boston, MA, July 2012.  
  
- * <b><a href="">On the Sum-capacity of the Linear Deterministic Interference Channel with Partial Feedback</a></b>
+ * <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6283733">On the Sum-capacity of the Linear Deterministic Interference Channel with Partial Feedback</a></b>
 <br>Le-Sy Quoc, R. Tandon, M. Motani and H. Vincent Poor,  
 <br>IEEE International Symposium on Information Theory (ISIT), Boston, MA, July 2012.  
  
-* <b><a href="">On the Heegard-Berger Problem with Common Reconstruction Constraints</a></b>
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6283589">On the Heegard-Berger Problem with Common Reconstruction Constraints</a></b>
 <br>B. Ahmadi, R. Tandon, O. Simeone and H. Vincent Poor,  
 <br>IEEE International Symposium on Information Theory (ISIT), Boston, MA, July 2012.  
  
-* <b><a href="">Gaussian Multiple Descriptions with Common and Constrained Reconstruction Constraints</a></b>
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6283486">Gaussian Multiple Descriptions with Common and Constrained Reconstruction Constraints</a></b>
 <br>R. Tandon, B. Ahmadi, O. Simeone and H. Vincent Poor,  
 <br>IEEE International Symposium on Information Theory (ISIT), Boston, MA, July 2012.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ICC-2012.pdf">Feedback and Delayed CSI can be as good as Perfect CSI</a></b>
-R. Tandon, S. Mohajer, H. Vincent Poor, and Shlomo Shamai,  
- <br>IEEE International Conference on Communications (ICC), Ottawa, Canada, June 2012.  
- 
+* <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6364171">Feedback and Delayed CSI can be as good as Perfect CSI</a></b>
+<br>R. Tandon, S. Mohajer, H. Vincent Poor, and Shlomo Shamai,  
+<br>IEEE International Conference on Communications (ICC), Ottawa, Canada, June 2012.  
 
 * <b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a></b> <font color=red size=+0.5><b>(Best Paper Award)</b></font> 
 <br>R. Tandon, L. Sankar, and H. Vincent Poor,
@@ -302,10 +301,9 @@ R. Tandon, S. Mohajer, H. Vincent Poor, and Shlomo Shamai,
 <br>R. Tandon, L. Sankar, and H. Vincent Poor,
 <br>IEEE International Symposium on Information Theory (ISIT), St. Petersburg, Russia, August 2011.
 
-
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102322">Competitive Privacy in the Smart Grid: An Information-theoretic Approach</a></b>
 <br>L. Sankar, S. Kar, R. Tandon and H. Vincent Poor
-  <br>IEEE International Conference on Smart Grid Communications, Brussels, Belgium, October 2011.
+<br>IEEE International Conference on Smart Grid Communications, Brussels, Belgium, October 2011.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5766230">On the Capacity Region of Multiple-access Relay Channels</a></b>
 <br>R. Tandon and H. Vincent Poor
