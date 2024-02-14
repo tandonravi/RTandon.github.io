@@ -316,17 +316,17 @@ L. Sankar, S. Kar, <b>R. Tandon</b> and H. Vincent Poor, <br />
 <b>R. Tandon</b>, S. Ulukus, and K. Ramchandran, <br />
 <i>47th Annual Allerton Conference on Communications, Control and Computing</i>, Monticello, IL, Sep. 2009.<br /><br /></p>
 </li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2009-1.pdf">Outer Bounds for User Cooperation</a><br />
-<b>R. Tandon</b> and S. Ulukus, <br />
-<i>IEEE International Symposium on Information Theory (ISIT)</i>, Seoul, Korea, June 2009.<br /><br /></p>
-</li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ITW-2009.pdf">Capacity bounds for the Gaussian Interference Channel with Transmitter Cooperation</a><br />
-<b>R. Tandon</b> and S. Ulukus, <br />
-<i>IEEE Information Theory Workshop (ITW)</i>, Volos, Greece, June 2009.<br /><br /></p>
-</li>
+
+*<b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205267">Outer Bounds for User Cooperation</a></b>
+<br>R. Tandon</b> and S. Ulukus
+<br>IEEE International Symposium on Information Theory (ISIT), Seoul, Korea, June 2009.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5158591">Capacity bounds for the Gaussian Interference Channel with Transmitter Cooperation</a></b>
+<br>R. Tandon and S. Ulukus
+<br>IEEE Information Theory Workshop (ITW), Volos, Greece, June 2009.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5199251">On the Capacity Region of the Gaussian Multiple Access Channel with Noisy Feedback</a></b>
-<br>R. Tandon</b> and S. Ulukus, <br />
+<br>R. Tandon and S. Ulukus
 <br>IEEE International Conference on Communications (ICC), Dresden, Germany, June 2009.
 
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205681">On the Rate-limited Gelfand-Pinsker problem</a></b>
