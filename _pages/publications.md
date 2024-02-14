@@ -208,11 +208,11 @@ List of All Publications:
 <br>IEEE International Conference on Communications (ICC), 
 Sydney, Australia, June 2014.  
  
-* <b> <a href="">Fundamental Limits of Caching with Secure Delivery</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6881293">Fundamental Limits of Caching with Secure Delivery</a> </b>
 <br>A. Sengupta, R. Tandon and T. Charles Clancy, 
 <br>IEEE ICC (Workshop on Wireless PHY Layer Security), Sydney, Australia, June 2014.  
  
-* <b> <a href="">Decentralized Interference Channels with Noisy Feedback Possess Pareto Optimal Nash Equilibria</a> </b> (invited) 
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6877900">Decentralized Interference Channels with Noisy Feedback Possess Pareto Optimal Nash Equilibria</a> </b> (invited) 
 <br>S. Perlaza, R. Tandon and H. Vincent Poor, 
 <br>6th International Symp. on Communications, Control, and Signal Processing (ISCCSP 2014), Athens, Greece, May 2014.  
  
