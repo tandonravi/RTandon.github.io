@@ -110,33 +110,34 @@ List of All Publications:
 <br>Y. Ning, S. Muthiah, R. Tandon, and N. Ramakrishnan
 <br>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM’15), Paris, Aug. 2015.
 
- * <b> <a href="http://www.engr.arizona.edu/~tandonr/conference-papers/MLSP-2015.pdf">Time series forecasting via noisy channel reversal</a></b>
-P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan  
- <br>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Boston, MA, Sep. 2015.  
+* <b> <a href="http://www.engr.arizona.edu/~tandonr/conference-papers/MLSP-2015.pdf">Time series forecasting via noisy channel reversal</a></b>
+<br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan  
+<br>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Boston, MA, Sep. 2015.  
  
 
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Globecom-2015-Secrecy.pdf">On the Symmetric 2-User Deterministic Interference Channel with Confidential Messages</a>
-  C. Geng, R. Tandon, and Syed A. Jafar,  
- <br>IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015.  
+* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Globecom-2015-Secrecy.pdf">On the Symmetric 2-User Deterministic Interference Channel with Confidential Messages</a> </b>
+<br>C. Geng, R. Tandon, and Syed A. Jafar,  
+<br>IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Globecom-2015-RF.pdf">Efficient Spectrum Sharing with RF Diversity: Adapting to Nonlinearity of Front Ends</a></b> A. Padaki, R. Tandon, and Jeffrey H. Reed,  
- <br>IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015.  
+* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Globecom-2015-RF.pdf">Efficient Spectrum Sharing with RF Diversity: Adapting to Nonlinearity of Front Ends</a></b>
+<br>A. Padaki, R. Tandon, and Jeffrey H. Reed,  
+<br>IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-New-Bounds-Exact-Repair-DSS.pdf">New Bounds on the (n, k, d) Storage Systems with Exact Repair</a></b>
-S. Mohajer and R. Tandon,  
- <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
+* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-New-Bounds-Exact-Repair-DSS.pdf">New Bounds on the (n, k, d) Storage Systems with Exact Repair</a></b>
+<br>S. Mohajer and R. Tandon,  
+<br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-Linear-DSS.pdf">Linear Exact Repair Rate region of (k+1, k, k) distributed storage systems: a new approach</a></b>
-M. Elyasi, R. Tandon and S. Mohajer,  
- <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
+* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-Linear-DSS.pdf">Linear Exact Repair Rate region of (k+1, k, k) distributed storage systems: a new approach</a></b>
+<br>M. Elyasi, R. Tandon and S. Mohajer,  
+<br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-Caching-Outer-Bound.pdf">Improved Approximation of Storage-Rate Tradeoff for Caching via New Outer Bounds</a></b>
-A. Sengupta, R. Tandon and T. Clancy,  
- <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
+* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-Caching-Outer-Bound.pdf">Improved Approximation of Storage-Rate Tradeoff for Caching via New Outer Bounds</a></b>
+<br>A. Sengupta, R. Tandon and T. Clancy,  
+<br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
- * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT15-miso-bccm-het-csit.pdf">Secrecy for MISO Broadcast Channel with Heterogeneous CSIT</a></b>
-P. Mukherjee, R. Tandon and S. Ulukus,  
- <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
+* <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT15-miso-bccm-het-csit.pdf">Secrecy for MISO Broadcast Channel with Heterogeneous CSIT</a></b>
+<br>P. Mukherjee, R. Tandon and S. Ulukus,  
+<br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
  * <b><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/ISIT-2015-Outer-bound-Het-CSIT.pdf">A General Outer Bound for MISO Broadcast Channel with Heterogeneous CSIT</a></b>
 S. Lashgari, R. Tandon and S. Avestimehr,  
