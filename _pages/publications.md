@@ -296,20 +296,20 @@ S. Kar, <b>R. Tandon</b>, H. Vincent Poor and S. Cui, <br />
 <b>R. Tandon</b>, L. Sankar, and H. Vincent Poor, <br />
 <i>IEEE International Symposium on Information Theory (ISIT)</i>, St. Petersburg, Russia, August 2011.<br /><br /></p>
 </li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/SmartGridComm-2011.pdf">Competitive Privacy in the Smart Grid: An Information-theoretic Approach</a><br />
-L. Sankar, S. Kar, <b>R. Tandon</b> and H. Vincent Poor, <br />
-<i>IEEE International Conference on Smart Grid Communications</i>, Brussels, Belgium, October 2011.<br /><br /></p>
-</li>
 
-*<b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5766230">On the Capacity Region of Multiple-access Relay Channels</a></b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102322">Competitive Privacy in the Smart Grid: An Information-theoretic Approach</a></b>
+<br>L. Sankar, S. Kar, R. Tandon and H. Vincent Poor
+  <br>IEEE International Conference on Smart Grid Communications, Brussels, Belgium, October 2011.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5766230">On the Capacity Region of Multiple-access Relay Channels</a></b>
 <br>R. Tandon and H. Vincent Poor
 <br>Conference on Information Sciences and Systems (CISS), Baltimore, MD, March 2011.
 
-*<b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5707008">Capacity of a Class of Semi-Deterministic Primitive Relay Channels</a></b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5707008">Capacity of a Class of Semi-Deterministic Primitive Relay Channels</a></b>
 <br>R. Tandon and S. Ulukus
 <br>48th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2010.
 
-*<b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5513569">Diamond Channel with Partially Separated Relays</a></b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5513569">Diamond Channel with Partially Separated Relays</a></b>
 <br>R. Tandon and S. Ulukus
 <br>IEEE International Symposium on Information Theory (ISIT), Austin, TX, June 2010.
 
