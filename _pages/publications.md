@@ -300,14 +300,14 @@ S. Kar, <b>R. Tandon</b>, H. Vincent Poor and S. Cui, <br />
 L. Sankar, S. Kar, <b>R. Tandon</b> and H. Vincent Poor, <br />
 <i>IEEE International Conference on Smart Grid Communications</i>, Brussels, Belgium, October 2011.<br /><br /></p>
 </li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/CISS-2011-MARC.pdf">On the Capacity Region of Multiple-access Relay Channels</a><br />
-<b>R. Tandon</b> and H. Vincent Poor, <br />
-<i>Conference on Information Sciences and Systems (CISS)</i>, Baltimore, MD, March 2011.<br /><br /></p>
-</li>
-<li><p><a href="http://www.engr.arizona.edu/~tandonr/conference-papers/Allerton-2010.pdf">Capacity of a Class of Semi-Deterministic Primitive Relay Channels</a><br />
-<b>R. Tandon</b> and S. Ulukus, <br />
-<i>48th Annual Allerton Conference on Communications, Control and Computing</i>, Monticello, IL, September 2010.<br /><br /> </p>
-</li>
+
+*<b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5766230">On the Capacity Region of Multiple-access Relay Channels</a></b>
+<br>R. Tandon and H. Vincent Poor
+<br>Conference on Information Sciences and Systems (CISS), Baltimore, MD, March 2011.
+
+*<b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5707008">Capacity of a Class of Semi-Deterministic Primitive Relay Channels</a></b>
+<br>R. Tandon and S. Ulukus
+<br>48th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2010.
 
 *<b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5513569">Diamond Channel with Partially Separated Relays</a></b>
 <br>R. Tandon and S. Ulukus
