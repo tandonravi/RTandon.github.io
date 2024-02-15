@@ -16,6 +16,47 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8761176">Local Information Privacy with Bounded Prior</a> </b> 
+<br>B. Jiang, M. Li and R. Tandon,
+<br>IEEE International Conference on Communications (ICC), Shanghai, China, May, 2019.
+
+* <b> <a href="https://par.nsf.gov/servlets/purl/10359037">On the Capacity of Secure Distributed Matrix Multiplication</a> </b> 
+<br>W. Chang and R. Tandon
+<br>IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, December, 2018.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8645965">On the Capacity of Secure Distributed FFT</a> </b> 
+<br>W. Chang and R. Tandon
+<br>IEEE Global Conference on Signal and Information Processing (GlobalSIP), Anaheim, CA, November, 2018.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8646478">On the Tradeoff between Mode Collapse and Sample Quality in Generative Adversarial networks</a> </b> 
+<br>S. Adiga, M. Attia, W. Chang and R. Tandon
+<br>IEEE Global Conference on Signal and Information Processing (GlobalSIP), Anaheim, CA, November, 2018.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8645398">Interference Channels with Confidential Messages: Scaling up the Secure Degrees of Freedom with No CSIT</a> </b> 
+<br>J. Mutangana and R. Tandon,
+<br>52nd Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November, 2018.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437325">Approximately Optimal Distributed Data Shuffling</a> </b> 
+<br>M. Attia and R. Tandon,
+<br>IEEE International Symposium on Information Theory (ISIT), Vail, Colorado, June 2018.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437729">The Capacity of Uncoded Storage Constrained PIR</a> </b> 
+<br>M. Attia, D. Kumar, and R. Tandon,
+<br>IEEE International Symposium on Information Theory (ISIT), Vail, Colorado, June 2018.
+
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437339">On the Secure Degrees of Freedom of the K-user Interference Channel with Delayed CSIT</a> </b> 
+<br>M. Seif, R. Tandon and M. Li,
+<br>IEEE International Symposium on Information Theory (ISIT), Vail, Colorado, June 2018.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8433200">Context-Aware Data Aggregation with Localized Information Privacy</a> </b> 
+<br>B. Jiang, M. Li and R. Tandon,
+<br>IEEE Conference on Communications and Network Security (CNS), Beijing, China, June 2018.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8422198">PIR from Storage Constrained Databases - Coded Caching meets PIR</a> </b> 
+<br>R. Tandon, M. Abdul-Wahid, F. Almoualem, and D. Kumar,
+<br>IEEE International Conference on Communications (ICC), Kansas City, MO, May 2018.
+
 * <b> <a href="https://uweb.engr.arizona.edu/~mseif/ICC-2018-Secure-Multi-hop.pdf">On the Secure Degrees of Freedom of 2x2x2 Multi-Hop Network with Untrusted Relays</a> </b> 
 <br>M. Seif, R. Tandon and M. Li,
 <br>IEEE International Conference on Communications (ICC), Kansas City, MO, May 2018.
