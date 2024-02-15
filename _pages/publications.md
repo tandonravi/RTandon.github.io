@@ -16,6 +16,29 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://proceedings.mlr.press/v162/mohamed22a/mohamed22a.pdf">Differentially Private Community Detection for Stochastic Block Models</a> </b> 
+<br>M. Seif, D. Nguyen, A. Vullikanti and R. Tandon,
+<br>International Conference on Machine Learning (ICML), Baltimore, MD, July, 2022.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9751200">Differentially Private Federated Learning with Drift Control</a> </b> 
+<br>W. Chang, M. Seif and R. Tandon,
+<br>Conference on Information Sciences and Systems (CISS), Princeton, NJ, March 2022.
+
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9751171">Sparse Matrix Codes: Rate-Reliability Trade-offs for URLLC</a> </b> 
+<br>S. Adiga, R. Tandon and T. Bose,
+<br>Conference on Information Sciences and Systems (CISS), Princeton, NJ, March 2022.
+
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517754">On the Capacity of Latent Variable Private Information Retrieval</a> </b> 
+<br>I. Samy, M. Attia, R. Tandon and L. Lazos,
+<br>IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, July 2021.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517741">Wiretap Channel with Latent Variable Secrecy</a> </b> 
+<br>J. Mutangana, R. Tandon, Z. Goldfeld and S. Shamai,
+<br>IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, July 2021.
+
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9562556">Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation</a> </b> 
 <br>M. Seif, W. Chang and R. Tandon,
 <br>IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, July 2021.
