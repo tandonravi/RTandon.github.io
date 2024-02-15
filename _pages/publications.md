@@ -334,10 +334,6 @@ Sydney, Australia, June 2014.
 <br>R. Tandon and S. Ulukus,
 <br>IEEE International Symposium on Information Theory (ISIT), Seoul, Korea, June 2009.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324330"> Time series forecasting via noisy channel reversal </a> </b>
-<br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan,
-<br>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Boston, MA, Sep. 2015.
-
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4697962"> A A New Upper Bound for a Binary Additive Noisy Multiple Access Channel with Feedback </a> </b>
 <br>R. Tandon and S. Ulukus,
 <br>IEEE Global Communications Conference (GLOBECOM), New Orleans, LA, November 2008.
