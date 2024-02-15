@@ -65,7 +65,7 @@ I am currently working on data privacy issues at inference time, and aiming to f
       <p style="font-size: 18px;">Payel Bhattacharjee</p>
     </td>
     <td>
-      <p>I am Payel Bhattacharjee, a second year Ph.D. student in the ECE Department at the University of Arizona. I have received my Bachelors of Technology (B.Tech) degree from KIIT University, Bhubaneswar, India. At the UofA I am advised by Dr. Ravi Tandon, and my current research focuses on Trustworthy Machine Learning, Differential Privacy and Causal Graph Discovery. </p>
+      <p>I am Payel Bhattacharjee, currently Ph.D. student in the ECE Department at the University of Arizona. I have received my Bachelors of Technology (B.Tech) degree from KIIT University, Bhubaneswar, India. Before joining UoA, I have worked as an Associate Software Engineer at Bosch Global Software Technologies (BGSW) from 2021 to 2022. At the UofA I am advised by Dr. Ravi Tandon, and my current research focuses on Trustworthy Machine Learning, Differential Privacy, Causal Inference and Causal Graph Discovery. </p>
     </td>
   </tr>
 </table>
