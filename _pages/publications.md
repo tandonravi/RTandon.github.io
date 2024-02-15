@@ -16,6 +16,69 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9562556">Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation</a> </b> 
+<br>M. Seif, W. Chang and R. Tandon,
+<br>IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, July 2021.
+
+* <b> <a href="https://uweb.engr.arizona.edu/~mseif/Biased-WLFL-SPAWC-2021.pdf">On the Necessity of Aligning Gradients for Wireless Federated Learning</a> </b> 
+<br>W. Chang, M. Seif and R. Tandon,
+<br>IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy, September, 2021.
+
+
+* <b> <a href="https://arxiv.org/pdf/2105.04118.pdf">FAID Diversity via Neural Networks</a> </b> 
+<br>X. Xiao, N. Raveendran, B. Vasic, S. Lin and R. Tandon,
+<br>IEEE 11th International Symposium on Topics in Coding (ISTC), Montreal, Canada, September, 2021.
+
+* <b> <a href="https://uweb.engr.arizona.edu/~wchang/Globecom-2020-MacAwareFL.pdf">MAC Aware Quantization for Distributed Gradient Descent</a> </b> 
+<br>W. Chang and R. Tandon,
+<br>IEEE Global Communications Conference (GLOBECOM), Taipei, December, 2020.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207422">Regret Analysis of Stochastic Multi-armed Bandit Problem with Clustered Information Feedback</a> </b> 
+<br>T. Zhao, B. Jiang, M. Li and R. Tandon,
+<br>International Joint Conference on Neural Networks (IJCNN), Glasgow, UK, July, 2020.
+
+* <b> <a href="https://uweb.engr.arizona.edu/~tandonr/conference-papers/ISIT-LV-PIR-2020.pdf">Latent-variable Private Information Retrieval</a> </b> 
+<br>I. Samy, M. Attia, R. Tandon and L. Lazos,
+<br>IEEE International Symposium on Information Theory (ISIT), Los Angeles, June, 2020.
+
+* <b> <a href="https://par.nsf.gov/servlets/purl/10187233">Wireless Federated Learning with Local Differential Privacy</a> </b> 
+<br>M. Seif, R. Tandon and M. Li,
+<br>IEEE International Symposium on Information Theory (ISIT), Los Angeles, June, 2020.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149278">On Secure Topological Interference Management for Half-rate-feasible Networks</a> </b> 
+<br>J. Mutangana and R. Tandon,
+<br>IEEE International Conference on Communications (ICC), Dublin, Ireland, June, 2020.
+
+* <b> <a href="https://uweb.engr.arizona.edu/~tandonr/conference-papers/ICC-Autoencoders-mmW-BF-2020.pdf">Unsupervised mmWave Beamforming via Autoencoders</a> </b> 
+<br>T. Peken, R. Tandon and T. Bose,
+<br>IEEE International Conference on Communications (ICC), Dublin, Ireland, June, 2020.
+
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9013364">Finite alphabet iterative decoding of LDPC codes with coarsely quantized neural networks</a> </b> 
+<br>X. Xiao, B. Vasic, R. Tandon and S. Lin,
+<br>IEEE Global Communications Conference (GLOBECOM), Hawaii, December, 2019.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8989342">On the Upload versus Download Cost for Secure and Private Matrix Multiplication</a> </b> 
+<br>W. Chang and R. Tandon,
+<br>IEEE Information Theory Workshop (ITW), Visby, Sweden, August, 2019.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8849676">
+On the Capacity of Leaky Private Information Retrieval</a> </b> 
+<br>I. Samy, R. Tandon and L. Lazos,
+<br>IEEE International Symposium on Information Theory (ISIT), Paris, France, July 2019.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8849565">Interference Channels with Confidential Messages: Leveraging OFDM Transmission to Scale up Secure Degrees of Freedom with No CSIT</a> </b> 
+<br>J. Mutangana and R. Tandon,
+<br>IEEE International Symposium on Information Theory (ISIT), Paris, France, July 2019.
+
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8989402">Context Aware Laplacian Mechanism for Local Information Privacy</a> </b> 
+<br>M. Seif, R. Tandon and M. Li,
+<br>IEEE Information Theory Workshop (ITW), Visby, Sweden, August, 2019.
+
+* <b> <a href="https://arxiv.org/pdf/1905.06942.pdf">Random Sampling for Distributed Coded Matrix Multiplication</a> </b> 
+<br>W. Chang and R. Tandon,
+<br>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May, 2019.
+
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8761176">Local Information Privacy with Bounded Prior</a> </b> 
 <br>B. Jiang, M. Li and R. Tandon,
 <br>IEEE International Conference on Communications (ICC), Shanghai, China, May, 2019.
