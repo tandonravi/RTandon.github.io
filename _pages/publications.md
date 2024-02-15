@@ -110,100 +110,99 @@ List of All Publications:
 <br>Y. Ning, S. Muthiah, R. Tandon, and N. Ramakrishnan
 <br>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM’15), Paris, Aug. 2015.
 
-
 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324330"> Time series forecasting via noisy channel reversal </a> </b>
 <br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan,
 <br>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Boston, MA, Sep. 2015.
 
-* <b> <a href="">On the Symmetric 2-User Deterministic Interference Channel with Confidential Messages</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417605">On the Symmetric 2-User Deterministic Interference Channel with Confidential Messages</a> </b>
 <br>C. Geng, R. Tandon, and Syed A. Jafar, 
 <br>IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015.  
  
-* <b> <a href="">Efficient Spectrum Sharing with RF Diversity: Adapting to Nonlinearity of Front Ends</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417714">Efficient Spectrum Sharing with RF Diversity: Adapting to Nonlinearity of Front Ends</a> </b>
 <br>A. Padaki, R. Tandon, and Jeffrey H. Reed, 
 <br>IEEE Global Communications Conference (GLOBECOM), San Diego, CA, December 2015.  
  
-* <b> <a href="">New Bounds on the (n, k, d) Storage Systems with Exact Repair</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282817">New Bounds on the (n, k, d) Storage Systems with Exact Repair</a> </b>
 <br>S. Mohajer and R. Tandon, 
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
-* <b> <a href="">Linear Exact Repair Rate region of (k+1, k, k) distributed storage systems: a new approach</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282818">Linear Exact Repair Rate region of (k+1, k, k) distributed storage systems: a new approach</a> </b>
 <br>M. Elyasi, R. Tandon and S. Mohajer, 
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
-* <b> <a href="">Improved Approximation of Storage-Rate Tradeoff for Caching via New Outer Bounds</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282744">Improved Approximation of Storage-Rate Tradeoff for Caching via New Outer Bounds</a> </b>
 <br>A. Sengupta, R. Tandon and T. Clancy, 
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
-* <b> <a href="">Secrecy for MISO Broadcast Channel with Heterogeneous CSIT</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282799">Secrecy for MISO Broadcast Channel with Heterogeneous CSIT</a> </b>
 <br>P. Mukherjee, R. Tandon and S. Ulukus, 
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
-* <b> <a href="">A General Outer Bound for MISO Broadcast Channel with Heterogeneous CSIT</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282485">A General Outer Bound for MISO Broadcast Channel with Heterogeneous CSIT</a> </b>
 <br>S. Lashgari, R. Tandon and S. Avestimehr, 
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
-* <b> <a href="">Online Denoising of Discrete Noisy Data</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282539">Online Denoising of Discrete Noisy Data</a> </b>
 <br>P. Khadivi, R. Tandon and N. Ramakrishnan, 
 <br>IEEE International Symposium on Information Theory (ISIT), Hong Kong, June 2015.  
  
-* <b> <a href="">Three-User MISO Broadcast Channel: How Much Can CSIT Heterogeneity Help?</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7248980">Three-User MISO Broadcast Channel: How Much Can CSIT Heterogeneity Help?</a> </b>
 <br>S. Lashgari, R. Tandon and S. Avestimehr, 
 <br>IEEE International Conference on Communications (ICC), London, UK, June 2015.  
  
-* <b> <a href="">Secrecy for MISO Broadcast Channels via Alternating CSIT</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7248975">Secrecy for MISO Broadcast Channels via Alternating CSIT</a> </b>
 <br>P. Mukherjee, R. Tandon and S. Ulukus, 
 <br>IEEE International Conference on Communications (ICC), London, UK, June 2015.  
  
-* <b> <a href="">Beyond Cut-Set Bounds - The Approximate Capacity of D2D Networks</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7308969">Beyond Cut-Set Bounds - The Approximate Capacity of D2D Networks</a> </b>
 <br>A. Sengupta and R. Tandon, 
 <br>Information Theory and Applications Workshop (ITA), San Diego, CA, February 2015.  
  
-* <b> <a href="">Exact Repair for Distributed Storage Systems: partial characterization via new outer bounds</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7308977">Exact Repair for Distributed Storage Systems: partial characterization via new outer bounds</a> </b>
 <br>S. Mohajer and R. Tandon, 
 <br>Information Theory and Applications Workshop (ITA), San Diego, CA, February 2015.  
  
-* <b> <a href="">New Bounds for Distributed Storage Systems with Secure Repair</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7028487">New Bounds for Distributed Storage Systems with Secure Repair</a> </b>
 <br>R. Tandon and S. Mohajer, 
 <br>52nd Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2014.  
  
-* <b> <a href="">On the Latency of Heterogenous MDS Queue</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7037163">On the Latency of Heterogenous MDS Queue</a> </b>
 <br>A. Kumar, R. Tandon and T. Charles Clancy, 
 <br>IEEE GLOBECOM, Symposium on Data Storage, Austin, TX, USA, Dec. 2014.  
  
-* <b> <a href="">Receiver Non-Linearity Aware Resource Allocation for Dynamic Spectrum Access Systems</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6956951">Receiver Non-Linearity Aware Resource Allocation for Dynamic Spectrum Access Systems</a> </b>
 <br>A. Padaki, R. Tandon and Jeffrey H. Reed,  
 <br>IEEE Milcom, Baltimore, MD, USA, Oct. 2014.  
  
-* <b> <a href="">Network Aware Spectrum Efficiency Metric for Heterogeneous and Dynamic Radio Environments</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7094732">Network Aware Spectrum Efficiency Metric for Heterogeneous and Dynamic Radio Environments</a> </b>
 <br>A. Padaki, R. Tandon and Jeffrey H. Reed, 
 <br>48th Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, Nov. 2014.  
  
-* <b> <a href="">Learning Distributed Caching Strategies in Small Cell Networks</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6933484">Learning Distributed Caching Strategies in Small Cell Networks</a> </b>
 <br>A. Sengupta, S. Amuru, R. Tandon, R. Michael Buehrer and T. Charles Clancy, 
 <br>IEEE ISWCS, Barcelona, Spain, August 2014.  
  
-* <b> <a href="">On Multi-User MISO Wiretap Channels with Delayed CSIT</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6874825">On Multi-User MISO Wiretap Channels with Delayed CSIT</a> </b>
 <br>R. Tandon, P. Piantanida and Shlomo Shamai, 
 <br>IEEE International Symposium on Information Theory (ISIT), Honolulu, HI, USA, July 2014.  
  
-* <b> <a href="">On the Degrees-of-freedom of the 3-user MISO Broadcast Channel with Hybrid CSIT</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6875211">On the Degrees-of-freedom of the 3-user MISO Broadcast Channel with Hybrid CSIT</a> </b>
 <br>S. Amuru, R. Tandon and Shlomo Shamai, 
 <br>IEEE International Symposium on Information Theory (ISIT), Honolulu, HI, USA, July 2014.  
  
-* <b> <a href="">Decentralized Caching with Secure Delivery</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6874791">Decentralized Caching with Secure Delivery</a> </b>
 <br>A. Sengupta, R. Tandon and T. Charles Clancy, 
 <br>IEEE International Symposium on Information Theory (ISIT), Honolulu, HI, USA, July 2014.  
  
-* <b> <a href="">MISO Broadcast Channels with Confidential Messages and Alternating CSIT</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6874826">MISO Broadcast Channels with Confidential Messages and Alternating CSIT</a> </b>
 <br>P. Mukherjee, R. Tandon and S. Ulukus, 
 <br>IEEE International Symposium on Information Theory (ISIT), Honolulu, HI, USA, July 2014.  
  
-* <b> <a href="">Symmetric Decentralized Interference Channels with Noisy Feedback</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6874987">Symmetric Decentralized Interference Channels with Noisy Feedback</a> </b>
 <br>S. Perlaza, R. Tandon and H. Vincent Poor, 
 <br>IEEE International Symposium on Information Theory (ISIT), Honolulu, HI, USA, July 2014.  
  
-* <b> <a href="">On Secure Distributed Storage Systems with Exact Repair</a> </b>
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6883931">On Secure Distributed Storage Systems with Exact Repair</a> </b>
 <br>R. Tandon, S. Amuru, T. Charles Clancy and R. M. Buehrer, 
 <br>IEEE International Conference on Communications (ICC), 
 Sydney, Australia, June 2014.  
