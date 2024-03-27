@@ -8,27 +8,27 @@ author_profile: True
 List of All Publications:
 ==========================
 
-* <b> <a  href="https://arxiv.org/pdf/2010.14503.pdf"> Topological Interference Management with Confidential Messages  </a> </b>
+* <b> <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9807353"> Topological Interference Management with Confidential Messages  </a> </b>
 <br>J. Mutangana and R. Tandon,
 <br>IEEE Transactions on Information Theory, to appear, 2022.
 
 
-* <b> <a  href="https://arxiv.org/pdf/2108.00026.pdf"> Private Retrieval, Computing and Learning: Recent Progress and Future Challenges </a> </b>
+* <b> <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9715264"> Private Retrieval, Computing and Learning: Recent Progress and Future Challenges </a> </b>
 <br>S. Ulukus, S. Avestimehr, M. Gastpar, S. Jafar, R. Tandon and C. Tian,
 <br>IEEE Journal on Selected Areas in Communications (JSAC), 40(3): 729-748, March, 2022.
 
 
-* <b> <a  href="https://arxiv.org/pdf/2001.02385.pdf"> Local Information Privacy and Its Application to Privacy-Preserving Data Aggregation</a> </b>
+* <b> <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9275316"> Local Information Privacy and Its Application to Privacy-Preserving Data Aggregation</a> </b>
 <br>B. Jiang, M. Li and R. Tandon,
 <br>IEEE Transactions on Dependable and Secure Computing , 19(3): 1918-1935, June 2022.
 
 
-* <b> <a href="https://arxiv.org/pdf/2103.01953.pdf"> Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation</a> </b> 
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9562556"> Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation</a> </b> 
 <br>M. Seif, W. Chang and R. Tandon,
 <br>IEEE Journal on Selected Areas in Communications (JSAC), 39(12): 3821-3835, December 2021.
 
 
-* <b> <a href="https://arxiv.org/pdf/2006.03048.pdf"> Asymmetric Leaky Private Information Retrieval</a> </b> 
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9445017"> Asymmetric Leaky Private Information Retrieval</a> </b> 
 <br>I. Samy, M. Attia, R. Tandon and L. Lazos,
 <br>IEEE Transactions on Information Theory, 67(8): 5352-5369, August 2021.
 
@@ -53,7 +53,7 @@ List of All Publications:
 <br>IEEE Transactions on Wireless Communications, 19(10): 6621-6642, October 2020.
 
 
-* <b> <a href="https://ieeexplore.ieee.org/document/9057584">Designing Finite Alphabet Iterative Decoders of LDPC Codes Via Recurrent Quantized Neural Networks</a> </b> 
+* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9057584">Designing Finite Alphabet Iterative Decoders of LDPC Codes Via Recurrent Quantized Neural Networks</a> </b> 
 <br>X. Xiao, B. Vasic, R. Tandon and S. Lin,
 <br>IEEE Transactions on Communications, 68(7): 3963-3974, July 2020.
 
