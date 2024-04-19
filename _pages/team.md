@@ -26,7 +26,7 @@ author_profile: True
       <p style="font-size: 18px;">Jesse Friedbaum</p>
     </td>
     <td>
-      <p>Jesse Friedbaum started his Ph.D. in Applied Mathematics Department at University of Arizona in 2018. He recieved his B.S. and M.S. degrees from Brigham Young University. His research interests include adversarial learning, model calibration and algorithmic recourse. He worked as an intern in high energy density physics at Lawrence Livermore National Laboratory in 2017. </p>
+      <p>Jesse Friedbaum started his Ph.D. in the Applied Mathematics Department at University of Arizona in 2018. He recieved his B.S. and M.S. degrees from Brigham Young University. His research interests include adversarial learning, model calibration and algorithmic recourse. He worked as an intern in high energy density physics at Lawrence Livermore National Laboratory in 2017. </p>
     </td>
   </tr>
 </table>
