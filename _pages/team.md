@@ -87,84 +87,68 @@ author_profile: True
 
     * Currently at TikTok, Los Altos, CA
       
-* Wei-Ting Chang: 
+* <b> <a  href="https://www.linkedin.com/in/wei-ting-chang-37b26b9a/"> Wei-Ting Chang </a> </b> 
 
     * Ph.D. from University of Arizona in 2022.
 
     * Currently at NXP Semiconductors, Irvine, CA
 
-* Mohamed Seif: 
+* <b> <a  href="https://www.linkedin.com/in/mohamed-seif-9942aa122/"> Mohamed Seif </a> </b>
 
     * Ph.D. from University of Arizona in 2022, co-advised with Prof. M. Li.
 
     * Currently a Post-Doctoral Research Associate at Princeton University, Princeton, NJ
 
-* Ture Peken:
+* <b> <a  href="https://www.linkedin.com/in/ture-peken-ph-d-4675753b/"> Ture Peken </a> </b>
 
     * Ph.D. from University of Arizona in 2021, co-advised with Prof. T Bose.
 
     * Currently at Apple, San Francisco, CA
 
-* Jean de Dieu Mutangana:
+* <b> <a  href="https://www.linkedin.com/in/jean-de-dieu-mutangana-ph-d-68297331/"> Jean de Dieu Mutangana </a> </b>
 
     * Ph.D. from University of Arizona in 2021.
 
     * Currently at Ford, Detroit, MI
 
-* Mohamed Attia:
+* <b> <a  href="https://www.linkedin.com/in/mohamed-a-attia-624960116/"> Mohamed Attia </a> </b>
 
     * Ph.D. from University of Arizona in 2020.
 
     * Currently at Ford, Detroit, MI
 
-* Avik Sengupta:
+* <b> <a  href="https://www.linkedin.com/in/aviksg/"> Avik Sengupta </a> </b>
 
     * Ph.D. from Virginia Tech in 2016, co-advised with Prof. T. Clancy
 
     * Currently at Intel, Santa Clara, CA
 
-* Akshay Kumar:
+* <b> <a  href="https://www.linkedin.com/in/akshay-kumar-74b584215/"> Akshay Kumar </a> </b>
 
     * Ph.D. from Virginia Tech in 2016, co-advised with Prof. T. Clancy
 
     * Currently at Qualcomm, San Diego, CA
  
 ### Former MS Students
-* Deepak Kumar:
+* <b> <a  href="https://www.linkedin.com/in/deepak-kumar-96bb2375/"> Deepak Kumar </a> </b>
 
     * M.S. from University of Arizona, 2018
 
     * Currently at Arrow Electronics, Phoenix, AZ
 
-* Sudarshan Adiga:
+* <b> <a  href="https://www.linkedin.com/in/sudarshan-adiga-a399629b/"> Sudarshan Adiga </a> </b>
 
     * M.S. from University of Arizona, 2019
 
     * Currently a Ph.D. student at University of Arizona.
 
-* Robin Yadav:
+* <b> <a  href="https://www.linkedin.com/in/robinyuarizona/"> Robin Yadav </a> </b>
 
     * M.S. from University of Arizona, 2020
 
     * Currently a Ph.D. student at Arizona State University, Tempe, AZ.
 
 ### Former Undergraduate Students
-* Patrick Kelley (University of Arizona)
+*  Patrick Kelley (University of Arizona)
 
-* Collin Reed (University of Arizona)
-
-### PhD Student Collaboraors
-
-* SaiDhiraj Amuru (PhD in ECE from Virginia Tech; now at WiSig Networks and IIT hyderabad)
-
-* Prithwish Chakraborty (PhD in CS from Virginia Tech; now at IBM)
-
-* Siddharth Krishnan (Phd in CS from Virginia Tech; now Assistant Prof. at University of North Carolina, Charlotte)
-
-* Pejman Khadivi (PhD in CS from Virginia Tech; now Assistant Prof. at Seattle University)
-
-* Sathappan Muthiah (CS@Virginia Tech)
-
-* Yue Ning (CS@Virginia Tech)
-
-* Aditya Padaki (Phd in ECE from Virginia Tech; now at Samsung Research America)
+*  Collin Reed (University of Arizona)
