@@ -81,7 +81,7 @@ author_profile: True
 
 
 ### Former PhD Students
-* Bo Jiang
+* <b> <a  href="https://www.linkedin.com/in/bo-jiang-50a068138"> Bo Jiang </a> </b>
 
     * Ph.D. from University of Arizona in 2023, co-advised with Prof. M. Li.
 
