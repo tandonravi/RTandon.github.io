@@ -149,6 +149,6 @@ author_profile: True
     * Currently a Ph.D. student at Arizona State University, Tempe, AZ.
 
 ### Former Undergraduate Students
-*  Patrick Kelley (University of Arizona)
+*  <b> <a  href="https://www.linkedin.com/in/patrick-kelly-683b6211/"> Patrick Kelley </a> </b>
 
-*  Collin Reed (University of Arizona)
+*  <b> <a  href="https://www.linkedin.com/in/collin-reed-5b01b8137/"> Collin Reed </a> </b>
