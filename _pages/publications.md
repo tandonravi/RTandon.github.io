@@ -16,134 +16,128 @@ Recent Papers & Preprints:
 
 List of All Publications:
 ==========================
-* <b> <a href="https://proceedings.mlr.press/v162/mohamed22a/mohamed22a.pdf">Differentially Private Community Detection for Stochastic Block Models</a> </b> 
+111 * <b> <a href="https://proceedings.mlr.press/v162/mohamed22a/mohamed22a.pdf">Differentially Private Community Detection for Stochastic Block Models</a> </b> 
 <br>M. Seif, D. Nguyen, A. Vullikanti and R. Tandon,
 <br>International Conference on Machine Learning (ICML), Baltimore, MD, July, 2022.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9751200">Differentially Private Federated Learning with Drift Control</a> </b> 
+110 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9751200">Differentially Private Federated Learning with Drift Control</a> </b> 
 <br>W. Chang, M. Seif and R. Tandon,
 <br>Conference on Information Sciences and Systems (CISS), Princeton, NJ, March 2022.
 
-
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9751171">Sparse Matrix Codes: Rate-Reliability Trade-offs for URLLC</a> </b> 
+109 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9751171">Sparse Matrix Codes: Rate-Reliability Trade-offs for URLLC</a> </b> 
 <br>S. Adiga, R. Tandon and T. Bose,
 <br>Conference on Information Sciences and Systems (CISS), Princeton, NJ, March 2022.
 
-
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517754">On the Capacity of Latent Variable Private Information Retrieval</a> </b> 
+108 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517754">On the Capacity of Latent Variable Private Information Retrieval</a> </b> 
 <br>I. Samy, M. Attia, R. Tandon and L. Lazos,
 <br>IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, July 2021.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517741">Wiretap Channel with Latent Variable Secrecy</a> </b> 
+107 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517741">Wiretap Channel with Latent Variable Secrecy</a> </b> 
 <br>J. Mutangana, R. Tandon, Z. Goldfeld and S. Shamai,
 <br>IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, July 2021.
 
-
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9562556">Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation</a> </b> 
+106 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9562556">Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation</a> </b> 
 <br>M. Seif, W. Chang and R. Tandon,
 <br>IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, July 2021.
 
-* <b> <a href="https://uweb.engr.arizona.edu/~mseif/Biased-WLFL-SPAWC-2021.pdf">On the Necessity of Aligning Gradients for Wireless Federated Learning</a> </b> 
+105 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9593177">On the Necessity of Aligning Gradients for Wireless Federated Learning</a> </b> 
 <br>W. Chang, M. Seif and R. Tandon,
 <br>IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy, September, 2021.
 
-
-* <b> <a href="https://arxiv.org/pdf/2105.04118.pdf">FAID Diversity via Neural Networks</a> </b> 
+104 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9594253">FAID Diversity via Neural Networks</a> </b> 
 <br>X. Xiao, N. Raveendran, B. Vasic, S. Lin and R. Tandon,
 <br>IEEE 11th International Symposium on Topics in Coding (ISTC), Montreal, Canada, September, 2021.
 
-* <b> <a href="https://uweb.engr.arizona.edu/~wchang/Globecom-2020-MacAwareFL.pdf">MAC Aware Quantization for Distributed Gradient Descent</a> </b> 
+103 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9322254">MAC Aware Quantization for Distributed Gradient Descent</a> </b> 
 <br>W. Chang and R. Tandon,
 <br>IEEE Global Communications Conference (GLOBECOM), Taipei, December, 2020.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207422">Regret Analysis of Stochastic Multi-armed Bandit Problem with Clustered Information Feedback</a> </b> 
+102 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207422">Regret Analysis of Stochastic Multi-armed Bandit Problem with Clustered Information Feedback</a> </b> 
 <br>T. Zhao, B. Jiang, M. Li and R. Tandon,
 <br>International Joint Conference on Neural Networks (IJCNN), Glasgow, UK, July, 2020.
 
-* <b> <a href="https://uweb.engr.arizona.edu/~tandonr/conference-papers/ISIT-LV-PIR-2020.pdf">Latent-variable Private Information Retrieval</a> </b> 
+101 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174451">Latent-variable Private Information Retrieval</a> </b> 
 <br>I. Samy, M. Attia, R. Tandon and L. Lazos,
 <br>IEEE International Symposium on Information Theory (ISIT), Los Angeles, June, 2020.
 
-* <b> <a href="https://par.nsf.gov/servlets/purl/10187233">Wireless Federated Learning with Local Differential Privacy</a> </b> 
+100 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174426">Wireless Federated Learning with Local Differential Privacy</a> </b> 
 <br>M. Seif, R. Tandon and M. Li,
 <br>IEEE International Symposium on Information Theory (ISIT), Los Angeles, June, 2020.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149278">On Secure Topological Interference Management for Half-rate-feasible Networks</a> </b> 
+99 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149278">On Secure Topological Interference Management for Half-rate-feasible Networks</a> </b> 
 <br>J. Mutangana and R. Tandon,
 <br>IEEE International Conference on Communications (ICC), Dublin, Ireland, June, 2020.
 
-* <b> <a href="https://uweb.engr.arizona.edu/~tandonr/conference-papers/ICC-Autoencoders-mmW-BF-2020.pdf">Unsupervised mmWave Beamforming via Autoencoders</a> </b> 
+98 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149222">Unsupervised mmWave Beamforming via Autoencoders</a> </b> 
 <br>T. Peken, R. Tandon and T. Bose,
 <br>IEEE International Conference on Communications (ICC), Dublin, Ireland, June, 2020.
 
-
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9013364">Finite alphabet iterative decoding of LDPC codes with coarsely quantized neural networks</a> </b> 
+97 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9013364">Finite alphabet iterative decoding of LDPC codes with coarsely quantized neural networks</a> </b> 
 <br>X. Xiao, B. Vasic, R. Tandon and S. Lin,
 <br>IEEE Global Communications Conference (GLOBECOM), Hawaii, December, 2019.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8989342">On the Upload versus Download Cost for Secure and Private Matrix Multiplication</a> </b> 
+96 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8989342">On the Upload versus Download Cost for Secure and Private Matrix Multiplication</a> </b> 
 <br>W. Chang and R. Tandon,
 <br>IEEE Information Theory Workshop (ITW), Visby, Sweden, August, 2019.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8849676">
+95 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8849676">
 On the Capacity of Leaky Private Information Retrieval</a> </b> 
 <br>I. Samy, R. Tandon and L. Lazos,
 <br>IEEE International Symposium on Information Theory (ISIT), Paris, France, July 2019.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8849565">Interference Channels with Confidential Messages: Leveraging OFDM Transmission to Scale up Secure Degrees of Freedom with No CSIT</a> </b> 
+94 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8849565">Interference Channels with Confidential Messages: Leveraging OFDM Transmission to Scale up Secure Degrees of Freedom with No CSIT</a> </b> 
 <br>J. Mutangana and R. Tandon,
 <br>IEEE International Symposium on Information Theory (ISIT), Paris, France, July 2019.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8989402">Context Aware Laplacian Mechanism for Local Information Privacy</a> </b> 
+93 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8989402">Context Aware Laplacian Mechanism for Local Information Privacy</a> </b> 
 <br>M. Seif, R. Tandon and M. Li,
 <br>IEEE Information Theory Workshop (ITW), Visby, Sweden, August, 2019.
 
-* <b> <a href="https://arxiv.org/pdf/1905.06942.pdf">Random Sampling for Distributed Coded Matrix Multiplication</a> </b> 
+92 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8682895">Random Sampling for Distributed Coded Matrix Multiplication</a> </b> 
 <br>W. Chang and R. Tandon,
 <br>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May, 2019.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8761176">Local Information Privacy with Bounded Prior</a> </b> 
+91 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8761176">Local Information Privacy with Bounded Prior</a> </b> 
 <br>B. Jiang, M. Li and R. Tandon,
 <br>IEEE International Conference on Communications (ICC), Shanghai, China, May, 2019.
 
-* <b> <a href="https://par.nsf.gov/servlets/purl/10359037">On the Capacity of Secure Distributed Matrix Multiplication</a> </b> 
+90 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8647313">On the Capacity of Secure Distributed Matrix Multiplication</a> </b> 
 <br>W. Chang and R. Tandon
 <br>IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, December, 2018.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8645965">On the Capacity of Secure Distributed FFT</a> </b> 
+89 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8645965">On the Capacity of Secure Distributed FFT</a> </b> 
 <br>W. Chang and R. Tandon
 <br>IEEE Global Conference on Signal and Information Processing (GlobalSIP), Anaheim, CA, November, 2018.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8646478">On the Tradeoff between Mode Collapse and Sample Quality in Generative Adversarial networks</a> </b> 
+88 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8646478">On the Tradeoff between Mode Collapse and Sample Quality in Generative Adversarial networks</a> </b> 
 <br>S. Adiga, M. Attia, W. Chang and R. Tandon
 <br>IEEE Global Conference on Signal and Information Processing (GlobalSIP), Anaheim, CA, November, 2018.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8645398">Interference Channels with Confidential Messages: Scaling up the Secure Degrees of Freedom with No CSIT</a> </b> 
+87 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8645398">Interference Channels with Confidential Messages: Scaling up the Secure Degrees of Freedom with No CSIT</a> </b> 
 <br>J. Mutangana and R. Tandon,
 <br>52nd Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November, 2018.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437325">Approximately Optimal Distributed Data Shuffling</a> </b> 
+86 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437325">Approximately Optimal Distributed Data Shuffling</a> </b> 
 <br>M. Attia and R. Tandon,
 <br>IEEE International Symposium on Information Theory (ISIT), Vail, Colorado, June 2018.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437729">The Capacity of Uncoded Storage Constrained PIR</a> </b> 
+85 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437729">The Capacity of Uncoded Storage Constrained PIR</a> </b> 
 <br>M. Attia, D. Kumar, and R. Tandon,
 <br>IEEE International Symposium on Information Theory (ISIT), Vail, Colorado, June 2018.
 
-
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437339">On the Secure Degrees of Freedom of the K-user Interference Channel with Delayed CSIT</a> </b> 
+84 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437339">On the Secure Degrees of Freedom of the K-user Interference Channel with Delayed CSIT</a> </b> 
 <br>M. Seif, R. Tandon and M. Li,
 <br>IEEE International Symposium on Information Theory (ISIT), Vail, Colorado, June 2018.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8433200">Context-Aware Data Aggregation with Localized Information Privacy</a> </b> 
+83 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8433200">Context-Aware Data Aggregation with Localized Information Privacy</a> </b> 
 <br>B. Jiang, M. Li and R. Tandon,
 <br>IEEE Conference on Communications and Network Security (CNS), Beijing, China, June 2018.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8422198">PIR from Storage Constrained Databases - Coded Caching meets PIR</a> </b> 
+82 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8422198">PIR from Storage Constrained Databases - Coded Caching meets PIR</a> </b> 
 <br>R. Tandon, M. Abdul-Wahid, F. Almoualem, and D. Kumar,
 <br>IEEE International Conference on Communications (ICC), Kansas City, MO, May 2018.
 
-* <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8422287">On the Secure Degrees of Freedom of 2x2x2 Multi-Hop Network with Untrusted Relays</a> </b> 
+81 * <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8422287">On the Secure Degrees of Freedom of 2x2x2 Multi-Hop Network with Untrusted Relays</a> </b> 
 <br>M. Seif, R. Tandon and M. Li,
 <br>IEEE International Conference on Communications (ICC), Kansas City, MO, May 2018.
 
