@@ -14,7 +14,19 @@ author_profile: True
       <p style="font-size: 18px;">Sudarshan Adiga</p>
     </td>
     <td>
-      <p>Sudarshan Adiga is currently pursuing his Ph.D. in the Electrical and Computer Engineering Department at the University of Arizona, Tucson, AZ, USA, focusing on Machine Learning, Information Theory, and Wireless Communications. He obtained his M.S. degree in Electrical and Computer Engineering from the University of Arizona, in 2019, and his B.E. degree in Telecommunication Engineering from Ramaiah Institute of Technology, Bangalore, India, in 2015. Prior to his doctoral studies, Sudarshan worked as a software engineer at Bosch Corporation in both India and Japan from 2015 to 2017. Additionally, he served as a research intern at NTT Docomo in 2022 and at Marvell Technology in 2023.</p>
+      <p>Sudarshan Adiga starts his Ph.D. in the Electrical and Computer Engineering Department at the University of Arizona in 2019. He obtained his M.S. degree in Electrical and Computer Engineering from the University of Arizona, in 2019, and his B.E. degree in Telecommunication Engineering from Ramaiah Institute of Technology, Bangalore, India, in 2015. His research interests include Machine Learning, Information Theory, and Wireless Communications. He served as a research intern at NTT Docomo in 2022 and at Marvell Technology in 2023.</p>
+    </td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+    <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/jesse.png" width="150px"></td>
+    <td style="width: 18%; padding: 10px; border: none;">
+      <p style="font-size: 18px;">Jesse Friedbaum</p>
+    </td>
+    <td>
+      <p>Jesse Friedbaum started his Ph.D. in applied mathematics at University of Arizona in 2018. He recieved his B.S. and M.S. degrees from Brigham Young University.  His research interests include adversarial learning, model calibration and algorithmic recourse. He worked as an intern in high energy density physics at Lawrence Livermore National Laboratory in 2017. </p>
     </td>
   </tr>
 </table>
@@ -26,7 +38,7 @@ author_profile: True
       <p style="font-size: 18px;">Noel Teku</p>
     </td>
     <td>
-      <p>Noel Teku received his B.S. and M.S. degrees in Electrical and Computer Engineering at the University of Arizona. His research interests include wireless communications, signal processing and machine learning.</p>
+      <p>Noel Teku started the PhD program at the University of Arizona in 2018. He received his B.S. and M.S. degrees in Electrical and Computer Engineering at the University of Arizona. His research interests include wireless communications, signal processing and machine learning. He interned at Qualcomm in 2023.</p>
     </td>
   </tr>
 </table>
@@ -38,7 +50,7 @@ author_profile: True
       <p style="font-size: 18px;"><a href="https://meiyuzhong.github.io/">Meiyu Zhong</a></p>
     </td>
     <td>
-      <p>Meiyu Zhong receives her B.S. in Electrical and Computer Engineering at Shanghai University and M.S. in Electrical and Computer Engineering at University of Southern California. Her research interests are Robustness and Fairness in Machine Learning.</p>
+      <p>Meiyu Zhong started the PhD program at the University of Arizona in 2021. She received her B.S. in Electrical and Computer Engineering at Shanghai University and M.S. in Electrical and Computer Engineering at University of Southern California. Her research interests are Robustness and Fairness in Machine Learning. She has interned at Micron Technology in 2024. </p>
     </td>
   </tr>
 </table>
@@ -50,10 +62,8 @@ author_profile: True
       <p style="font-size: 18px;"><a href="https://sites.google.com/arizona.edu/fengweitian/home">Fengwei Tian</a></p>
     </td>
     <td>
-      <p>Hi, my name is Fengwei Tian, currently a PhD student in University of Arizona under Prof. Ravi Tandon's supervision. 
-I obtained my bachelor degree in electrical engineering and actuarial science from University of Calgary in 2020.
-I obtained my master degree in electrical and system engineering from University of Pennsylvania in 2022. 
-I am currently working on data privacy issues at inference time, and aiming to find a better solution to address the privacy issue at the age of data. </p>
+      <p>Fengwei Tian started the PhD program at the University of Arizona in 2022. 
+He obtained his B.S. in electrical engineering and actuarial science from University of Calgary in 2020 and M.S. in electrical and system engineering from University of Pennsylvania in 2022. His research interests include data privacy issues at inference time, and aiming to find a better solution to address the privacy issue at the age of data. </p>
     </td>
   </tr>
 </table>
@@ -65,7 +75,7 @@ I am currently working on data privacy issues at inference time, and aiming to f
       <p style="font-size: 18px;">Payel Bhattacharjee</p>
     </td>
     <td>
-      <p>I am Payel Bhattacharjee, currently Ph.D. student in the ECE Department at the University of Arizona. I have received my Bachelors of Technology (B.Tech) degree from KIIT University, Bhubaneswar, India. Before joining UoA, I have worked as an Associate Software Engineer at Bosch Global Software Technologies (BGSW) from 2021 to 2022. At the UofA I am advised by Dr. Ravi Tandon, and my current research focuses on Trustworthy Machine Learning, Differential Privacy, Causal Inference and Causal Graph Discovery. </p>
+      <p>Payel Bhattacharjee started the PhD program at the University of Arizona in 2022. She have received my Bachelors of Technology (B.Tech) degree from KIIT University, Bhubaneswar, India. Before joining UoA, she have worked as an Associate Software Engineer at Bosch Global Software Technologies (BGSW) from 2021 to 2022. Her current research focuses on Trustworthy Machine Learning, Differential Privacy, Causal Inference and Causal Graph Discovery. </p>
     </td>
   </tr>
 </table>
@@ -77,6 +87,7 @@ I am currently working on data privacy issues at inference time, and aiming to f
     * Ph.D. from University of Arizona in 2023, co-advised with Prof. M. Li.
 
     * Currently at TikTok, Los Altos, CA
+      
 * Wei-Ting Chang: 
 
     * Ph.D. from University of Arizona in 2022.
