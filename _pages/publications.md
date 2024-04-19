@@ -7,15 +7,14 @@ author_profile: True
 
 Recent Papers & Preprints:
 ============================
- <b>Unsupervised Change Detection using DRE-CUSUM</b>
-<br>S. Adiga and R. Tandon 
-<br> <a href="https://arxiv.org/pdf/2201.11678.pdf">[Pre-print]</a>
-<br> 
-
 
 
 List of All Publications:
 ==========================
+112  <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10052079">Unsupervised Change Detection using DRE-CUSUM</a> </b> 
+<br>. Adiga and R. Tandon,
+<br>2022 56th Asilomar Conference on Signals, Systems, and Computers, CA, March, 2023
+
 111  <b> <a href="https://proceedings.mlr.press/v162/mohamed22a/mohamed22a.pdf">Differentially Private Community Detection for Stochastic Block Models</a> </b> 
 <br>M. Seif, D. Nguyen, A. Vullikanti and R. Tandon,
 <br>International Conference on Machine Learning (ICML), Baltimore, MD, July, 2022.
