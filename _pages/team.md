@@ -11,7 +11,7 @@ author_profile: True
   <tr>
     <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/sudarshan.png" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
-      <p style="font-size: 18px;">Sudarshan Adiga</p>
+      <p style="font-size: 18px;"><a href="https://www.linkedin.com/in/sudarshan-adiga-a399629b/"> Sudarshan Adiga</a></p>
     </td>
     <td>
       <p>Sudarshan Adiga started the Ph.D. program in the Electrical and Computer Engineering Department at the University of Arizona in 2019. He obtained his M.S. degree from University of Arizona in 2019, and his B.E. degree from Ramaiah Institute of Technology in 2015. His research interests include Machine Learning, Information Theory, and Wireless Communications. He served as a research intern at NTT Docomo in 2022 and at Marvell Technology in 2023.</p>
@@ -23,7 +23,7 @@ author_profile: True
   <tr>
     <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/jesse.png" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
-      <p style="font-size: 18px;">Jesse Friedbaum</p>
+      <p style="font-size: 18px;"><a href="https://sites.google.com/math.arizona.edu/friedbaum">Jesse Friedbaum</a></p> 
     </td>
     <td>
       <p>Jesse Friedbaum started his Ph.D. in the Applied Mathematics Department at University of Arizona in 2018. He recieved his B.S. and M.S. degrees from Brigham Young University. His research interests include adversarial learning, model calibration and algorithmic recourse. He worked as an intern in high energy density physics at Lawrence Livermore National Laboratory in 2017. </p>
@@ -59,7 +59,7 @@ author_profile: True
   <tr>
     <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/fengwei.jpg" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
-      <p style="font-size: 18px;"><a href="https://sites.google.com/arizona.edu/fengweitian/home">Fengwei Tian</a></p>
+      <p style="font-size: 18px;"><a href="https://www.linkedin.com/in/fengwei-tian-260188ba/">Fengwei Tian</a></p> 
     </td>
     <td>
       <p>Fengwei Tian started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2022. He obtained his B.S. degree from University of Calgary in 2020 and M.S. degree from University of Pennsylvania in 2022. His research interests include data privacy issues at inference time, and aiming to find a better solution to address the privacy issue at the age of data. </p>
@@ -71,7 +71,7 @@ author_profile: True
   <tr>
     <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/payel.png" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
-      <p style="font-size: 18px;">Payel Bhattacharjee</p>
+      <p style="font-size: 18px;"><a href="https://www.linkedin.com/in/payelbhattacharjee51086b192/?trk=people-guest_people_search-card&originalSubdomain=in">Payel Bhattacharjee</a></p>
     </td>
     <td>
       <p>Payel Bhattacharjee started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2022. She have received her B.S. degree from KIIT University. She worked as an Associate Software Engineer at Bosch Global Software Technologies from 2021 to 2022. Her current research focuses on Trustworthy Machine Learning, Differential Privacy, Causal Inference and Causal Graph Discovery. </p>
