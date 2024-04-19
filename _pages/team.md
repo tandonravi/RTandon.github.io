@@ -9,7 +9,7 @@ author_profile: True
 
 <table style="border: none;">
   <tr>
-    <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/sudarshan.JPG" width="150px"></td>
+    <td style="width: 18%; height: 50%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/sudarshan.JPG" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
       <p style="font-size: 18px;">Sudarshan Adiga</p>
     </td>
@@ -21,7 +21,7 @@ author_profile: True
 
 <table style="border: none;">
   <tr>
-    <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/jesse.png" width="150px"></td>
+    <td style="width: 18%; height: 50%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/jesse.png" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
       <p style="font-size: 18px;">Jesse Friedbaum</p>
     </td>
