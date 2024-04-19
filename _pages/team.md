@@ -14,7 +14,7 @@ author_profile: True
       <p style="font-size: 18px;">Sudarshan Adiga</p>
     </td>
     <td>
-      <p>Sudarshan Adiga starts his Ph.D. in the Electrical and Computer Engineering Department at the University of Arizona in 2019. He obtained his M.S. degree in Electrical and Computer Engineering from the University of Arizona, in 2019, and his B.E. degree in Telecommunication Engineering from Ramaiah Institute of Technology, Bangalore, India, in 2015. His research interests include Machine Learning, Information Theory, and Wireless Communications. He served as a research intern at NTT Docomo in 2022 and at Marvell Technology in 2023.</p>
+      <p>Sudarshan Adiga started the Ph.D. program in the Electrical and Computer Engineering Department at the University of Arizona in 2019. He obtained his M.S. degree from University of Arizona in 2019, and his B.E. degree from Ramaiah Institute of Technology in 2015. His research interests include Machine Learning, Information Theory, and Wireless Communications. He served as a research intern at NTT Docomo in 2022 and at Marvell Technology in 2023.</p>
     </td>
   </tr>
 </table>
@@ -26,7 +26,7 @@ author_profile: True
       <p style="font-size: 18px;">Jesse Friedbaum</p>
     </td>
     <td>
-      <p>Jesse Friedbaum started his Ph.D. in applied mathematics at University of Arizona in 2018. He recieved his B.S. and M.S. degrees from Brigham Young University.  His research interests include adversarial learning, model calibration and algorithmic recourse. He worked as an intern in high energy density physics at Lawrence Livermore National Laboratory in 2017. </p>
+      <p>Jesse Friedbaum started his Ph.D. in Applied Mathematics Department at University of Arizona in 2018. He recieved his B.S. and M.S. degrees from Brigham Young University. His research interests include adversarial learning, model calibration and algorithmic recourse. He worked as an intern in high energy density physics at Lawrence Livermore National Laboratory in 2017. </p>
     </td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ author_profile: True
       <p style="font-size: 18px;">Noel Teku</p>
     </td>
     <td>
-      <p>Noel Teku started the PhD program at the University of Arizona in 2018. He received his B.S. and M.S. degrees in Electrical and Computer Engineering at the University of Arizona. His research interests include wireless communications, signal processing and machine learning. He interned at Qualcomm in 2023.</p>
+      <p>Noel Teku started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2018. He received his B.S. and M.S. degrees in Electrical and Computer Engineering at the University of Arizona. His research interests include wireless communications, signal processing and machine learning. He interned at Qualcomm in 2023.</p>
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ author_profile: True
       <p style="font-size: 18px;"><a href="https://meiyuzhong.github.io/">Meiyu Zhong</a></p>
     </td>
     <td>
-      <p>Meiyu Zhong started the PhD program at the University of Arizona in 2021. She received her B.S. in Electrical and Computer Engineering at Shanghai University and M.S. in Electrical and Computer Engineering at University of Southern California. Her research interests are Robustness and Fairness in Machine Learning. She has interned at Micron Technology in 2024. </p>
+      <p>Meiyu Zhong started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2021. She obtained her B.S. degree from Shanghai University in 2019 and M.S. degree from University of Southern California in 2021. Her research interests include Trustworthy Machine Learning with a special forcus on Robustness and Fairness in Machine Learning. She has interned at Micron Technology in 2024. </p>
     </td>
   </tr>
 </table>
@@ -62,8 +62,7 @@ author_profile: True
       <p style="font-size: 18px;"><a href="https://sites.google.com/arizona.edu/fengweitian/home">Fengwei Tian</a></p>
     </td>
     <td>
-      <p>Fengwei Tian started the PhD program at the University of Arizona in 2022. 
-He obtained his B.S. in electrical engineering and actuarial science from University of Calgary in 2020 and M.S. in electrical and system engineering from University of Pennsylvania in 2022. His research interests include data privacy issues at inference time, and aiming to find a better solution to address the privacy issue at the age of data. </p>
+      <p>Fengwei Tian started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2022. He obtained his B.S. degree from University of Calgary in 2020 and M.S. degree from University of Pennsylvania in 2022. His research interests include data privacy issues at inference time, and aiming to find a better solution to address the privacy issue at the age of data. </p>
     </td>
   </tr>
 </table>
@@ -75,7 +74,7 @@ He obtained his B.S. in electrical engineering and actuarial science from Univer
       <p style="font-size: 18px;">Payel Bhattacharjee</p>
     </td>
     <td>
-      <p>Payel Bhattacharjee started the PhD program at the University of Arizona in 2022. She have received my Bachelors of Technology (B.Tech) degree from KIIT University, Bhubaneswar, India. Before joining UoA, she have worked as an Associate Software Engineer at Bosch Global Software Technologies (BGSW) from 2021 to 2022. Her current research focuses on Trustworthy Machine Learning, Differential Privacy, Causal Inference and Causal Graph Discovery. </p>
+      <p>Payel Bhattacharjee started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2022. She have received her B.S. degree from KIIT University. She worked as an Associate Software Engineer at Bosch Global Software Technologies from 2021 to 2022. Her current research focuses on Trustworthy Machine Learning, Differential Privacy, Causal Inference and Causal Graph Discovery. </p>
     </td>
   </tr>
 </table>
