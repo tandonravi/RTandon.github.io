@@ -12,7 +12,7 @@ Recent Papers & Preprints:
 List of All Publications:
 ==========================
 112  <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10052079">Unsupervised Change Detection using DRE-CUSUM</a> </b> 
-<br> Adiga and R. Tandon,
+<br> S. Adiga and R. Tandon,
 <br>2022 56th Asilomar Conference on Signals, Systems, and Computers, CA, March, 2023
 
 111  <b> <a href="https://proceedings.mlr.press/v162/mohamed22a/mohamed22a.pdf">Differentially Private Community Detection for Stochastic Block Models</a> </b> 
