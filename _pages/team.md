@@ -33,7 +33,7 @@ author_profile: True
 
 <table style="border: none;">
   <tr>
-    <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/noel.PNG" width="150px"></td>
+    <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/noel.png" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
       <p style="font-size: 18px;">Noel Teku</p>
     </td>
