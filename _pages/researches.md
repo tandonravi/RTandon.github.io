@@ -11,7 +11,7 @@ author_profile: True
 
 
 <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9715264"> Private Retrieval, Computing and Learning: Recent Progress and Future Challenges</a>  
-<br>S. Ulukus, S. Avestimehr, M. Gastpar, S. Jafar, R. Tandon and C. Tian,
+S. Ulukus, S. Avestimehr, M. Gastpar, S. Jafar, R. Tandon and C. Tian,
 <br>*IEEE Journal on Selected Areas in Communications (JSAC)*, 40(3): 729-748, March, 2022.
 
 
