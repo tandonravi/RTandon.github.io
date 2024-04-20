@@ -90,130 +90,128 @@ A. Padaki, R. Tandon, and J. H. Reed
 <br>*IEEE Transactions on Wireless Communications*, 17(7): 4922-4936, July 2018.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374867">Online Edge Caching and Wireless Delivery in Fog-Aided Networks with Dynamic Content Popularity</a>   
-<br>S. M. Azimi, O. Simeone, A. Sengupta, and R. Tandon,
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374867">Online Edge Caching and Wireless Delivery in Fog-Aided Networks with Dynamic Content Popularity</a> S. M. Azimi, O. Simeone, A. Sengupta, and R. Tandon,
 <br>*IEEE Journal on Selected Areas in Communications (JSAC)*, 36(6): 1189-1202 , June 2018.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8207648">Degrees of Freedom and Achievable Rate of Wide-Band Multi-Cell Multiple Access Channels With No CSIT</a>   
-<br>Y. Jeon, N. Lee and R. Tandon,
+Y. Jeon, N. Lee and R. Tandon,
 <br>*IEEE Transactions on Communications*, 66(4): 1772-1786, April 2018.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8002603">Fog-Aided Wireless Networks for Content Delivery: Fundamental Latency Tradeoffs</a>   
-<br>A. Sengupta, R. Tandon, and O. Simeone,
+A. Sengupta, R. Tandon, and O. Simeone,
 <br>*IEEE Transactions on Information Theory*, 63(10): 6650-6678, October 2017.
 
 
 <a href="https://www.mdpi.com/1099-4300/19/7/366">Content Delivery in Fog-Aided Small-Cell Systems with Offline and Online Caching: An Information-Theoretic Analysis</a>   
-<br>S. M. Azimi, O. Simeone, and R. Tandon,
+S. M. Azimi, O. Simeone, and R. Tandon,
 <br>*Entropy*, 19(7): 366 July 2017.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7843674">Improved Approximation of Storage-Rate Tradeoff for Caching with Multiple Demands</a>   
-<br>A. Sengupta and R. Tandon,
+A. Sengupta and R. Tandon,
 <br>*IEEE Transactions on Communications*, 65(5): 1940-1955, May 2017.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7840026">Secure Degrees of Freedom Region of the Two-User MISO Broadcast Channel with Alternating CSIT</a>   
-<br>P. Mukherjee, R. Tandon and S. Ulukus
+P. Mukherjee, R. Tandon and S. Ulukus
 <br>*IEEE Transactions on Information Theory*, 63(6): 3823-3853, June 2017.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7164290">On the Latency and Energy Efficiency of Distributed Storage Systems</a>   
-<br>A. Kumar, R. Tandon and T. Charles Clancy
+A. Kumar, R. Tandon and T. Charles Clancy
 <br>*IEEE Transactions on Cloud Computing*, 5(2): 221-233, May 2017.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7587353">MISO Broadcast Channel with Hybrid CSIT: Beyond Two Users</a>   
-<br>S. Lashgari, R. Tandon and S. Avestimehr
+S. Lashgari, R. Tandon and S. Avestimehr
 <br>*IEEE Transactions on Information Theory*, 62(12): 7056-7077, December 2016.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7537176">Harnessing Cloud and Edge Synergies: Towards an Information Theory of Fog Radio Access Networks</a>   
-<br>R. Tandon, and O. Simeone
+R. Tandon, and O. Simeone
 <br>*IEEE Communications Magazine*, 54(8): 44-50, August 2016.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7437480">Towards Optimal Secure Distributed Storage Systems with Exact Repair</a>   
-<br>R. Tandon, S Amuru, T. Charles Clancy and R. M. Buehrer
+R. Tandon, S Amuru, T. Charles Clancy and R. M. Buehrer
 <br>*IEEE Transactions on Information Theory*, 62(6): 3477-3492, June 2016.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7192622">Perfect Output Feedback in the Two-User Decentralized Interference Channel</a>   
-<br>S Perlaza, R. Tandon, H. Vincent Poor and Z. Han
+S Perlaza, R. Tandon, H. Vincent Poor and Z. Han
 <br>*IEEE Transactions on Information Theory*, 61(10): 5441-5462, October 2015.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7109914">Approximate Capacity Region for the Symmetric Gaussian Interference Channel with Noisy Feedback</a>   
-<br>Le-Sy Quoc, R. Tandon, M. Motani and H. Vincent Poor
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7109914">Approximate Capacity Region for the Symmetric Gaussian Interference Channel with Noisy Feedback</a> Le-Sy Quoc, R. Tandon, M. Motani and H. Vincent Poor
 <br>*IEEE Transactions on Information Theory*, 61(7): 3737-3762, July 2015.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6926832">Distributed Space-Time Interference Alignment With Moderately Delayed CSIT</a>   
-<br>Namyoon Lee, R. Tandon and Robert W. Heath Jr.
+Namyoon Lee, R. Tandon and Robert W. Heath Jr.
 <br>*IEEE Transactions on Wireless Communications*, 14(2): 1048-1059, Feb 2015.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6971188">Fundamental Limits of Caching with Secure Delivery</a>   
-<br>A. Sengupta, R. Tandon and T. Charles Clancy
+A. Sengupta, R. Tandon and T. Charles Clancy
 <br>*IEEE Transactions on Information Forensics and Security*, 10(2): 355-370, Feb 2015.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6880765">PHY-Layer Resiliency in OFDM Communications: A Tutorial</a>   
-<br>C. Shahriar, M. La Pan, M. Lichtman, T. C. Clancy, R. McGwier, R. Tandon, S. Sodagari, and J. H. Reed
+C. Shahriar, M. La Pan, M. Lichtman, T. C. Clancy, R. McGwier, R. Tandon, S. Sodagari, and J. H. Reed
 <br>*IEEE Communications Surveys and Tutorials*, 17(1): 292-314, March 2015.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6991615">Dynamic Resource Allocation for Cooperative Spectrum Sharing in LTE Networks</a>   
-<br>A. Kumar, A. Sengupta, R. Tandon and T. Charles Clancy
+A. Kumar, A. Sengupta, R. Tandon and T. Charles Clancy
 <br>*IEEE Transactions on Vehicular Technology*, 64(11): 5232-5245, November 2015.
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6804012">Retroactive Anti-Jamming for MISO Broadcast Channels</a>   
-<br>S. Amuru, R. Tandon, R. M. Buehrer and T. Charles Clancy
+S. Amuru, R. Tandon, R. M. Buehrer and T. Charles Clancy
 <br>*IEEE Transactions on Information Theory*, 60(6): 3593-3619, June 2014.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6471826">On the Synergistic Benefits of Alternating CSIT for the MISO Broadcast Channel</a>   
-<br>R. Tandon, Syed A. Jafar, Shlomo Shamai and H. Vincent Poor
+R. Tandon, Syed A. Jafar, Shlomo Shamai and H. Vincent Poor
 <br>*IEEE Transactions on Information Theory*, 59(7): 4106-4128, July 2013.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a>   
-<br>R. Tandon, L. Sankar and H. Vincent Poor,
+R. Tandon, L. Sankar and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(9): 5665-5677, Sept. 2013.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6389777">On the Feedback Capacity of the Fully Connected K-user Interference Channel</a>   
-<br>S. Mohajer, R. Tandon and H. Vincent Poor,
+S. Mohajer, R. Tandon and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(5): 2863-2881, May 2013.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392280">On the Symmetric Feedback Capacity of the K-user Cyclic Z-Interference Channel</a>   
-<br>R. Tandon, S. Mohajer and H. Vincent Poor,
+R. Tandon, S. Mohajer and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(5): 2713-2734, May 2013.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7470461">Secure Source Coding with a Helper</a>   
-<br>R. Tandon, S. Ulukus and K. Ramchandran
+R. Tandon, S. Ulukus and K. Ramchandran
 <br>*IEEE Transactions on Information Theory*, 59(4): 2178-2187, April 2013.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6341083">Degrees of Freedom Region of the MIMO Interference Channel with Output Feedback and Delayed CSIT</a>   
-<br>R. Tandon, S. Mohajer, H. Vincent Poor and Shlomo Shamai,
+R. Tandon, S. Mohajer, H. Vincent Poor and Shlomo Shamai,
 <br>*IEEE Transactions on Information Theory*, 59(3): 1444-1457, March 2013.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6353583">Heegard-Berger and Cascade Source Coding Problems with Common Reconstruction Constraints</a>   
-<br>B. Ahmadi, R. Tandon, O. Simeone and H. Vincent Poor,
+B. Ahmadi, R. Tandon, O. Simeone and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(3): 1458-1474, March 2013.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5895096">Dependence Balance Based Outer Bounds for Gaussian Networks with Cooperation and Feedback</a>   
-<br>R. Tandon and S. Ulukus,
+R. Tandon and S. Ulukus,
 <br>*IEEE Transactions on Information Theory*, 57(7):4063-4086, July 2011.
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5238737">Outer Bounds for Multiple Access Channels with Feedback using Dependence Balance</a>   
-<br>R. Tandon and S. Ulukus,
+R. Tandon and S. Ulukus,
 <br>*IEEE Transactions on Information Theory*, 55(10): 4494-4507, October 2009.
 
