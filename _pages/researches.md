@@ -203,16 +203,16 @@ R. Tandon, S. Mohajer, H. Vincent Poor and Shlomo Shamai,
 <br>*IEEE Transactions on Information Theory*, 59(3): 1444-1457, March 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6353583">3. Heegard-Berger and Cascade Source Coding Problems with Common Reconstruction Constraints</a>   
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6353583">Heegard-Berger and Cascade Source Coding Problems with Common Reconstruction Constraints</a>   
 B. Ahmadi, R. Tandon, O. Simeone and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(3): 1458-1474, March 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5895096">2. Dependence Balance Based Outer Bounds for Gaussian Networks with Cooperation and Feedback</a>   
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5895096">Dependence Balance Based Outer Bounds for Gaussian Networks with Cooperation and Feedback</a>   
 R. Tandon and S. Ulukus,
 <br>*IEEE Transactions on Information Theory*, 57(7):4063-4086, July 2011.
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5238737">1. Outer Bounds for Multiple Access Channels with Feedback using Dependence Balance</a>   
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5238737">Outer Bounds for Multiple Access Channels with Feedback using Dependence Balance</a>   
 R. Tandon and S. Ulukus,
 <br>*IEEE Transactions on Information Theory*, 55(10): 4494-4507, October 2009.
 
