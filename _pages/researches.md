@@ -10,7 +10,7 @@ author_profile: True
 <br>*IEEE Transactions on Information Theory*, VOL. 68, NO. 11, November 2022.
 
 
-<a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9715264"> Private Retrieval, Computing and Learning: Recent Progress and Future Challenges </a>  
+<a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9715264"> Private Retrieval, Computing and Learning: Recent Progress and Future Challenges</a>  
 <br>S. Ulukus, S. Avestimehr, M. Gastpar, S. Jafar, R. Tandon and C. Tian,
 <br>*IEEE Journal on Selected Areas in Communications (JSAC)*, 40(3): 729-748, March, 2022.
 
