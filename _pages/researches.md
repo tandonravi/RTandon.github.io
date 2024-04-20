@@ -170,47 +170,47 @@ author_profile: True
 <br>*IEEE Transactions on Vehicular Technology*, 64(11): 5232-5245, November 2015.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6804012">Retroactive Anti-Jamming for MISO Broadcast Channels</a>   
+10. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6804012">Retroactive Anti-Jamming for MISO Broadcast Channels</a>   
 <br>S. Amuru, R. Tandon, R. M. Buehrer and T. Charles Clancy
 <br>*IEEE Transactions on Information Theory*, 60(6): 3593-3619, June 2014.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6471826">On the Synergistic Benefits of Alternating CSIT for the MISO Broadcast Channel</a>   
+9. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6471826">On the Synergistic Benefits of Alternating CSIT for the MISO Broadcast Channel</a>   
 <br>R. Tandon, Syed A. Jafar, Shlomo Shamai and H. Vincent Poor
 <br>*IEEE Transactions on Information Theory*, 59(7): 4106-4128, July 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a>   
+8. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a>   
 <br>R. Tandon, L. Sankar and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(9): 5665-5677, Sept. 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6389777">On the Feedback Capacity of the Fully Connected K-user Interference Channel</a>   
+7. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6389777">On the Feedback Capacity of the Fully Connected K-user Interference Channel</a>   
 <br>S. Mohajer, R. Tandon and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(5): 2863-2881, May 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392280">On the Symmetric Feedback Capacity of the K-user Cyclic Z-Interference Channel</a>   
+6. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392280">On the Symmetric Feedback Capacity of the K-user Cyclic Z-Interference Channel</a>   
 <br>R. Tandon, S. Mohajer and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(5): 2713-2734, May 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7470461">Secure Source Coding with a Helper</a>   
+5. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7470461">Secure Source Coding with a Helper</a>   
 <br>R. Tandon, S. Ulukus and K. Ramchandran
 <br>*IEEE Transactions on Information Theory*, 59(4): 2178-2187, April 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6341083">Degrees of Freedom Region of the MIMO Interference Channel with Output Feedback and Delayed CSIT</a>   
+4. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6341083">Degrees of Freedom Region of the MIMO Interference Channel with Output Feedback and Delayed CSIT</a>   
 <br>R. Tandon, S. Mohajer, H. Vincent Poor and Shlomo Shamai,
 <br>*IEEE Transactions on Information Theory*, 59(3): 1444-1457, March 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6353583">Heegard-Berger and Cascade Source Coding Problems with Common Reconstruction Constraints</a>   
+3. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6353583">Heegard-Berger and Cascade Source Coding Problems with Common Reconstruction Constraints</a>   
 <br>B. Ahmadi, R. Tandon, O. Simeone and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(3): 1458-1474, March 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5895096">Dependence Balance Based Outer Bounds for Gaussian Networks with Cooperation and Feedback</a>   
+2. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5895096">Dependence Balance Based Outer Bounds for Gaussian Networks with Cooperation and Feedback</a>   
 <br>R. Tandon and S. Ulukus,
 <br>*IEEE Transactions on Information Theory*, 57(7):4063-4086, July 2011.
 
