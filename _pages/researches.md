@@ -5,8 +5,7 @@ permalink: /researches/
 author_profile: True
 ---
 
-
-43. <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9807353"> Topological Interference Management with Confidential Messages  </a> </b>
+<a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9807353"> Topological Interference Management with Confidential Messages  </a> </b>
 <br>J. Mutangana and R. Tandon,
 <br>IEEE Transactions on Information Theory, to appear, 2022.
 
