@@ -193,17 +193,17 @@ R. Tandon, S. Mohajer and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(5): 2713-2734, May 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7470461">Secure Source Coding with a Helper</a>   
+*5.*<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7470461">Secure Source Coding with a Helper</a>   
 R. Tandon, S. Ulukus and K. Ramchandran
 <br>*IEEE Transactions on Information Theory*, 59(4): 2178-2187, April 2013.
 
 
-4 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6341083">Degrees of Freedom Region of the MIMO Interference Channel with Output Feedback and Delayed CSIT</a>   
+*4.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6341083">Degrees of Freedom Region of the MIMO Interference Channel with Output Feedback and Delayed CSIT</a>   
 R. Tandon, S. Mohajer, H. Vincent Poor and Shlomo Shamai,
 <br>*IEEE Transactions on Information Theory*, 59(3): 1444-1457, March 2013.
 
 
-3 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6353583">Heegard-Berger and Cascade Source Coding Problems with Common Reconstruction Constraints</a>   
+*3.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6353583">Heegard-Berger and Cascade Source Coding Problems with Common Reconstruction Constraints</a>   
 B. Ahmadi, R. Tandon, O. Simeone and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(3): 1458-1474, March 2013.
 
