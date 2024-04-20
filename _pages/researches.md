@@ -16,77 +16,77 @@ S. Ulukus, S. Avestimehr, M. Gastpar, S. Jafar, R. Tandon and C. Tian,
 
 
 <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9275316"> Local Information Privacy and Its Application to Privacy-Preserving Data Aggregation</a>  
-<br>B. Jiang, M. Li and R. Tandon,
+B. Jiang, M. Li and R. Tandon,
 <br>*IEEE Transactions on Dependable and Secure Computing* , 19(3): 1918-1935, June 2022.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9562556"> Privacy Amplification for Federated Learning via User Sampling and Wireless Aggregation</a>   
-<br>M. Seif, W. Chang and R. Tandon,
+M. Seif, W. Chang and R. Tandon,
 <br>*IEEE Journal on Selected Areas in Communications (JSAC)*, 39(12): 3821-3835, December 2021.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9445017"> Asymmetric Leaky Private Information Retrieval</a>   
-<br>I. Samy, M. Attia, R. Tandon and L. Lazos,
+I. Samy, M. Attia, R. Tandon and L. Lazos,
 <br>*IEEE Transactions on Information Theory*, 67(8): 5352-5369, August 2021.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472951">Heterogeneity Aware Two-Stage Group Testing</a>   
-<br>M. Attia, W. Chang and R. Tandon,
+M. Attia, W. Chang and R. Tandon,
 <br>*IEEE Transactions on Signal Processing*, Vol. 69: 3977-3990, July 2021.
 
 
 <a href="https://ieeexplore-ieee-org.ezproxy3.library.arizona.edu/stamp/stamp.jsp?tp=&arnumber=9448019">Context-Aware Local Information Privacy</a>   
-<br>B. Jiang, M. Seif, R. Tandon and M. Li,
+B. Jiang, M. Seif, R. Tandon and M. Li,
 <br>*IEEE Transactions on Information Forensics and Security*, Vol. 16: 3694-3708, June 2021.
 
 
 <a href="https://ieeexplore-ieee-org.ezproxy3.library.arizona.edu/stamp/stamp.jsp?tp=&arnumber=9189813">The Capacity of Private Information Retrieval from Uncoded Storage Constrained Databases</a>   
-<br>M. Attia, D. Kumar and R. Tandon,
+M. Attia, D. Kumar and R. Tandon,
 <br>*IEEE Transactions on Information Theory*, 66(11): 6617-6634, November 2020.
 
 
 <a href="https://ieeexplore-ieee-org.ezproxy3.library.arizona.edu/stamp/stamp.jsp?tp=&arnumber=9130130">Deep Learning for SVD and Hybrid Beamforming</a>   
-<br>T. Peken, S. Adiga, R. Tandon and T. Bose,
+T. Peken, S. Adiga, R. Tandon and T. Bose,
 <br>*IEEE Transactions on Wireless Communications*, 19(10): 6621-6642, October 2020.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9057584">Designing Finite Alphabet Iterative Decoders of LDPC Codes Via Recurrent Quantized Neural Networks</a>   
-<br>X. Xiao, B. Vasic, R. Tandon and S. Lin,
+X. Xiao, B. Vasic, R. Tandon and S. Lin,
 <br>*IEEE Transactions on Communications*, 68(7): 3963-3974, July 2020.
 
 
 <a href="https://pdf.sciencedirectassets.com/271887/1-s2.0-S0167404820X00083/1-s2.0-S0167404820302297/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIGXvzAuHZaOVry8zeQJHNmwiFMWd4RRhaweq50naa9PhAiAGe5uQ3823uGXHiruOAKhY2HNC4qoCWoOpD5LzSVNd5iq7BQjC%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIM2Ue8ZiLM%2F%2Fui0DYtKo8FO5Epr4yzaLWMJDG0UoBU8xymmfB5CEQpZtgYvUxSi9XvciaGQ1WO6fQSX6mnOZeclrN14p9EXXZsSJt4IvkEXMxs0naJ2NTPFJ5m%2BvWNw%2BSzsLUsIR4673hi559BAwX%2FwOIQUDOA7NXPceU4yXQCQHZpa7uEje%2BAYN3ZSZR%2FALMi%2BSa43h5vkPOlODdvrtfnJhuuJNE3%2Fmu%2B8w4LgCmbQllJX1ptKXIU6%2Fu3H5yj9g04DRkdaAGuEjzi%2F9ieIRIuOC9jINRr8Qd1%2FvK%2BH4z16%2F%2FSjHr%2FklfTqZQAiiEvglTyF4CwHkizdiM%2FsaKwATvITk73s8KzXeUmb%2FKfdAmlJGQejsVsivlpdh347hHl5FfriYhRvoIFR7lool%2FOc%2F0t0QIf8XvayJXxBkrXuDKJByg1zhuE%2FkgR9xSCzfz6nHq%2F3Sxy2qC4UGrePVCFTLyo%2FbgIiR1MQ6hzrry%2BVd7p4hG0dlXlcyQy2NkOsa3h5C2HCQHcyKsoiuDTSWV2KNEEk1QCUG%2FDiV1QTLgkjFm0J7ybJ9V5uEEUeAVlg1bFNajvQvkSXaiEKp8wg9zEumE9U8mHKH%2F%2F6pg0OE10dgeMRHRvmRLJgwEfCzrGftO4fR6SCmFbUTMsGOXwCmMP8SWo63dP3e80y6yIyO70CwWgMwETR52p5rua16o38307ollEYVk7cB0Eq2qQsxtiuKAONoGsJbwJkpBjCM%2BvoL4s5sr4CT8l6AwBwNL4qd%2BQyzzvCYpktWXKK6p%2BdrnOWV5ETJDkWqyzslyfJRXL6T7BY9URKwfXeZKIMo6dMCTHCLHpDu9EcI9YSsRo6D7zSD6xtDB9XNTnCjVSieeipai7sT5SJVKG9BCy%2B1ygJF8v0zCtkZGwBjqyAVB4yaXGQW0Q7RyCE21FTjTZQGT1HmcpMKJqM1r5e%2FhtnKq1%2F5vpgjV2XeDzdpXBLlgBM9WdPHfbqA3QkXJsMCSpjcVxKiFayhTHqPNL6%2FG1QWKpLrxeNZv5FCBs1xQJj5seXbb2CJB3pJqYjfJzZ2V2mWc9zSNBaTNtBXrdyuxj5gjMoTUGl1xbz0H2rhRM3PWGT2sRcWOD7RYjKAuDJGOVa2Sf3A6z5VnlJkzEyYFK1Qc%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240327T164058Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQVKSXWFZ%2F20240327%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b5dc69a3c65e485cc551b045d10695399ac1386a09d6a4fbc5205d62948e5a2f&hash=610f86ea266d5fc3cba85391d8dfa87c463897ba0b6ee55c0c442a05a994ef18&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0167404820302297&tid=spdf-fdb8810c-ecfc-4f87-a0f4-1e7669452483&sid=e6d8da1c22bc8249ed7919c4bfa9d055de14gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1315585703510b5d5051&rr=86b0d345d8227afd&cc=us">Aggregation-based Location Privacy: An Information Theoretic Approach</a>   
-<br>W. Zhang, B. Jiang, M. Li, R. Tandon, Q. Liu and H. Li,
+W. Zhang, B. Jiang, M. Li, R. Tandon, Q. Liu and H. Li,
 <br>Computers and Security, Vol. 97, July 2020.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8754795">Near Optimal Coded Data Shuffling for Distributed Learning</a>   
-<br>M. Attia and R. Tandon,
+M. Attia and R. Tandon,
 <br>*IEEE Transactions on Information Theory*, 65(11): 7325-7349, November 2019.
 
 
 <a href="https://www.mdpi.com/1099-4300/21/11/1092">Secure Retrospective Interference Alignment</a>   
-<br>M. Seif, R. Tandon and M. Li
+M. Seif, R. Tandon and M. Li
 <br>*Entropy*, 21(11): 1092, November 2019.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737786">Blind MIMO Cooperative Jamming: Secrecy via ISI Heterogeneity without CSIT</a>   
-<br>J. Mutangana and R. Tandon,
+J. Mutangana and R. Tandon,
 <br>*IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 15, 447-461, June 2019.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8387873">Online Location Trace Privacy: An Information Theoretic Approach</a>   
-<br>W. Zhang, M. Li, R. Tandon, and H. Li
+W. Zhang, M. Li, R. Tandon, and H. Li
 <br>*IEEE Transactions on Information Forensics and Security (TIFS)*, 14(1): 235-250, Jan. 2019.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8424241">Efficient Spectrum Access and Co-Existence With Receiver Nonlinearity: Frameworks and Algorithms</a>   
-<br>A. Padaki, R. Tandon, and J. H. Reed
+A. Padaki, R. Tandon, and J. H. Reed
 <br>*IEEE Transactions on Wireless Communications*, 17(10): 6404-6418, October 2018.
 
 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8359420">On Adjacent Channel Co-existence with Receiver Nonlinearity</a>   
-<br>A. Padaki, R. Tandon, and J. H. Reed
+A. Padaki, R. Tandon, and J. H. Reed
 <br>*IEEE Transactions on Wireless Communications*, 17(7): 4922-4936, July 2018.
 
 
