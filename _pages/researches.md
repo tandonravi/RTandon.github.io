@@ -149,51 +149,51 @@ S Perlaza, R. Tandon, H. Vincent Poor and Z. Han
 <br>*IEEE Transactions on Information Theory*, 61(7): 3737-3762, July 2015.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6926832">Distributed Space-Time Interference Alignment With Moderately Delayed CSIT</a>   
+*14.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6926832">Distributed Space-Time Interference Alignment With Moderately Delayed CSIT</a>   
 Namyoon Lee, R. Tandon and Robert W. Heath Jr.
 <br>*IEEE Transactions on Wireless Communications*, 14(2): 1048-1059, Feb 2015.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6971188">Fundamental Limits of Caching with Secure Delivery</a>   
+*13.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6971188">Fundamental Limits of Caching with Secure Delivery</a>   
 A. Sengupta, R. Tandon and T. Charles Clancy
 <br>*IEEE Transactions on Information Forensics and Security*, 10(2): 355-370, Feb 2015.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6880765">PHY-Layer Resiliency in OFDM Communications: A Tutorial</a>   
+*12.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6880765">PHY-Layer Resiliency in OFDM Communications: A Tutorial</a>   
 C. Shahriar, M. La Pan, M. Lichtman, T. C. Clancy, R. McGwier, R. Tandon, S. Sodagari, and J. H. Reed
 <br>*IEEE Communications Surveys and Tutorials*, 17(1): 292-314, March 2015.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6991615">Dynamic Resource Allocation for Cooperative Spectrum Sharing in LTE Networks</a>   
+*11.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6991615">Dynamic Resource Allocation for Cooperative Spectrum Sharing in LTE Networks</a>   
 A. Kumar, A. Sengupta, R. Tandon and T. Charles Clancy
 <br>*IEEE Transactions on Vehicular Technology*, 64(11): 5232-5245, November 2015.
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6804012">Retroactive Anti-Jamming for MISO Broadcast Channels</a>   
+*10.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6804012">Retroactive Anti-Jamming for MISO Broadcast Channels</a>   
 S. Amuru, R. Tandon, R. M. Buehrer and T. Charles Clancy
 <br>*IEEE Transactions on Information Theory*, 60(6): 3593-3619, June 2014.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6471826">On the Synergistic Benefits of Alternating CSIT for the MISO Broadcast Channel</a>   
+*9.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6471826">On the Synergistic Benefits of Alternating CSIT for the MISO Broadcast Channel</a>   
 R. Tandon, Syed A. Jafar, Shlomo Shamai and H. Vincent Poor
 <br>*IEEE Transactions on Information Theory*, 59(7): 4106-4128, July 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a>   
+*8.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a>   
 R. Tandon, L. Sankar and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(9): 5665-5677, Sept. 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6389777">On the Feedback Capacity of the Fully Connected K-user Interference Channel</a>   
+*7.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6389777">On the Feedback Capacity of the Fully Connected K-user Interference Channel</a>   
 S. Mohajer, R. Tandon and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(5): 2863-2881, May 2013.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392280">On the Symmetric Feedback Capacity of the K-user Cyclic Z-Interference Channel</a>   
+*6.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392280">On the Symmetric Feedback Capacity of the K-user Cyclic Z-Interference Channel</a>   
 R. Tandon, S. Mohajer and H. Vincent Poor,
 <br>*IEEE Transactions on Information Theory*, 59(5): 2713-2734, May 2013.
 
 
-*5.*<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7470461">Secure Source Coding with a Helper</a>   
+*5.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7470461">Secure Source Coding with a Helper</a>   
 R. Tandon, S. Ulukus and K. Ramchandran
 <br>*IEEE Transactions on Information Theory*, 59(4): 2178-2187, April 2013.
 
