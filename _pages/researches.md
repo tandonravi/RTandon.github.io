@@ -218,6 +218,3 @@ author_profile: True
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5238737">Outer Bounds for Multiple Access Channels with Feedback using Dependence Balance</a> </b> 
 <br>R. Tandon and S. Ulukus,
 <br>IEEE Transactions on Information Theory, 55(10): 4494-4507, October 2009.
-1. [Outer Bounds for Multiple Access Channels with Feedback using Dependence Balance](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5238737)
-<br>R. Tandon and S. Ulukus,
-<br>IEEE Transactions on Information Theory, 55(10): 4494-4507, October 2009.
