@@ -144,7 +144,8 @@ S Perlaza, R. Tandon, H. Vincent Poor and Z. Han
 <br>*IEEE Transactions on Information Theory*, 61(10): 5441-5462, October 2015.
 
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7109914">Approximate Capacity Region for the Symmetric Gaussian Interference Channel with Noisy Feedback</a> Le-Sy Quoc, R. Tandon, M. Motani and H. Vincent Poor
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7109914">Approximate Capacity Region for the Symmetric Gaussian Interference Channel with Noisy Feedback</a>
+<br> Le-Sy Quoc, R. Tandon, M. Motani and H. Vincent Poor
 <br>*IEEE Transactions on Information Theory*, 61(7): 3737-3762, July 2015.
 
 
