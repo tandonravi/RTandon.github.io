@@ -74,7 +74,7 @@ author_profile: True
       <p style="font-size: 18px;"><a href="https://www.linkedin.com/in/payelbhattacharjee51086b192/?trk=people-guest_people_search-card&originalSubdomain=in">Payel Bhattacharjee</a></p>
     </td>
     <td>
-      <p>Payel Bhattacharjee started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2022. She have received her B.S. degree from KIIT University. She worked as an Associate Software Engineer at Bosch Global Software Technologies from 2021 to 2022. Her current research focuses on Trustworthy Machine Learning, Differential Privacy, Causal Inference and Causal Graph Discovery. </p>
+      <p>Payel Bhattacharjee started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2022. She obtained her B.Tech degree in Electrotics and Teleommunication Engineering from KIIT University, Bhubaneswar, India. She worked as an Associate Software Engineer at Bosch Global Software Technologies from 2021 to 2022. Her current research focuses on Trustworthy Machine Learning, Differential Privacy, Causal Inference and Causal Graph Discovery. </p>
     </td>
   </tr>
 </table>
