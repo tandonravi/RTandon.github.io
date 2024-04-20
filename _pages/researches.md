@@ -7,7 +7,7 @@ author_profile: True
 
 <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9807353"> Topological Interference Management with Confidential Messages  </a> </b>
 <br>J. Mutangana and R. Tandon,
-<br>*IEEE Transactions on Information Theory*, VOL. 68, NO. 11, NOVEMBER 2022.
+<br>*IEEE Transactions on Information Theory*, VOL. 68, NO. 11, November 2022.
 
 
 <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9715264"> Private Retrieval, Computing and Learning: Recent Progress and Future Challenges </a> </b>
