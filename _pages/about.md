@@ -23,6 +23,17 @@ My current research interests are in information theory with applications to
 News
 =========
 * Selected recent papers and pre-prints
+  * Intrinsic Fairness-Accuracy Tradeoffs under Equalized Odds, IEEE International Symposium on Information Theory, 2024.
+  
+  * Communicating Classification Results over Noisy Channels, IEEE International Conference on Communications, 2024.
+  
+  * Learning fair classifiers via min-max f-divergence regularization, 59th Annual Allerton Conference on Communication, Control, and Computing (Allerton), 2023.
+  
+  * Generalization bounds for neural belief propagation decoders, IEEE Transactions on Information Theory, February 2024.
+
+  * Online Context-aware Streaming Data Release with Sequence Information Privacy, IEEE Transactions on Information Forensics and Security, March 2024.
+  
+  * Answering Count Queries for Genomic Data with Perfect Privacy, IEEE Transactions on Information Forensics and Security, June 2023.
 
   * Differentially Private Community Detection for Stochastic Block Models, International Conference on Machine Learning (ICML), July 2022.
 
