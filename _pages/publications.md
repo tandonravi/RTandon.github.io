@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: True
 ---
 
-Recent Papers & Preprints:
-============================
 
-
-List of All Publications:
-==========================
 112  <b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10052079">Unsupervised Change Detection using DRE-CUSUM</a> </b> 
 <br> S. Adiga and R. Tandon,
 <br>2022 56th Asilomar Conference on Signals, Systems, and Computers, CA, March, 2023
