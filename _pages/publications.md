@@ -8,7 +8,7 @@ author_profile: True
 
 *112.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10052079">Unsupervised Change Detection using DRE-CUSUM</a>
 <br>S. Adiga and R. Tandon,
-<br>*2022 56th Asilomar Conference on Signals, Systems, and Computers*, CA, March, 2023
+<br>*2022 56th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, March, 2023
 
 *111.*  <a href="https://proceedings.mlr.press/v162/mohamed22a/mohamed22a.pdf">Differentially Private Community Detection for Stochastic Block Models</a> </b> 
 <br>M. Seif, D. Nguyen, A. Vullikanti and R. Tandon,
@@ -109,7 +109,7 @@ On the Capacity of Leaky Private Information Retrieval</a> </b>
 
 *87.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8645398">Interference Channels with Confidential Messages: Scaling up the Secure Degrees of Freedom with No CSIT</a> </b> 
 <br>J. Mutangana and R. Tandon,
-<br>52nd Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November, 2018.
+<br>*52nd Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, November, 2018.
 
 *86.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8437325">Approximately Optimal Distributed Data Shuffling</a> </b> 
 <br>M. Attia and R. Tandon,
@@ -141,11 +141,11 @@ On the Capacity of Leaky Private Information Retrieval</a> </b>
 
 *79.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8262857">The Capacity of Cache Aided Private Information Retrieval</a> </b> 
 <br>R. Tandon,
-<br>55th Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2017.
+<br>*55th Allerton Conference on Communications, Control and Computing*, Monticello, IL, October 2017.
 
 *78.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8262831">Towards the Exact Rate-Memory Trade-Off for Uncoded Caching with Secure Delivery</a> </b> 
 <br>M. Bahrami, M. Attia, R. Tandon and B. Vasic,
-<br>55th Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2017.
+<br>*55th Allerton Conference on Communications, Control and Computing*, Monticello, IL, October 2017.
 
 *77.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8254181">Blind Cooperative Jamming: Exploiting ISI Heterogeneity to Achieve Positive Secure DoF</a> </b> 
 <br>J. Mutangana, R. Tandon and N. Lee,
@@ -153,11 +153,11 @@ On the Capacity of Leaky Private Information Retrieval</a> </b>
 
 *76.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8335395">Topological Edge Caching with no CSI at the Edge</a> </b> 
 <br>W. Chang, R. Tandon and O. Simeone,
-<br>51st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November, 2017.
+<br>*51st Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, November, 2017.
 
 *75.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8335647">MIMO Wiretap Channel with ISI Heterogeneity - Achieving Secure DoF with no CSI</a> </b> 
 <br>J. Mutangana, D. Kumar and R. Tandon,
-<br>51st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November, 2017.
+<br>*51st Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, November, 2017.
 
 *74.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8006722">Online Edge Caching in Fog-aided Wireless Networks</a> </b> 
 <br>S. Azimi, O. Simeone, A. Sengupta and R. Tandon
@@ -181,11 +181,11 @@ On the Capacity of Leaky Private Information Retrieval</a> </b>
 
 *69.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7925854">Cloud-Aided Edge Caching with Multicast Fronthauling in Fog Radio Access Networks </a> </b> 
 <br>J. Koh, O. Simeone, R. Tandon and J. Kang
-<br>IEEE Wireless Communications and Networking Conference (WCNC)*, San Francisco, CA, March, 2017.
+<br>*IEEE Wireless Communications and Networking Conference (WCNC)*, San Francisco, CA, March, 2017.
 
 *68.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7852338">On the Worst-case Communication Overhead for Distributed Data Shuffling </a> </b> 
 <br>M. Attia and R. Tandon
-<br>54th Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2016.
+<br>*54th Allerton Conference on Communications, Control and Computing*, Monticello, IL, October 2016.
 
 *67.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841903">Information Theoretic Limits of Data Shuffling for Distributed Learning</a> </b> 
 <br>M. Attia and R. Tandon
@@ -197,7 +197,7 @@ On the Capacity of Leaky Private Information Retrieval</a> </b>
 
 *65.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7869139"> Layered Caching for Heterogeneous Storage</a> </b> 
 <br>A. Sengupta, R. Tandon and T. C. Clancy
-<br>50th Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November, 2016.
+<br>*50th Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, November, 2016.
 
 *64.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7541655"> Cloud-Aided Wireless Networks with Edge Caching: Fundamental Latency Trade-Offs in Fog Radio Access Networks </a> </b> 
 <br>R. Tandon and O. Simeone
@@ -209,15 +209,15 @@ On the Capacity of Leaky Private Information Retrieval</a> </b>
 
 *62.*  <a href="https://dl.acm.org/doi/pdf/10.1145/2908131.2908155"> Seeing the Forest for the Trees: New Approaches to Forecasting Cascades </a> </b> 
 <br>S. Krishnan, P. Butler, R. Tandon, J. Leskovec and N. Ramakrishnan
-<br>ACM Web Science Conference, Hannover, Germany, May 2016.
+<br>*ACM Web Science Conference*, Hannover, Germany, May 2016.
 
 *61.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7460522"> Cache Aided Wireless Networks: Tradeoffs between Storage and Latency </a> </b> 
 <br>A. Sengupta, R. Tandon and O. Simeone
-<br>Conference on Information Sciences and Systems (CISS)*, Princeton, NJ, March 2016.
+<br>*Conference on Information Sciences and Systems (CISS)*, Princeton, NJ, March 2016.
 
 *60.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7403515"> Uncovering News-Twitter Reciprocity via Interaction Patterns </a> </b>
 <br>Y. Ning, S. Muthiah, R. Tandon, and N. Ramakrishnan
-<br>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM’15)*, Paris, Aug. 2015.
+<br>*IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM’15)*, Paris, Aug. 2015.
 
 *59.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324330"> Time series forecasting via noisy channel reversal </a> </b>
 <br>P. Khadivi, P. Chakraborty, R. Tandon, and N. Ramakrishnan,
@@ -265,31 +265,31 @@ On the Capacity of Leaky Private Information Retrieval</a> </b>
  
 *48.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7308969">Beyond Cut-Set Bounds - The Approximate Capacity of D2D Networks</a> </b>
 <br>A. Sengupta and R. Tandon, 
-<br>Information Theory and Applications Workshop (ITA)*, San Diego, CA, February 2015.  
+<br>*Information Theory and Applications Workshop (ITA)*, San Diego, CA, February 2015.  
  
 *47.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7308977">Exact Repair for Distributed Storage Systems: partial characterization via new outer bounds</a> </b>
 <br>S. Mohajer and R. Tandon, 
-<br>Information Theory and Applications Workshop (ITA)*, San Diego, CA, February 2015.  
+<br>*Information Theory and Applications Workshop (ITA)*, San Diego, CA, February 2015.  
  
 *46.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7028487">New Bounds for Distributed Storage Systems with Secure Repair</a> </b>
 <br>R. Tandon and S. Mohajer, 
-<br>52nd Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2014.  
+<br>*52nd Allerton Conference on Communications, Control and Computing*, Monticello, IL, October 2014.  
  
 *45.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7037163">On the Latency of Heterogenous MDS Queue</a> </b>
 <br>A. Kumar, R. Tandon and T. Charles Clancy, 
-<br>*IEEE GLOBECOM, Symposium on Data Storage, Austin, TX, USA, Dec. 2014.  
+<br>*IEEE GLOBECOM, Symposium on Data Storage*, Austin, TX, USA, Dec. 2014.  
  
 *44.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6956951">Receiver Non-Linearity Aware Resource Allocation for Dynamic Spectrum Access Systems</a> </b>
 <br>A. Padaki, R. Tandon and Jeffrey H. Reed,  
-<br>IEEE Milcom, Baltimore, MD, USA, Oct. 2014.  
+<br>*IEEE Milcom*, Baltimore, MD, USA, Oct. 2014.  
  
 *43.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7094732">Network Aware Spectrum Efficiency Metric for Heterogeneous and Dynamic Radio Environments</a> </b>
 <br>A. Padaki, R. Tandon and Jeffrey H. Reed, 
-<br>48th Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, Nov. 2014.  
+<br>*48th Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, Nov. 2014.  
  
 *42.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6933484">Learning Distributed Caching Strategies in Small Cell Networks</a> </b>
 <br>A. Sengupta, S. Amuru, R. Tandon, R. Michael Buehrer and T. Charles Clancy, 
-<br>IEEE ISWCS, Barcelona, Spain, August 2014.  
+<br>*IEEE International Symposium on Wireless Communication Systems (ISWCS)*, Barcelona, Spain, August 2014.  
  
 *41.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6874825">On Multi-User MISO Wiretap Channels with Delayed CSIT</a> </b>
 <br>R. Tandon, P. Piantanida and Shlomo Shamai, 
@@ -318,11 +318,11 @@ Sydney, Australia, June 2014.
  
 *35.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6881293">Fundamental Limits of Caching with Secure Delivery</a> </b>
 <br>A. Sengupta, R. Tandon and T. Charles Clancy, 
-<br>IEEE ICC (Workshop on Wireless PHY Layer Security)*, Sydney, Australia, June 2014.  
+<br>*IEEE ICC (Workshop on Wireless PHY Layer Security)*, Sydney, Australia, June 2014.  
  
 *34.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6877900">Decentralized Interference Channels with Noisy Feedback Possess Pareto Optimal Nash Equilibria</a> </b> (invited)* 
 <br>S. Perlaza, R. Tandon and H. Vincent Poor, 
-<br>6th International Symp. on Communications, Control, and Signal Processing (ISCCSP 2014)*, Athens, Greece, May 2014.  
+<br>*6th International Symp. on Communications, Control, and Signal Processing (ISCCSP 2014)*, Athens, Greece, May 2014.  
  
 *33.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6934447">Secure Caching with Non Uniform Demands</a> </b>
 <br>A. Sengupta, R. Tandon and T. Charles Clancy, 
@@ -330,7 +330,7 @@ Sydney, Australia, June 2014.
  
 *32.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6804226">Distributed Storage Systems with Secure and Exact Repair - New Results</a> </b>(invited)* 
 <br>R. Tandon, S. Amuru, T. Charles Clancy and R. M. Buehrer, 
-<br>Information Theory and Applications Workshop (ITA)*, San Diego, CA, February 2014.  
+<br>*Information Theory and Applications Workshop (ITA)*, San Diego, CA, February 2014.  
  
 *31.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6831342">Jamming Countermeasures for Multi-User MISO Broadcast Channels - a DoF perspective</a> </b>
 <br>S. Amuru, R. Tandon, R. M. Buehrer and T. Charles Clancy, 
@@ -338,15 +338,15 @@ Sydney, Australia, June 2014.
  
 *30.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6810628">Interference Alignment for MISO Broadcast Channels under Jamming attacks</a> </b>
 <br>S. Amuru, R. Tandon, R. M. Buehrer and T. Charles Clancy, 
-<br>47th Asilomar Conference on Signals, Systems and Computers (Asilomar)*, Pacific Grove, CA, November 2013.  
+<br>*47th Asilomar Conference on Signals, Systems and Computers (Asilomar)*, Pacific Grove, CA, November 2013.  
 
 *29.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6736648">Even Symmetric Parallel Linear Deterministic Interference Channels are Inseparable</a> </b>
 <br>P. Mukherjee, R. Tandon and S. Ulukus, 
-<br>51st Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2013.  
+<br>*51st Annual Allerton Conference on Communications, Control and Computing*, Monticello, IL, October 2013.  
  
 *28.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6735841">MIMO Radar Waveform Design to support Spectrum Sharing</a> </b>
 <br>S. Amuru, R. M. Buehrer, R. Tandon and S. Sodagari, 
-<br>Military Communications Conference (MILCOM)*, San Diego, CA, November 2013.  
+<br>*Military Communications Conference (MILCOM)*, San Diego, CA, November 2013.  
  
 *27.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6620530">Two-user MISO Broadcast Channel: Synergistic Benefits of Alternating CSIT</a> </b>
 <br>R. Tandon, Syed A. Jafar, Shlomo Shamai and H. Vincent Poor, 
@@ -354,15 +354,15 @@ Sydney, Australia, June 2014.
  
 *26.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6483449">The Capacity region of the Linear Deterministic Interference Channel with Partial Feedback</a> </b>
 <br>Le-Sy Quoc, R. Tandon, M. Motani and H. Vincent Poor, 
-<br>50th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2012.  
+<br>*50th Annual Allerton Conference on Communications, Control and Computing*, Monticello, IL, October 2012.  
  
 *25.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6483439">The Nash Equilibrium region of the Linear Deterministic Interference Channel with Feedback</a> </b>
 <br>S. M. Perlaza, R. Tandon and H. Vincent Poor, 
-<br>50th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, October 2012.  
+<br>*50th Annual Allerton Conference on Communications, Control and Computing*, Monticello, IL, October 2012.  
  
 *24.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6328519">On Fading Broadcast Channels with Partial Channel State Information at the Transmitter</a> </b>
 <br>R. Tandon, M.-A. Maddah-Ali, A. Tulino, H. Vincent Poor and Shlomo Shamai, 
-<br>*IEEE International Symposium on Wireless Communication Systems, Paris, August 2012.  
+<br>*IEEE International Symposium on Wireless Communication Systems*, Paris, August 2012.  
  
 *23.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6283623">On X-channels with Feedback and Delayed CSI</a> </b>
 <br>R. Tandon, S. Mohajer, H. Vincent Poor and Shlomo Shamai, 
@@ -388,13 +388,13 @@ Sydney, Australia, June 2014.
 <br>R. Tandon, S. Mohajer, H. Vincent Poor, and Shlomo Shamai,
 <br>*IEEE International Conference on Communications (ICC)*, Ottawa, Canada, June 2012.  
 
-*17.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a> </b> <font color=red size=+0.5><b>(Best Paper Award)*</b></font> 
+*17.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6507243">Discriminatory Lossy Source Coding: Side Information Privacy</a> </b> <font color=red size=+0.5><b>(Best Paper Award)</b></font> 
 <br>R. Tandon, L. Sankar, and H. Vincent Poor,
 <br>*IEEE Global Communications Conference (GLOBECOM)*, Houston, TX, December 2011.
   
 *16.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392280f">On the Feedback Capacity of K-user Cyclic Interference Channel</a> </b>
 <br>R. Tandon and H. Vincent Poor, 
-<br>49th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2011.
+<br>*49th Annual Allerton Conference on Communications*, Control and Computing, Monticello, IL, September 2011.
 
 *15.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6034117">Cascade Source Coding with Erased Side Information</a> </b>
 <br>R. Tandon, S. Mohajer, and H. Vincent Poor,
@@ -410,15 +410,15 @@ Sydney, Australia, June 2014.
 
 *12.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6102322">Competitive Privacy in the Smart Grid: An Information-theoretic Approach</a> </b>
 <br>L. Sankar, S. Kar, R. Tandon and H. Vincent Poor,
-<br>*IEEE International Conference on Smart Grid Communications, Brussels, Belgium, October 2011.
+<br>*IEEE International Conference on Smart Grid Communications*, Brussels, Belgium, October 2011.
 
 *11.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5766230">On the Capacity Region of Multiple-access Relay Channels</a> </b>
 <br>R. Tandon and H. Vincent Poor,
-<br>Conference on Information Sciences and Systems (CISS)*, Baltimore, MD, March 2011.
+<br>*Conference on Information Sciences and Systems (CISS)*, Baltimore, MD, March 2011.
 
 *10.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5707008">Capacity of a Class of Semi-Deterministic Primitive Relay Channels</a> </b>
 <br>R. Tandon and S. Ulukus,
-<br>48th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2010.
+<br>*48th Annual Allerton Conference on Communications, Control and Computing*, Monticello, IL, September 2010.
 
 *9.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5513569">Diamond Channel with Partially Separated Relays</a> </b>
 <br>R. Tandon and S. Ulukus,
@@ -426,7 +426,7 @@ Sydney, Australia, June 2014.
 
 *8.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6399603">Secure Source coding with a Helper</a> </b>
 <br>R. Tandon, S. Ulukus, and K. Ramchandran,
-<br>47th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, Sep. 2009.
+<br>*47th Annual Allerton Conference on Communications, Control and Computing*, Monticello, IL, Sep. 2009.
 
 *7.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5205267">Outer Bounds for User Cooperation</a> </b>
 <br>R. Tandon and S. Ulukus,
@@ -450,11 +450,11 @@ Sydney, Australia, June 2014.
 
 *2.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4797748"> A New Upper Bound on the Capacity of a Class of Primitive Relay Channels </a> </b>
 <br>R. Tandon and S. Ulukus,
-<br>46th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2008.
+<br>*46th Annual Allerton Conference on Communications, Control and Computing,* Monticello, IL, September 2008.
 
 *1.*  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487342"> On Dependence Balance Bounds for Two-Way Channels </a> </b>
 <br>R. Tandon and S. Ulukus,
-<br>41st Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November 2007.
+<br>*41st Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, November 2007.
 
 
 
