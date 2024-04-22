@@ -59,7 +59,7 @@ author_profile: True
   <tr>
     <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/fengwei.jpg" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
-      <p style="font-size: 18px;"><a href="https://www.linkedin.com/in/fengwei-tian-260188ba/">Fengwei Tian</a></p> 
+      <p style="font-size: 18px;"><a href="https://sites.google.com/arizona.edu/fengweitian/home">Fengwei Tian</a></p> 
     </td>
     <td>
       <p>Fengwei Tian started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2022. He obtained his B.S. degree from University of Calgary in 2020 and M.S. degree from University of Pennsylvania in 2022. His research interests include data privacy issues at inference time, and aiming to find a better solution to address the privacy issue at the age of data. </p>
