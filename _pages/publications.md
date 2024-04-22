@@ -4,7 +4,17 @@ title: "Conference Papers"
 permalink: /publications/
 author_profile: True
 ---
+*115.* <a href=" ">Intrinsic Fairness-Accuracy Tradeoffs under Equalized Odds</a> 
+<br>M. Zhong and R. Tandon,
+<br>*IEEE International Symposium on Information Theory*, 2024
 
+*114.* <a href=" ">Communicating Classification Results over Noisy Channels</a> 
+<br>N. Teku, S. Adiga, R. Tandon,
+<br>*IEEE International Conference on Communications*, 2024
+
+*113.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10313425">Learning Fair Classifiers via Min-max F-divergence Regularization</a> 
+<br>M. Zhong and R. Tandon,
+<br>*2023 59th Annual Allerton Conference on Communication, Control, and Computing (Allerton)*, Monticello, IL, September, 2023.
 
 *112.* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10052079">Unsupervised Change Detection using DRE-CUSUM</a>
 <br>S. Adiga and R. Tandon,
