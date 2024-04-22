@@ -35,7 +35,7 @@ author_profile: True
   <tr>
     <td style="width: 18%; padding: 10px; border: none;"><img src="{{site.url}}/images/students/noel.png" width="150px"></td>
     <td style="width: 18%; padding: 10px; border: none;">
-      <p style="font-size: 18px;">Noel Teku</p>
+      <p style="font-size: 18px;"><a href="https://nteku1.github.io/">Noel Teku</a></p> 
     </td>
     <td>
       <p>Noel Teku started the PhD program in the Electrical and Computer Engineering Department at the University of Arizona in 2018. He received his B.S. and M.S. degrees in Electrical and Computer Engineering at the University of Arizona. His research interests include wireless communications, signal processing and machine learning. He interned at Qualcomm in 2023.</p>
