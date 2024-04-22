@@ -6,11 +6,11 @@ author_profile: True
 ---
 *46.* <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10418200"> Generalization Bounds for Neural Belief Propagation Decoders</a> 
 <br>S. Adiga, X. Xiao, R. Tandon, B. Vasić and T. Bose
-<br>*IEEE Transactions on Information Theory*, To be appear.
+<br>*IEEE Transactions on Information Theory*, To be appeared.
 
 *45.* <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473106"> Online Context-aware Streaming Data Release with Sequence Information Privacy</a> 
 <br>B. Jiang, M. Li and R. Tandon,
-<br>*IEEE Transactions on Information Forensics and Security*, To be appear.
+<br>*IEEE Transactions on Information Forensics and Security*, To be appeared.
 
 *44.* <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10159417"> Answering Count Queries for Genomic Data with Perfect Privacy</a> 
 <br>B. Jiang, M. Seif, M. Li and R. Tandon,
